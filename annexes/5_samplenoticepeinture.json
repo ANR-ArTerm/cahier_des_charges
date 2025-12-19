@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "",
+      "role": ""
+    }
+  ],
+  "entry_type": "peinture",
+  "materialsAndTechniques": "huile sur toile",
+  "dateCreated":
+    {
+      "startYear": "",
+      "endYear":"",
+      "text": ""
+    },
+  "holding_institution": {
+    "place":"",
+    "name": "",
+    "inventory_number": "",
+    "URL":""
+  },
+  "related_works": [
+    {
+      "link_type": "",
+      "xml_id_work": ""
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id":0,
+      "url":"",
+      "copyright":"",
+      "caption":"",
+      "storage":""
+    }
+  ],
+  "commentary":"",
+  "history": [
+    {
+      "date": "",
+      "type": "created",
+      "author": ""
+    },
+    {
+      "date": "",
+      "type": "modified",
+      "author": ""
+    }
+  ]
+}
