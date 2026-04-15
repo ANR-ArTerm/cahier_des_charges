@@ -1,0 +1,59 @@
+{
+  "id": "CarracheCrisBologne",
+  "QID_wikidata": "",
+  "title": "Cris de Bologne",
+  "creator": [
+    {
+      "xml_id": "SimonGuillainII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AnnibaleCarracci",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "eau-forte",
+  "dateCreated": {
+    "startYear": 1646,
+    "endYear": 1646,
+    "text": "1646"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "bibliothequenationaleInventaireFondsFrancais17V1968",
+      "location": "p. 150, n°4-83"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454358x/f27/full/full/0/native.jpg",
+      "copyright": "© Source gallica.bnf.fr / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b8454358x/f27.item)",
+      "caption": "Planche n°1 des Cris de Bologne",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.474670",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T11:39:19.792919",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {
+    "link_type": null,
+    "xml_id_work": null
+  }
+}

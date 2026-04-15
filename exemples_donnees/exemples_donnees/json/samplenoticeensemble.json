@@ -1,0 +1,69 @@
+{
+  "id": "LogesVatican",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "",
+      "role": ""
+    }
+  ],
+  "dateCreated":
+    {
+      "startYear": null,
+      "endYear":"",
+      "text": ""
+    },
+  "typology": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "",
+      "xml_id_work": ""
+    }
+  ],
+  "contains_works": [
+    {
+    "link_type": "",
+    "xml_id_work": ""
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id":0,
+      "url":"",
+      "copyright":"",
+      "caption":"Image générale de l'œuvre",
+      "storage":""
+    }
+  ],
+  "description":"",
+  "commentary":"",
+  "history": [
+    {
+      "date": "",
+      "type": "created",
+      "author": ""
+    },
+    {
+      "date": "",
+      "type": "modified",
+      "author": ""
+    }
+  ]
+}
