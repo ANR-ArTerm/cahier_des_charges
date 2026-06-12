@@ -1,0 +1,48 @@
+{
+  "id": "SalaClementinaVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q642466",
+  "entry_type": "building",
+  "title": "Salle Clémentine (Vatican)",
+  "creator": [
+    {
+      "xml_id": "DomenicoFontana",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XVIème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vatican",
+      "country": "Vatican",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-17T16:25:21.269105",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T10:44:37.279752",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "salle",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

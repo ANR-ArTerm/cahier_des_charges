@@ -1,0 +1,43 @@
+{
+  "id": "TempleMinerveRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3983273",
+  "entry_type": "building",
+  "title": "Temple de Minerve à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 85,
+    "endYear": 97,
+    "text": "Ier siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T11:06:31.372908",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:31:17.757612",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

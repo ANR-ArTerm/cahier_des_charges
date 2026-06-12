@@ -1,0 +1,57 @@
+{
+  "id": "RaimondiAretin",
+  "QID_wikidata": "",
+  "title": "Portrait de Pietro Aretino",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Titien",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1520,
+    "text": "vers 1517-1520"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 513 (374)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342704/741470/main-image",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 17.50.40 (https://www.metmuseum.org/art/collection/search/342704)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.469754",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:35:57.038733",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

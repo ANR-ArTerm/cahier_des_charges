@@ -1,0 +1,48 @@
+{
+  "id": "PonteRialtoPalladioVenise",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Pont de Rialto à Venise, Projet du Palladio",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Projet jamais realisé d'Andrea Palladio pour le pont du Rialto à Venise.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:26:17.215424",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T14:53:07.801164",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

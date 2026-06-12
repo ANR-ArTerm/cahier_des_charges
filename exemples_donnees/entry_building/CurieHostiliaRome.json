@@ -1,0 +1,51 @@
+{
+  "id": "CurieHostiliaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1144512",
+  "entry_type": "building",
+  "title": "Curia Hostilia à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -650,
+    "endYear": -52,
+    "text": "entre VIIe et Ie siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.893055555",
+        "longitude": "12.485277777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Curia_Hostilia%2C_Comitium%2C_Rostra_and_Lapis_Niger_layout.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Mark Miller, Domaine Public,(https://commons.wikimedia.org/wiki/File:Curia_Hostilia,_Comitium,_Rostra_and_Lapis_Niger_layout.jpg)",
+      "caption": "Plan de la Curie ancienne et de ces évolutions"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T16:26:30.456063",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:19:18.940382",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

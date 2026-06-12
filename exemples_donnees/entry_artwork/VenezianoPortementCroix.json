@@ -1,0 +1,57 @@
+{
+  "id": "VenezianoPortementCroix",
+  "QID_wikidata": "",
+  "title": "Portement de croix",
+  "creator": [
+    {
+      "xml_id": "AgostinoVeneziano",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1517,
+    "endYear": 1517,
+    "text": "1517"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 28-I (34)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342966/1924344/main-image",
+      "copyright": "Metropolitan Museum of Arts, inv. 49.97.8 (https://www.metmuseum.org/art/collection/search/342966)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.469032",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T10:32:43.941226",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

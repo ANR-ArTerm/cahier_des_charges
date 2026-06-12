@@ -1,0 +1,43 @@
+{
+  "id": "PonteSubliciusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1466700",
+  "entry_type": "building",
+  "title": "Pont Sublicius Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -700,
+    "endYear": -600,
+    "text": "VIIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.888018681",
+        "longitude": "12.47968003"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T11:23:19.272903",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T15:40:33.028971",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

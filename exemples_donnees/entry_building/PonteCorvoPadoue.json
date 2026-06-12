@@ -1,0 +1,51 @@
+{
+  "id": "PonteCorvoPadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1428534",
+  "entry_type": "building",
+  "title": "Pont Corvo à Padoue",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 200,
+    "text": "entre Ier et IIe siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.401814",
+        "longitude": "11.883706"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:51:27.929764",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T13:55:39.468780",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Pont",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

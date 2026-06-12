@@ -1,0 +1,71 @@
+{
+  "id": "HopitalInnocentiFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1257947",
+  "entry_type": "building",
+  "title": "Hopital degli Innocenti Florence",
+  "creator": [
+    {
+      "xml_id": "Brunelleschi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1419,
+    "endYear": 1436,
+    "text": "1419-1436"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "mulazzaniOspedaleInnocentiDi2016",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Spedale_innocenti%2C_veduta_02.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Spedale_innocenti,_veduta_02.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T21:18:21.296430",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T10:17:24.438001",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T14:35:51.998519",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T17:46:38.411148",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Hopital",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

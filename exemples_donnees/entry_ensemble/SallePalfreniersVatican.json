@@ -1,0 +1,35 @@
+{
+  "id": "SallePalfreniersVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3945241",
+  "entry_type": "ensemble",
+  "title": "Salle des Palefreniers",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.329206",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 0
+}

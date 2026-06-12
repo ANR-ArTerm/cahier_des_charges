@@ -1,0 +1,78 @@
+{
+  "id": "MonastereSanChiaritoFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3687238",
+  "entry_type": "building",
+  "title": "Monastère San Chiarito Florence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1343,
+    "endYear": 1656,
+    "text": "1343-1656"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 106-107"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pianta_del_buonsignori%2C_dettaglio_via_san_gallo%2C_parte_alta.jpg",
+      "storage": "online",
+      "copyright": "CC-BY-SA-3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_via_san_gallo,_parte_alta.jpg",
+      "caption": "n. 33"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Via_san_gallo%2C_ex-monastero_delle_mantellate_02.jpg/960px-Via_san_gallo%2C_ex-monastero_delle_mantellate_02.jpg",
+      "copyright": "CC BY 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Via_san_gallo,_ex-monastero_delle_mantellate_02.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-01T14:01:51.418217",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T10:15:25.007554",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T11:04:31.421229",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T09:54:56.245899",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T17:38:55.075724",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monastère",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

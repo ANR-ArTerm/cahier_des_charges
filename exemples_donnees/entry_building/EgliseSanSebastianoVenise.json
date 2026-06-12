@@ -1,0 +1,56 @@
+{
+  "id": "EgliseSanSebastianoVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q588559",
+  "entry_type": "building",
+  "title": "Église San Sebastiano de Venise",
+  "creator": [
+    {
+      "xml_id": "AntonioAbbondi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1550,
+    "text": "1506-1550"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/San_Sebastiano_%28Venice%29_Facade.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Archaeodontosaurus, https://commons.wikimedia.org/wiki/File:San_Sebastiano_(Venice)_Facade.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-28T16:47:11.533736",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:20:33.050253",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

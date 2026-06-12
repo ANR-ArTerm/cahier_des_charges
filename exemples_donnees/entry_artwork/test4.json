@@ -1,0 +1,51 @@
+{
+  "id": "test4",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "test",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-12T11:56:52.062206",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:57:09.701771",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T12:06:00.946424",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T12:06:06.516045",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "materialsAndTechniques": null,
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

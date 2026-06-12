@@ -1,0 +1,45 @@
+{
+  "id": "DaTrentoSibylle",
+  "QID_wikidata": "",
+  "title": "",
+  "creator": [
+    {
+      "xml_id": "AntonioDaTrento",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "gravure sur bois en clair-obscur",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch481983",
+      "location": "n° 7 (90)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.472647",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:12:07.348447",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {}
+}

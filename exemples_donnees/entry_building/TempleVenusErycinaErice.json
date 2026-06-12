@@ -1,0 +1,43 @@
+{
+  "id": "TempleVenusErycinaErice",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q29654127",
+  "entry_type": "building",
+  "title": "Temple de Vénus Erycina à Erice",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "entre VIIe et VIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Erice",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-08T18:39:45.229988",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:45:56.173449",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

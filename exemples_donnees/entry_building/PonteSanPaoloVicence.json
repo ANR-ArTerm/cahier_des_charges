@@ -1,0 +1,51 @@
+{
+  "id": "PonteSanPaoloVicence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q115676310",
+  "entry_type": "building",
+  "title": "Pont Saint Paul Vicence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "deuxième moitié du XIVe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vicence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.54582",
+        "longitude": "11.547117"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ponte_S.Paolo-1.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Claudio Goseffi (https://commons.wikimedia.org/wiki/File:Ponte_S.Paolo-1.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T14:41:41.264600",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T15:02:03.631660",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

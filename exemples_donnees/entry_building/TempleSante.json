@@ -1,0 +1,68 @@
+{
+  "id": "TempleSante",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3983215",
+  "entry_type": "building",
+  "title": "Temple de la Santé",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 306,
+    "endYear": 303,
+    "text": "306-303 av.J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "platnerTopographicalDictionaryAncient2015",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-04T17:07:51.597995",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T17:16:13.037981",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-05T11:16:44.336547",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-09T11:40:55.540391",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

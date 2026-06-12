@@ -1,0 +1,66 @@
+{
+  "id": "ColonneTrajaneRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q192784",
+  "entry_type": "building",
+  "title": "Colonne Trajane",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 113,
+    "endYear": 113,
+    "text": "113"
+  },
+  "typology": "Colonne",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Traijan%27s_Column_2013-2.jpg",
+      "copyright": "Wikimedia Commons, Szilas (https://fr.wikipedia.org/wiki/Fichier:Traijan%27s_Column_2013-2.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-09T15:46:48.424176",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T15:48:51.720910",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-09T15:58:24.604572",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T10:07:41.390131",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:10:21.028770",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

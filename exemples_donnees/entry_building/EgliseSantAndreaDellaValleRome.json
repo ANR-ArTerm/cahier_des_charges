@@ -1,0 +1,73 @@
+{
+  "id": "EgliseSantAndreaDellaValleRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1631593",
+  "entry_type": "building",
+  "title": "Église Sant'Andrea della Valle",
+  "creator": [
+    {
+      "xml_id": "FrancescoGrimaldi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiovanniGiacomoDellaPorta",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloMaderno",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloRainaldi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1591,
+    "endYear": 1663,
+    "text": "1591-1663"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Basilique_Sant_Andrea_Valle_-_Rome_%28IT62%29_-_2021-08-29_-_3.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chabe01, https://commons.wikimedia.org/wiki/File:Basilique_Sant_Andrea_Valle_-_Rome_(IT62)_-_2021-08-29_-_3.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T17:26:21.759202",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-05T18:06:15.821686",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:42:08.710138",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

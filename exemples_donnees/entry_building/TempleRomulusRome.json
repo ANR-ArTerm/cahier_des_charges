@@ -1,0 +1,56 @@
+{
+  "id": "TempleRomulusRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q338397",
+  "entry_type": "building",
+  "title": "Temple de Romulus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 309,
+    "endYear": 309,
+    "text": "Ier siècle après J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.891997",
+        "longitude": "12.487397"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RomaForoRomanoTempioDivoRomolo.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:RomaForoRomanoTempioDivoRomolo.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T13:59:07.219352",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-22T11:12:22.440073",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:38:35.780212",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Temple",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

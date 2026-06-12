@@ -1,0 +1,51 @@
+{
+  "id": "VillaRagonaMontegaldella",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Villa Ragona a Montegaldella",
+  "creator": [
+    {
+      "xml_id": "AndreaPalladio",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1553,
+    "endYear": 1553,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Montegaldella",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T17:31:25.033709",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-10T10:02:06.161064",
+      "type": "modified",
+      "author": "Nicolo"},
+    {"date": "2026-06-10T10:20:47.546989",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

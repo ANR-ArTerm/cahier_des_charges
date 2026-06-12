@@ -1,0 +1,40 @@
+{
+  "id": "TourBabel",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q41213",
+  "entry_type": "building",
+  "title": "Tour de Babel",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-21T15:39:46.884323",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-09T14:17:51.276544",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-10T10:40:12.024770",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

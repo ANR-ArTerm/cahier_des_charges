@@ -1,0 +1,80 @@
+{
+  "id": "MonastereSanLorenzoEscurial",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q28471",
+  "entry_type": "building",
+  "title": "Monastère royal de San Lorenzo de El Escorial",
+  "creator": [
+    {
+      "xml_id": "JuanBautistaDeToledo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JuanDeHerreraDeMaliano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1563,
+    "endYear": 1584,
+    "text": "1563-1584"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "SanLorenzoEscurial",
+      "country": "Espagne",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "kamenEscorialArtPower2010",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg",
+      "copyright": "CC BY-SA 4.0, Zvonimir Stamenov, https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-05T16:01:50.523420",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-10T14:53:45.139661",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T10:03:09.268251",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-10T19:18:53.316830",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T19:18:53.913181",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

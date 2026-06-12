@@ -1,0 +1,58 @@
+{
+  "id": "ParmesanEauforteNativite",
+  "QID_wikidata": "",
+  "title": "Nativité",
+  "creator": [
+    {
+      "xml_id": "Parmigianino",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "eau-forte",
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1540,
+    "text": "1ere moitié du XVIe siècle"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch321979",
+      "location": "n° 3 (7)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP826179.jpg",
+      "copyright": "New York, Metropolitan Museum of Arts, inv. 27.78.2(29) (https://www.metmuseum.org/art/collection/search/391580)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.472823",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:27:43.940033",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-12T11:39:43.268330",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

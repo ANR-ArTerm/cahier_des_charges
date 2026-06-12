@@ -1,0 +1,64 @@
+{
+  "id": "SantaMariaDellAnimaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2140145",
+  "entry_type": "building",
+  "title": "Église Santa Maria dell'Anima",
+  "creator": [
+    {
+      "xml_id": "AndreaSansovino",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiulianoDaSangallo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XVème siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.899713078",
+        "longitude": "12.472154884"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Santa_Maria_del_Anima_I.jpg",
+      "copyright": "Wikimedia Commons, domaine public, Jensens (https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Anima_I.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-05T13:59:17.283553",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T14:20:35.392983",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

@@ -1,0 +1,51 @@
+{
+  "id": "MausoleeTheodoricRavenne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q289427",
+  "entry_type": "building",
+  "title": "Mausolée de Théodoric à Ravenne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 500,
+    "endYear": 600,
+    "text": "VI-VIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ravenna",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mausoleum_of_Theodoric_%28Ravenna%29_-_Exterior.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, ThePhotografer (https://commons.wikimedia.org/wiki/File:Mausoleum_of_Theodoric_(Ravenna)_-_Exterior.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-20T11:06:01.410759",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-02T09:47:31.494034",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "mausolée",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,70 @@
+{
+  "id": "SagrestiaNuovaFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q660876",
+  "entry_type": "ensemble",
+  "title": "La Sagrestia Nuova",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1520,
+    "endYear": 1533,
+    "text": "1520-1533"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique San Lorenzo",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif/lossy-page1-948px-Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif.jpg",
+      "storage": "online",
+      "copyright": "Public Domain, Giacomo Brogi, https://commons.wikimedia.org/wiki/File:Fotografi_di_San_Lorenzo_-_Hallwylska_museet_-_107390.tif?page=1",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T15:07:29.528554",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:08:31.324233",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:29:54.245550",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeTombeauLaurentIIMédicis",
+      "link_types_contained": null
+    },
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeTombeauJulienMédicis",
+      "link_types_contained": null
+    }
+  ],
+  "status_entry": 0
+}

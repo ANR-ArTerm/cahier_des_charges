@@ -1,0 +1,84 @@
+{
+  "id": "TempleArtemisEphese",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q43018",
+  "entry_type": "building",
+  "title": "Temple d'Artémis à Ephèse",
+  "creator": [
+    {
+      "xml_id": "TheodoreDeSamos",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Metagenes",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Chersiphron",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -600,
+    "endYear": -500,
+    "text": "VIe siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Istanbul",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "37.949722",
+        "longitude": "27.363889"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ac_artemisephesus.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Adam Carr (https://commons.wikimedia.org/wiki/File:Ac_artemisephesus.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T15:37:04.068166",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T14:30:28.691910",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:43:39.208009",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:44:41.028128",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T13:36:10.447010",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T16:42:21.995459",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

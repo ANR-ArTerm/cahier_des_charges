@@ -1,0 +1,45 @@
+{
+  "id": "CaraglioPlutonProserpine",
+  "QID_wikidata": "",
+  "title": "Pluton et Proserpine",
+  "creator": [
+    {
+      "xml_id": "GiovanniJacopoCaraglio",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch281985",
+      "location": "n° 22 (76)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "A voir si on le considère comme une série avec des images",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.473189",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T15:27:30.727458",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {}
+}

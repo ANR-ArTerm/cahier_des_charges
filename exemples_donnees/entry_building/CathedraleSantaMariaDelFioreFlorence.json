@@ -1,0 +1,92 @@
+{
+  "id": "CathedraleSantaMariaDelFioreFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q191739",
+  "entry_type": "building",
+  "title": "Cathédrale Santa Maria del Fiore",
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Brunelleschi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AndreaPisano",
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Giotto",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1296,
+    "endYear": 1436,
+    "text": "1296-1436"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "43.773055555",
+        "longitude": "11.256944444"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Catedral%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_91.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Diego Delso, CC BY-NC-SA 4.0 (https://commons.wikimedia.org/wiki/File:Catedral,_Florencia,_Italia,_2022-09-19,_DD_91.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T17:23:00.800648",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-02-23T17:23:25.409914",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-01T10:45:58.832560",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T10:46:08.826753",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T16:07:59.020711",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-02T14:35:18.169940",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

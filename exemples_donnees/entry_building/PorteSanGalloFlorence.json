@@ -1,0 +1,81 @@
+{
+  "id": "PorteSanGalloFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3908786",
+  "entry_type": "building",
+  "title": "Porte San Gallo Florence",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIVe-XVIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "MursdeFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "manettiFirenzePorteDellultima1979",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Porta_San_Gallo_6.JPG/1920px-Porta_San_Gallo_6.JPG",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, TuscanyFirenze01, https://commons.wikimedia.org/wiki/File:Porta_San_Gallo_6.JPG",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T17:23:44.314319",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:26:53.258944",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:30:37.994227",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T17:16:43.767980",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T17:57:10.372896",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T16:51:52.690055",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Murailles",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

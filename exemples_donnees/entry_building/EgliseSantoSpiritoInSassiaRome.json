@@ -1,0 +1,80 @@
+{
+  "id": "EgliseSantoSpiritoInSassiaRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1428488",
+  "entry_type": "building",
+  "title": "Eglise Santo Spirito in Sassia a Roma",
+  "creator": [
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GuidettoGuidetti",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1538,
+    "endYear": 1590,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.901388888",
+        "longitude": "12.461111111"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Santo_Spirito_in_Sassia_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Labicanense (https://commons.wikimedia.org/wiki/File:Santo_Spirito_in_Sassia_-_esterno.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T12:18:18.466033",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-30T14:31:48.747193",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T14:46:19.258417",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T14:47:15.076962",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T14:56:41.543519",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T15:02:16.756855",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

@@ -1,0 +1,58 @@
+{
+  "id": "TimantheSacrificeIphigenie",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Le Sacrifice d'Iphigénie",
+  "creator": [
+    {
+      "xml_id": "Timanthe",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 430,
+    "endYear": 430,
+    "text": "environ 430 av. J.-C."
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "celentanoIngegnositaEsemplareDi2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg/1280px-Sacrifice_of_Iphigenia%2C_from_Pompeii_VI.8.3_peristyle._Naples%2C_Archaeological_Museum_9112_-_01.jpg",
+      "copyright": "CC BY-SA 4.0, BeakheadIntrados, https://commons.wikimedia.org/wiki/File:Sacrifice_of_Iphigenia,_from_Pompeii_VI.8.3_peristyle._Naples,_Archaeological_Museum_9112_-_01.jpg",
+      "caption": "Inconnu, Sacrifice de Iphigenie, 45-79, Pompei, Maison du Poète.",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "Œuvre perdue, à laquelle de nombreux auteurs font référence comme concept, par exemple le fresco de Pompei.",
+  "history": [
+    {
+      "date": "2026-01-13T10:36:49.345763",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-01-13T11:45:21.629618",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T17:15:55.292219",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

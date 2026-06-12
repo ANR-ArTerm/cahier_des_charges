@@ -1,0 +1,66 @@
+{
+  "id": "PorteSantApollonia",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Porte du Monastère de Sant'Apollonia Florence",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1525,
+    "endYear": null,
+    "text": "1525 ca. - 1535 ca."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "ComplexeSantApolloniaFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "davisCosimoBartoliPortal1975",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "",
+      "storage": "online",
+      "copyright": "",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T21:42:50.681498",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-03T17:32:12.876532",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Porte",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

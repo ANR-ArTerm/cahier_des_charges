@@ -1,0 +1,53 @@
+{
+  "id": "TempleDeLaLuneRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2484467",
+  "entry_type": "building",
+  "title": "Temple de la Lune à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "TempleDeSolRome"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T12:32:59.574710",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-11T14:41:37.719939",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T10:36:42.555589",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

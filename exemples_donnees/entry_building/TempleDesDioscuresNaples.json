@@ -1,0 +1,66 @@
+{
+  "id": "TempleDesDioscuresNaples",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3983199",
+  "entry_type": "building",
+  "title": "Temple des Dioscures à Naples",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -400,
+    "endYear": 1700,
+    "text": "entre Ve siècle av. J.-C. et XVII siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Naples",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "EgliseSanPoloNaples"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/ColonneDioscuriNapoli2.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, IISistemone (https://commons.wikimedia.org/wiki/File:ColonneDioscuriNapoli2.jpg)",
+      "caption": "Une colonne du temple sûr la façade de l'église de San Polo",
+      "storage": "online"
+    }
+  ],
+  "description": "Entre le VIIIe et le IXe siècle, le temple a été incorporé dans l'église de San Polo mais a été conservé la façade. En 1688, un tremblement de terre a provoqué l'effondrement de la façade, dont il ne reste aujourd'hui que deux colonnes.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-11T18:06:31.900753",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-19T15:23:53.257755",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-19T15:24:48.869102",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:09:55.961747",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

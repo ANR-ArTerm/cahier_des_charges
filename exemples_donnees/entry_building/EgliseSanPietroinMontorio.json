@@ -1,0 +1,83 @@
+{
+  "id": "EgliseSanPietroinMontorio",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1258576",
+  "entry_type": "building",
+  "title": "Église San Pietro in Montorio Rome",
+  "creator": [
+    {
+      "xml_id": "BaccioPontelli",
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1481,
+    "endYear": 1500,
+    "text": "1481 ca.-1500"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "TempiettoSanPietroMontorioRome"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "vannicelliPietroMontorioTempietto1971",
+      "location": ""
+    },
+    {
+      "zotero_key": "cantatoreSanPietroMontorio2007",
+      "location": ""
+    },
+    {
+      "zotero_key": "gigliComplessoGianicolenseDi1987",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/San_Pietro_in_Montorio_-_esterno.jpg/1280px-San_Pietro_in_Montorio_-_esterno.jpg",
+      "storage": "online",
+      "copyright": "Public Domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T19:01:24.421798",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-11T15:57:40.185918",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T11:53:55.302607",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

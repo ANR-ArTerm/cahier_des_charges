@@ -1,0 +1,75 @@
+{
+  "id": "BasiliqueSantiCosmaDamianoRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q675513",
+  "entry_type": "building",
+  "title": "Basilique Santi Cosma e Damiano",
+  "creator": [
+    {
+      "xml_id": "TorrianiOrazio",
+      "role": "créateur du projet"
+    },
+    {
+      "xml_id": "ArrigucciLuigi",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 500,
+    "endYear": 1700,
+    "text": "entre Ve siècle et XVIIIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.892310932",
+        "longitude": "12.487503021"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basilique_Santi_Cosma_Damiano_-_Rome_%28IT62%29_-_2021-08-25_-_4.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Chabe01, (https://commons.wikimedia.org/wiki/File:Basilique_Santi_Cosma_Damiano_-_Rome_(IT62)_-_2021-08-25_-_4.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T14:12:12.998787",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-22T11:02:27.095288",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-04-23T14:55:50.386751",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T16:45:31.804510",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-05-28T16:49:49.353298",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

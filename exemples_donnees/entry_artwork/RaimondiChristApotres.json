@@ -1,0 +1,53 @@
+{
+  "id": "RaimondiChristApotres",
+  "QID_wikidata": "",
+  "title": "Le Christ et les douze apôtres",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1526,
+    "text": "vers 1516-1526"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n°64-78 (74-78)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://col.rct.uk/sites/default/files/collection-online/b/1/752063-1524571953.jpg",
+      "copyright": "Royal Collection Trust/© His Majesty King Charles III 2022 (https://www.rct.uk/collection/852888/christ-eleven-apostles-and-st-paul-christ-and-twelve-apostles)",
+      "caption": "Le Christ",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.468233",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T11:05:23.136313",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

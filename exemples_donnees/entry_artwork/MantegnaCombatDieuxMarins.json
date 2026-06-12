@@ -1,0 +1,34 @@
+{
+  "id": "MantegnaCombatDieuxMarins",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4024963",
+  "title": "Combat des dieux marins",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.466669",
+      "type": "created",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 0
+}

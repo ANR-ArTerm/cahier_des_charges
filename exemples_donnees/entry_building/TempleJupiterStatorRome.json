@@ -1,0 +1,48 @@
+{
+  "id": "TempleJupiterStatorRome",
+  "QID_wikidata": "TempleJupiterStatorRome",
+  "entry_type": "building",
+  "title": "Temple de Jupiter Statore à Rome",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -750,
+    "endYear": 64,
+    "text": "entre VIIIe siècle av. J.-C. et Ie siècle "
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-12T10:13:01.620922",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-12T10:13:56.661505",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:25:48.184348",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

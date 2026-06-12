@@ -1,0 +1,48 @@
+{
+  "id": "PraxiteleAphroditeCnide",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q618535",
+  "entry_type": "artwork",
+  "title": "Aphrodite de Cnide",
+  "creator": [
+    {
+      "xml_id": "Praxitele",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": -400,
+    "endYear": -326,
+    "text": "IVe siècle avant notre ère"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg)",
+      "caption": "Aphrodite de Cnide. Marbre, copie romaine d'après un original grec de Praxitèle du IVe siècle av. J.-C, Rome, palais Altemps, inv. 8619."
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-18T11:28:26.172592",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-18T11:30:00.939810",
+      "type": "modified",
+      "author": "Pierre"
+    }
+  ],
+  "status_entry": 8,
+  "materialsAndTechniques": "sculpture",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,82 @@
+{
+  "id": "CastelSantAngeloRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q486382",
+  "entry_type": "building",
+  "title": "Château Saint-Ange Rome",
+  "creator": [
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Pinturicchio",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": null,
+      "role": "peintre"
+    },
+    {
+      "xml_id": null,
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 130,
+    "endYear": 1527,
+    "text": "entre IIe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.903044",
+        "longitude": "12.466307"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rome_-_Italy_%28November_2025%29_-_58.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Another Believer (https://commons.wikimedia.org/wiki/File:Rome_-_Italy_(November_2025)_-_58.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "Peintre \"Livio Agresti\" sous 3 noms possibles (Il Ricciutello, Il Ricciutino, Ritius), faut-il tous les mettre ou pas ?",
+  "history": [
+    {
+      "date": "2026-04-30T11:49:43.831962",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-01T09:44:46.315205",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T09:45:45.183049",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T09:51:58.519015",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Chateau",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

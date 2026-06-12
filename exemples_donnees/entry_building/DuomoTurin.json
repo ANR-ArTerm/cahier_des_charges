@@ -1,0 +1,53 @@
+{
+  "id": "DuomoTurin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q958699",
+  "entry_type": "building",
+  "title": "Cathédrale Saint-Jean-Baptiste de Turin",
+  "creator": [
+    {
+      "xml_id": "AmedeoDiFrancescoDaSettignano",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Turin",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-17T16:29:55.575274",
+      "type": "created",
+      "author": "Julia"
+    },
+    {
+      "date": "2026-06-01T11:24:49.856153",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-01T11:24:57.743143",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "cathédrale",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

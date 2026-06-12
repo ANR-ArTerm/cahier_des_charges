@@ -1,0 +1,89 @@
+{
+  "id": "MursdeFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1080815",
+  "entry_type": "building",
+  "title": "Murs de Florence",
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "AntonioDaSangalloIlGiovane",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BernardoBuontalenti",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIVe-XVIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PorteSanGallo"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "manettiFirenzePorteDellultima1979",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Mura_7.JPG",
+      "storage": "online",
+      "copyright": "Public Domain",
+      "caption": "Tracé des murs d'Arnolfo di Cambio"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T17:08:42.676600",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T17:29:05.575026",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T11:36:22.797921",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-04T17:17:22.364947",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T10:13:14.679060",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Murailles",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

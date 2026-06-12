@@ -1,0 +1,97 @@
+{
+  "id": "LouvreParis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
+  "entry_type": "building",
+  "title": "Palais du Louvre",
+  "creator": [
+    {
+      "xml_id": "PierreLescot",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PhilibertDelorme",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JeanBullant",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LouisMetezeau",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacquesAndrouetDuCerceau",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "JacquesLemercier",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LouisLeVau",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CarloViganari",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "ClaudePerrault",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "CharlesLeBrun",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1190,
+    "endYear": 1990,
+    "text": "1190-"
+  },
+  "typology": "Palais",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Louvre_Cour_Carrée_June_2010.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, King of Hearts (https://commons.wikimedia.org/wiki/File:Louvre_Cour_Carrée_June_2010.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:01:42.335789",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-02T09:34:30.120954",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T09:40:03.697566",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {}
+}

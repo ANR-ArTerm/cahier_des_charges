@@ -1,0 +1,53 @@
+{
+  "id": "AncienTempleAthenaPoliasAthenes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q683988",
+  "entry_type": "building",
+  "title": "Ancien temple d'Athéna Polias à Athènes",
+  "creator": [],
+  "dateCreated": {
+    "startYear": -550,
+    "endYear": -480,
+    "text": "entre VIe et Ve siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Athenes",
+      "country": "Grece",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Le temple se dressait entre les sites actuels du Parthénon et de l'Érechthéion. Il fut détruit par les Perses en 480 av. J.-C., durant les guerres médiques.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-05T11:23:26.938615",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T09:28:44.017438",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T09:54:05.201445",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T09:59:29.389936",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

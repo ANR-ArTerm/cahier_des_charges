@@ -1,0 +1,51 @@
+{
+  "id": "TheatrePula",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q474998",
+  "entry_type": "building",
+  "title": "Theatre de Pula",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 100,
+    "text": "Ier siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Pula",
+      "country": "Croatie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_58-63_HDR_PAN.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0 ,Diego Delso (https://commons.wikimedia.org/wiki/File:Anfiteatro_de_Pula,_Croacia,_2017-04-17,_DD_58-63_HDR_PAN.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-29T17:22:35.272831",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-09T11:57:11.077640",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "Theatre",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

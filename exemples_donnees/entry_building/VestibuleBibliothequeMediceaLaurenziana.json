@@ -1,0 +1,91 @@
+{
+  "id": "VestibuleBibliothequeMediceaLaurenziana",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Vestibule de la Bibliothèque Medicea Laurenziana Firenze",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "BibliothequeMediceaLaurenzianaFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "wallaceMichelangeloSanLorenzo1994",
+      "location": "135-186"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 3.0, Sailko (https://upload.wikimedia.org/wikipedia/commons/0/01/Biblioteca_medicea_laurenziana%2C_vestibolo_e_scala_di_michelangelo%2C_03.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Le vestibule constitue l'entrée de la Bibliothèque Medicea Laurenziana, qui fait partie du complexe de la Basilique San Lorenzo.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-20T13:42:00.353520",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-28T10:55:23.603209",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-20T13:50:56.626189",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-29T15:41:35.905795",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-29T15:44:21.619911",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-30T15:36:36.362768",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-09T14:50:17.286295",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "salle",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

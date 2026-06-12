@@ -1,0 +1,94 @@
+{
+  "id": "MonastereSantAgataFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3672246",
+  "entry_type": "building",
+  "title": "Monastère de Sant'Agata FLorence",
+  "creator": [
+    {
+      "xml_id": "AlessandroAllori",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1185,
+    "endYear": 1569,
+    "text": "1185-1569"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "DePaloSAgata",
+      "location": ""
+    },
+    {
+      "zotero_key": "fantozzimicaliSoppressioniConventiFirenze2000",
+      "location": "pp. 66-67"
+    },
+    {
+      "zotero_key": "nenciniSoppressioneEntiEcclesiastici2008",
+      "location": "pp. 202-203"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pianta_del_buonsignori%2C_dettaglio_006_sant%27agata_monastero.jpg",
+      "copyright": "CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Pianta_del_buonsignori,_dettaglio_006_sant%27agata_monastero.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Église conçue par Alessandro Allori.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-16T15:12:58.066749",
+      "type": "created",
+      "author": "Julia"
+    },
+    {
+      "date": "2026-04-08T18:19:09.157634",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-04-09T15:23:53.985095",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-01T13:52:01.381450",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-01T10:13:40.593153",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-02T10:07:30.221651",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-02T14:59:15.962438",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "monastère",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

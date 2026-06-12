@@ -1,0 +1,66 @@
+{
+  "id": "TempiettoSanPietroMontorioRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q12960184",
+  "entry_type": "building",
+  "title": "Tempietto de San Pietro in Montorio à Rome",
+  "creator": [
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1502,
+    "endYear": 1510,
+    "text": "XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.88875",
+        "longitude": "12.46641667"
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie du même complexe architectural",
+      "xml_id_work": "EgliseSanPietroinMontorio"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY 4.0, Labicanense (https://commons.wikimedia.org/wiki/File:Tempietto_di_San_Pietro_in_Montorio.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T17:16:07.172927",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-11T17:27:24.064211",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T16:22:36.641402",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 1
+}

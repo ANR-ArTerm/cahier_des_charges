@@ -1,0 +1,51 @@
+{
+  "id": "GalleriaGiustiniana",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "La Galerie Justinienne ou galleria Giustiniana",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1620,
+    "endYear": 1637,
+    "text": "vers 1620-1637"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T17:46:14.037750",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-09T12:09:18.744716",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T16:15:47.466389",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T16:27:11.811338",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "typology": "collection d'œuvres",
+  "contains_works": [
+    {
+      "link_type": null,
+      "xml_id_work": null,
+      "link_types_contained": null
+    }
+  ],
+  "status_entry": 0
+}

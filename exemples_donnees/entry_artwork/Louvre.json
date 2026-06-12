@@ -1,0 +1,35 @@
+{
+  "id": "Louvre",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1075988",
+  "entry_type": "artwork",
+  "title": "Louvre",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": "",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "",
+      "place": "",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "A REVOIR",
+  "history": [
+    {
+      "date": "2026-01-19T15:25:36.933366",
+      "type": "created",
+      "author": "Julia"
+    }
+  ],
+  "status_entry": 0
+}

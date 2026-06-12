@@ -1,0 +1,66 @@
+{
+  "id": "PantheonRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q99309",
+  "entry_type": "building",
+  "title": "Panthéon",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 112,
+    "endYear": 128,
+    "text": "IIe siècle"
+  },
+  "typology": "Temple",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "marderPantheonAntiquityPresent2015",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Rabax63, (https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.347948",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-22T10:41:12.189098",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T12:16:33.377539",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-11T13:10:52.034769",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 8
+}
