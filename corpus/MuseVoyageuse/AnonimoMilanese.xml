@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../corpus/tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita">Diario del viaggio in Francia</title>
+            <author ref="#AnonimoMilanese">Anonimo milanese</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Arterm</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Diario del viaggio di un anonimo milanese</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+      <div1 n="1" xml:id="C1" type="chapitre">
+            <head>Saint-Antoine-l'Abbaye</head>
+            <p><placeName ref="#SaintAntoineLAbbaye">Santto Anttonio de Viana</placeName>, loco grande come è
+                  <placeName ref="#Gallarate">Gallaratte</placeName>, et in quello loco he la dicta <objectName>giesa
+                  Santto Antonio de Viana</objectName> [...]. La giesa he grande come
+                  <objectName>Santto Celso</objectName> et he molto bella, et ha una bella
+               fazatta.</p>
+         </div1>
+
+         <div1 n="2" xml:id="C2" type="chapitre">
+            <head>Vienne, Eglise des Cordeliers</head>
+            <p>«<placeName ref="#Vienne">Viena</placeName>, città, quale è bella et grande come
+                  <placeName ref="#Pavie">Pavia</placeName>, et he archiepiscopatto; et li passa a cantto il
+                  <placeName>Rodano</placeName>, et de là dil Rodano li he uno loco quale si domanda
+                  <placeName ref="#SainteColombe">Santta Columba</placeName>, ove li sono 3 o 4 belle giese, ma tra le
+               altre la <objectName>giesa de Cordeglieri</objectName> he bellissima et ha il
+               conventto et li inchiostri bellissimi et grandissimi; se li va per un
+                  <objectName>pontte</objectName> quale è sopra il <placeName>Rodano</placeName>, di
+               preda, assay bello.</p>
+
+         </div1>
+
+         <div1 n="3" xml:id="C3" type="chapitre">
+            <head>Beaune, Hôtel-Dieu</head>
+            <p><placeName ref="#Beaune">Beona</placeName>, quale non è città, ma he sottoposta al vescovatto de
+                  <placeName ref="#Autun">Otun</placeName> [...]; gli è anchora uno
+                  <objectName>hospitale</objectName> assay bello, ma non tropo grande, nel quale li
+               è uno loco grande ove li sono lectere 36 per li amalati, zoè 18 per banda, moltto
+               bene ornatte et politte, tutte con sue corttine di tela biancha bella, che sariano
+               honorevelli ad ogni gentilhomo.</p>
+
+         </div1>
+
+         <div1 n="4" xml:id="C4" type="chapitre">
+            <head>Parigi, Notre-Dame</head>
+            <p><objectName>Nostra Dama</objectName> è una bellissima giesa et he longa passi 210 de
+               nostri et larga 70: li sono dui bellissimi et alti et ben grossi campanili, quali
+               loro li domandano le torre di Nostra Dama, et andando di sopra dicti campanili si
+               vede la città benissimo: sono alti scalini 320 [...]. All'intrare de la giesa a man
+               destra li he uno <objectName>Santo Christoforo</objectName> di preda grande
+               fortte.</p>
+
+         </div1>
+
+         <div1 n="5" xml:id="C5" type="chapitre">
+            <head>Gaillon, Castello e giardino</head>
+            <p><placeName ref="#Gaillon">Calion</placeName>, loco picolo come <placeName ref="#Vanzaghello">Venzaghello</placeName>;
+               et li he uno <objectName>palazo</objectName> in forma di forteza, quale fece fare el
+                  <persName ref="#GeorgesDAmboise">cardinale de <placeName ref="#Rouen">Roanno</placeName></persName>. Et loro dicono
+               che per una cosa non troppo grande, la he la più bella di
+                  <placeName ref="#France">Franza</placeName>, et che in <placeName ref="#Italie">Ittalia</placeName> anchora
+               non he così bella cosetta. Il palazo he cosi un pocho altetto et intorno ha una
+               bellissima pianura ben lavoratta, et bona, circondata tutta da monticelli non troppo
+               alti, et ha li fossi intorno molto belli et ben lavoratti, et di dentro tutti muratti
+               di prede vive, grande et belle. Ha due portte: una verso la villa et l'altra verso
+               uno giardino, et in ciaschuna ha uno bellissimo revellino. Dentro si trova una altra
+               porta per la quale si va in la cortte, quale è quadra et he circa a braza 100 per
+               ogni latto et intorni halli portichi bellissimi. Le muraglie sono tutte, et di dentro
+               et di fora, di prede vive bianchissime, quale si usano in quello paese in loco di
+               marmore, et li sono le figure de li imperatori et altri gran capitanei romani et
+               greci et de altri paesi sculpitti de dicte prede et bellissime. Et li sono in quatro
+               cantti de la cortte 4 toriette altte tutte intagliatte mirabilmentte; et glien'è una
+               più grossa de le altre, quale è de marmore tutta ben intagliatta; le altre tre sono
+               de dicta preda. In mezo de la cortte li he una grande et bellissima
+                  <objectName>fontana</objectName> di marmore finae cum sopra molti fanciuli
+               intagliatti in marmore, et butta aqua continua da più di deci cantti et quando si
+               stopa uno certto busso di sotto l'aqua salta alta in su, dritta più di 4 braza. Di
+               sopra li sono moltte camere con i cieli lavoratti mirabilmente et ador[n]atti tutti,
+               et le camere sono foderatte in magiore partte di legnami lavoratti a figure
+               bellissime. Et li hera una bellissima libraria con circa
+               libri 200, tutti in cartta e scripti a mane, e tutti copertti o di brochatto o di
+               velutto, ma sopra tutto le he pur di sopra una <objectName>chiesetta</objectName>
+               facta tutta di marmore, intagliatta et con innumerabile figure di marmore fine che he
+               bella cossa quantto si veda. Et entrando in dicta giesa a man destra li sono <objectName>quelli
+               [quali] sono statti di giesa de la casa di <placeName ref="#Amboise">Ambosia</placeName></objectName>; et da man
+               sinistra <objectName>quelli [quali] sono statti soldatti</objectName>, tutti sculpitti in marmore fino. Et di
+               sotto et di sopra tutte le fenestre dil palazo, quale sono più de l50, hano tutte le
+               <objectName>invidriate bellissime</objectName>, in le quale he depintto per ordine tutto il testamento vechio
+               et novo. Et tutti li uschij quali sono circa a 100 tutti sono di legname intagliatti
+               a figure bellissime; et infine li sono tantte belle cosse che non se ne scrive la
+               mittà: et si crede non se ne faria uno simile a pagare il tutto con scutti,
+               computtato il zardino et muro dil barcho. Atachatto ad esso palazo li he uno
+                  giardino bellissimo, grande come he la corte de
+                  <placeName ref="#Milan">Milano</placeName>, et muratto di muri grossi et alti con bellissimi
+               portici intorno, et in mezo li he un hedifitiotto bellissimo con una
+                  <objectName>fontana</objectName> bellissima di marmore tutta intagliatta; et da
+               uno cantto dil zardino li he uno loco serratto, longo circa a braza 200 et largo
+               circa a braza 30, ove li sono de tutte le sortte de ucelli che si ritrovano, zoè de
+               non raptili. Et poi da quello zardino si usise per una porta et si va in uno
+                  barcho muratto di circuitto de circa a milia 2, quale he
+               bellissimo: gli sono entro boschetti spes[s]i et rari et praticelli et aque, et tutto
+               a la comodittà de li animali; et li sono cervi, caproli, dame, salvagi et domestici,
+               et de tutti li animali terrestri; in mezo li he uno bello edefittio per quello [che]
+               ne ha cura: he cosa bellissima et he discostta da <placeName ref="#Paris">Parixi</placeName> leghe
+               20 et da <placeName ref="#Rouen">Rohanno</placeName>.</p>
+
+         </div1>
+
+      </body>
+   </text>
+</TEI>

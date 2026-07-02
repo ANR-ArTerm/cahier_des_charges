@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../corpus/tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita">Taccuino di viaggio da Parigi a Venezia (14 marzo -- 11 maggio
+               1600)</title>
+            <author ref="#VincenzoScamozzi">Vincenzo Scamozzi</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Edizione critica a cura di Franco Barbieri, Roma e Venezia, Istituto per la
+               collaborazione culturale, 1959</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Viaggio da Parigi in Italia per la via di Nancy scritto da Vincenzo Scamozzi, Musei
+               Civici di Vicenza, Gabinetto disegni e stampe, m.c.42</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+
+      <body>
+         <div1 n="1" type="chapitre" xml:id="C1">
+            <head>Saint-Denis</head>
+
+            <p>[1] Laus Deo, adi 14 Marzo 1600.</p>
+            <p>Arrivassimo a <placeName ref="#SaintDenis">San Dionigi</placeName> terra assai
+               piciola, ma però con fosse, e mura intorno e terrapieni a diffesa delle guerre
+               passate. La terra è assai popolata e con case di mediocre bontà, benchè ne siano anco
+               de rouinate. Ella è posta in sito piano, ha bella campagna seminata, e co' colline
+               quasi a tutte le parti, e bene piantate. Nella pianura corre un fiume, il quale vua
+               molto serpendo co' giri qua, e là. Ha una buona piazza acanto alla quale è la
+               nobilissima <objectName>chiesa di Santo Dionigi</objectName>, e per santità de corpi,
+               e per la memoria de tanti re ivi sepolti; ella è tutta di pietre di mediocre durezza,
+               e d'architettura quasi conforme a <objectName>Nostra Dama di Parigi</objectName>. Vi
+               sono molte <objectName>sepolture</objectName>, e statue de re tanto de marmi, quanto
+               di bronzo; e le più principali le habbiamo notate in margine alla pianta. All'altar
+               maggiore sono reliquie di San Dionigi et altre in altri luoghi.
+               Di cosa segnalata è il tesoro sopra dalla sacrestia tenuto molto diligentemente, in
+               tre grandi armari, dove sono reliquie, croci, mitre, corone, vari pastorali, bastoni
+               egali e simiglianti, le quali sono tutte raccolte nel libro delle Antichità di
+                  <placeName ref="#Paris">Parigi</placeName> come le altre cose singolari. Nel coro
+               è un labro di porfido.</p>
+         </div1>
+
+         <div1 n="2" type="chapitre" xml:id="C2">
+            <head>Meaux</head>
+            <p>[4] IV Giornata il Venerdì a 17 detto [marzo] [...] scendendo abasso entramo ne
+               borghi assai lunghi, dalla costa del colle, ma molto rovinate le case dal corso delle
+               guerre -- così entrammo in <placeName ref="#Meaux">Meaux</placeName>, overo Meo,
+               terra assai grossa, et in sito molto bello, a dove passa la Marna; la qualle le gira
+               in gran parte intorno. E qui è un grandissimo borgo passato il ponte lungo più di 230
+               piedi de sei archi interi di pietra, e duoi co' ponti levatoi, largo piedi 28 con le
+               sponde; i piloni sono pontiti e per i duoi terzi del vano. Fra qualli sono molini con
+               le ruote dell'acqua con i denti; altri ne sono più in giù al medesimo modo. Il fiume
+               diffende molto il maggior borgo parte per corso naturale, e parte da un taglio fatto
+               a mano, e dove è un ponte, e tuttavia vi sono anco le mura tutte a torno; ma però le
+               case sono quasi tutte rovinate come essi dicono perché vi entrarono dentro gli
+               Hugonotti, e la disolaro. In questa terra vi è la <objectName>chiesa
+                  principale</objectName> di assai bella forma in croce, e co' cinque navi, la quale
+               habbiamo disignata in pianta, et in piedi; e perché ella ha i vetri chiari e non
+               coloriti, come tutte le altre chiese, et anco gli archi di dentro altissimi però ella
+               rende molta luce. Le statue de santi da un canto e dall'altro delle porte sono senza
+               testa perché furon rotte da gli Hugonotti. Discosto miglia 12 si cava ne monti
+               l'alabastro bianco come marmo assai duro, e bello, e de pezzi assai grandi e lunghi;
+               del quale io ho vedutte statuette da un piede e mezo le quali le vendono quattro
+               scudi d'oro l'una.</p>
+         </div1>
+
+         <div1 n="3" type="chapitre" xml:id="C3">
+            <head>Montceaux-en-Brie o les Meaux e La Ferté sous Jouarre</head>
+            <p>[4] V. Giornata di Sabbato a 18 detto [marzo] [...] [7] giognessimo a
+                  <placeName>Monsiau</placeName>
+               <objectName>castello</objectName> di sua Maestà, e co' molte fabbriche fatte da nuovo
+               a instanza di <persName>Madama la duchessa di Belfor</persName>: del quale ne è il
+               disegno passato; dove smontassimo e lo vedessimo assai commodamente. La parte di mezo
+               contiene le scale in duoi rami come ordinario della maggior parte delle migliori case
+               di <placeName ref="#France">Francia</placeName>; a destra e sinistra duoi salotti di
+               tre finestre, e poi una bella stanza; ma su gli anguli una stanza, e picciolo
+               camaretto, che dicono gabinetto, co' scale secrete a bando da un lato e una lunga
+               galleria de piedi 120, larga p. 17, et alta 15, con 12 finestre o lumi. D'intorno [8]
+               è una larga strada e negli estremi due rottonde assai ornate; più abasso sono i
+               giardini molto lunghi e larghi; nella quale altezza sono tutto oltre officine e
+               luoghi da servizio in volto. Questa fabbrica ha assai del buono, e meglio sarebbe se
+               non havesse una picciola entrata, e due finestre da lati assai ristrette.</p>
+            <p>[...] arrivassimo alla <placeName ref="#FertéSousJouarre">Frate sou Loiro</placeName>, terra mediocre acanto
+               alla Marna, anzi meza di qua, e parte di là, doue ella è molto larga, e con una gran
+               correntia; il <objectName>ponte</objectName> parte di legno, e parte di pietra: ma
+               però non è notabile -- Ha parimente un <objectName>castello</objectName>, ma tutto
+               distrutto, e parimente molte case rovinate; è terra non molto forte, nè molto
+               popolata, nè di trafico, se bene sopra a questo fiume. Quello che ha di
+               consideratione è che questi colli producono pietre durissime di color bianco, e misto
+               di qualche gialletto, e rossiccio quasi come focaie, delle quali ne cavano
+               grandissima quantità de macine da molini di cinque e sei piedi, e molto grosse; e se
+               ne veggono alla ripa in numero di cento e più. Qui le imbarcano e conducono a
+                  <placeName ref="#Rouen">Roan</placeName>, et altroue giù per la riviera, e forsi a
+                  <placeName ref="#Paris">Parigi</placeName>. Per la stanchezza de cavalli, e per
+               esser grandissimo vento maestrale, si fermassimo tutta la Dominica in questo luogo;
+               ma si usciva puoco di casa.</p>
+         </div1>
+
+         <div1 type="chapitre" n="4" xml:id="C4">
+            <head>Chalons sur Marne</head>
+            <p>[10] XI.^a^ Giornata il Venerdì a 24 Marzo partissimo da
+                  <placeName>Esperne</placeName> et andassimo a <placeName ref="#ChalonsenChampagne">Chalon</placeName>, overo
+               Cyalon [...] città assai granda e inondatta dalla Marna, e co' più rami, che le va
+               dentro. [...] Il sito dove è posta questa città è tutto piano, con le fosse profonde
+               ed acqua corrente, oltre alle quali sono terrapeni molto alti, e grossi, sopra a
+               qualli sono le mura di pietre bianche tenere, e come di color di gesso da sarto, e
+               pur co' balestriere e simili diffese, benché co' alcuni torrioncini tondi, qualche
+               bellouardo grande e tondo; e dove è più campagna con la acqua, hanno fatto alcuni
+               cavalieri di terra, nel tempo delle guerre passate, mentre ella stete neutrale
+               dicendo che non si voleva dare ad altri, che a quello [11] di <placeName
+                  ref="#France">Francia</placeName>. Ella circonda due miglia e meza, e forsi anco
+               tre. La forma sua ha del ovato, benché da un fianco tenda assai al retto; la Marna le
+               spande ad una delle parti: in modo che non è possibile accostarsi ad essa. Sopra al
+               fiume dove sono i ponti sono anche alquanti molini da macina; è assai habitata e può
+               havere da XII milla persone. Le donne hanno bellissimo sangue e vestono assai bene
+               co' facciuoli in testa appuntati in fronte e nelle tempie. Ha molte chiese. Ma due
+               sono principali, cioè <objectName>Nostra Dame</objectName>, e poi <objectName>San
+                  Schien</objectName>, overo san ... delle quali ne habbiamo fatto le piante per
+               esser l'una co' i portici sopra alle seconde navi, come a <objectName>Nostra Dama di
+                  Parigi</objectName>, e l'altra di assai bella pianta. La città è habitata da ogni
+               sorte di persone fra quali sono alcuni principali cittadini. Ella ha piazza, e
+               pescaria assai buona, et ha quasi ogni cosa più necessaria; le case sono parte di
+               mura de pietre quadrate o gialastre, overo bianchicie, ma queste sono tenerissime:
+               dimodoché si tagliano facilmente; le case minori sono de legnami in piedi e poi
+               rimurate fra essi di sassi. Coprono tutte le case con coppi come da noi nella
+                  <placeName ref="#Lombardie">Lombardia</placeName>; e qui è da notare che tutti i
+               coperti sono piani più de nostri, di modo che non è vero che per il paese, ma per la
+               qualità della materia principalmente, che sono le acquarie piane, l'arduosa, e
+               simiglianti fano coperti acuti. Usano di murare con terra che tiene del gesso bianca,
+               come la malta; ma però non fa buona presa, perché si vedono le case che facilmente
+               rovinano, vero è che ad essi torna molto sparagno, oltre che non hanno ivi d'intorno
+               pietre dure per far calcina. Le sudette chiese come alcune altre sono fatte di pietre
+               alquanto gialastre di honesta durezza, ma di grana grossa, e ruvide; e col tempo
+               vengono nericcie. Per le dette chiese si veggono lastre, e coperti, di sepolture de
+               varie sorti di pietre nobili: come pascagoni neri, altre marmori bianchi, altre sorte
+               che immitano molto la pietra histriana gialetta, et altre d'altre sorti; ma dicono
+               che son condotte per acqua, e per mare d'altrove.</p>
+            <p>La materia de che è murata l'una e l'altra chiesa è malta co' qualche poco di
+               calcina: ma il resto terreno aspro, in modo di sabbia; et altrove si veggono le
+               fissure dove è uscita la terra, segno della poca fortezza, e tenacità. Le chiese
+               hanno gran spalle, e massime quella di <objectName>nostra Dama</objectName> co'
+               pilastri, et archi che fano contra forti ad alto della nave di mezzo. Questa chiesa
+               ha duoi campanili coperti de arduosa alti, e d'assai bella altezza, et a piramide
+               acuta. Vi è anco una torre da sé sola, e co' varij lumi, et apriture; ma però non ne
+               ho fatto disegno per la fretta, et anco per esser opera non molto forte: ma solo per
+               una certa vaghezza che queste cose fanno a quelli che le veggono di lontano.</p>
+         </div1>
+
+         <div1 xml:id="C5" type="chapitre" n="5">
+            <head>Vitry-le François</head>
+            <p>[14] XIII.^a^ Giornata la Domenica a 26 Marzo [...] Così passando un miglio entramo
+               all'Avemaria in <placeName ref="#VitryLeFrancois">Citrì lo Fràciò</placeName>, luogo
+               cinto di mura, e fosse, co' acqua; ha le contrate assai dritte, e larghe, e bene
+               ripartite; ma le case basse, ineguali, e semplici, più di legno che di mura; et
+               invero è luogo assai povero. E qui smontassimo nella miglior hosteria acanto alla
+               piazza, e più oltre la chiesa. La piazza è quadrata, per un verso larga piedi 300 a
+               faccia e linea di Greco, et Affrico, e da Siroco e Maestro piedi 320. Ha le strade
+               principali in croce, et altre quattro negli angoli, et è bellissima piazza saliciata
+               tutto intorno ma non nel mezo. La terra è di forma quadrata co' terrapieni, e fosse,
+               e mura di terra; la Marna corre dal lato che guarda a Maestro dove sono macine. Ella
+               può circondare circa due miglia in luogo piano, et ha tre porte; cioè l'una a Greco
+               di dove entrassimo, la seconda a Maestro sopra la Marna, la terza ad Affrico dove
+               uscimo. La Marna viene XII leghe piu su, e non si navica qui vicino; ella è di
+               mediocre longhezza ma corre tosto. I tetti sono piani, e quasi tutti al modo
+               lombardo. Non vi è altra cosa notabile perché questa terra fu principiata già 50
+               anni, e però è molto cosa nuova [...].</p>
+         </div1>
+
+         <div1 n="6" type="chapitre" xml:id="C6">
+            <head>Bar-le-Duc</head>
+            <p>[16] XV.^a^ Giornata, il Martedì a 28 Marzo. [...] se avicinamo alla terra de
+                  <placeName ref="#BarLeDuc">Barrì</placeName> et entramo a una hora e meza nel
+               borgo assai lungo, e continouato di buone habitationi, e così passamo dentro alle
+               mure della terra a luce di luna; questa è la prima terra di <placeName
+                  ref="#Lorraine">Lorena</placeName>, alle frontiere della <placeName ref="#France"
+                  >Francia</placeName>, ossia della <placeName ref="#Champagne"
+                  >Ciampagna</placeName>. Cosi salimo ad alto; si entrò nel
+                  <objectName>castello</objectName> a lume de torci, e dato honoreuolissimo
+               aloggiamento all' Ill.mo Sig.or Ambas.or e poi a tutti i gentilhuomini e noi ancora
+               fussimo ancommodati nelle case de' particolari, co' buonissime habitationi, facendo
+               tutto a spese publiche dell'Altezza del Sig.or Duca. E qui si fermamo per far le
+               santissime feste della Pasqua. E discosta da <placeName>Chansine</placeName> questa
+               terra ha un ramuscello d'acqua, e per la valle scorre il fiume maggiore è nominato
+               Ornein. Quanto alla terra ella ha un gran circuito di mura ad alto di un colle, le
+               quali chiudono un castello con molti buoni alloggiamenti,e gallerie, co' giardini, e
+               principalmente ha una <objectName>chiesa</objectName> dove officiano Canonici co'
+               habito come i nostri, cosa non più veduta da me nella <placeName ref="#France"
+                  >Francia</placeName>. In questa chiesa sono alcune
+                  <objectName>sepolture</objectName> di persone grandi, e fra l'altre una cancellata
+               di ferro ad imitationi di quelle de Re a <placeName ref="#SaintDenis">San
+                  Dionigi</placeName>. Alla sinistra del choro è una capella assai granda, ornata di
+               molte colonne co' risalti e doppie cornici; ma quello, che mi è piacciuto è la
+               materia di che sono fatte le colonne, et anco le cornici, cioè de una pietra assai
+               bianca e di grana molto minuta, la quale prende il lustro mirabilmente. Le base sono
+               de alcune pietre come marmo misto, ma melanconico; vero è che l'opera è molto ben
+               lavorata: vi sono anco alcune figure, e duoi animali gettati a terra di assai buona
+               maniera.</p>
+         </div1>
+
+         <div1 type="chapitre" n="7" xml:id="C7">
+            <head>Toul</head>
+            <p>[18] XXII^a^. Giornata il Martedì, a 4. Aprile [...] si entrò in Tul, overo
+                  <placeName ref="#Toul">Toul</placeName>, che latinamente chiamano Tullum. La quale è
+               circondato di convenevoli mura, e fosse, e può girar a circa un miglio e mezo. Ha
+               strade assai belle, tutte saliciate e nette, e vi sono molto honorevoli habitationi e
+               massime di Sig.ri Canonici di <objectName>San Steffano</objectName>, la qual chiesa è
+               forse da paragonare ad alcune delle principali de altre città maggiori, et ha
+               Vescovato co' entrata di 30 millia scudi compartiti fra il Clero. Ha molte reliquie
+               de santi e dell'acqua benedetta di 600 anni; la sopra posta pianta è della chiesa, e
+               qui all'incontro la facciata, e il di dentro. I primi archi sono alti 3 quadri, e
+               così i lumi superiori: dimodoché mostrano grandissima sveltezza; le colonne sono
+               tonde, e co' quattro colonnine sopra poste; le vetriatte sono quasi tutte bianche de
+               cristali; la facciata co' campanili è molto ornata de statue
+               et altri loro ornamenti, e massime intorno alle porte. Gli aloggiamenti dell'Ill.mo
+               Sig.or de <persName>Vademonte</persName> e quello dell'Ill.mo Sig.or Amb.or furono
+               vicini l'uno al altro a lato della detta chiesa, e noi tutti fussimo alloggiati molto
+               nobilmente in altre case vicine de Canonici, co' stanze adobbatissime e fussimo
+               trattati molto nobilmente e tutto a spese publiche.</p>
+         </div1>
+
+         <div1 type="chapitre" n="8" xml:id="C8">
+            <head>Nancy</head>
+            <p>[22] XXIII^a^. Giornata il Mercordì a 5 Aprile [...] [23] entrassimo a
+                  <placeName ref="#Nancy">Nancy</placeName> città di honesta e convenevole grandezza; ma in vero
+               con fosse, ampie e profonde, e circondata di muraglie, e belluardi fatti all'uso
+               moderno con diffese, e offese molto ordinate; così passando per la strada principale,
+               oltre alla quale a man sinistra trovassimo il <objectName>palazzo di sua
+                  Altezza</objectName>, e così entrati co' le carrozze in un largo e spacioso cortile, e smontati,
+               salimo le scale, e pervenuti in una lunga, e larga galleria
+               dove era l'Altezza del Sig.or Duca, et l'Eccellenza del Principe suo maggior
+               figliuolo fu racolto l'Ill.mo Sig.or Amb.or con Mosiu de <persName>Vademon</persName>
+               minor figliuolo, e tutti questi signori. Così scostati da parte i primi, tutti noi
+               altri stando fermi per buon spacio, alla fine fu assegnato un partamento di stanze
+               fornite de honorevolissime tapezarie et altre supeletili piu vicine alla galleria; ma
+               tutti i primi gentilhuomini co' il Sig.or secretario <persName>Patavini</persName>
+               furono aloggiati commodissimamente dal Sig.or Cavalier <persName>Verdelli</persName>
+               cremasco, e gentile Cavalier, e così io ebbi stanza co' medesimo ivi vicino per
+               maggior commodità di mangiar seco.</p>
+            <p>Descritione particolare delle cose occorse in <placeName ref="#Nancy">Nancy</placeName>.</p>
+            <p>[24] Questa città è posta in luogo alquanto ellevato dalla campagna, e pendente verso
+               la riviera, e perciò non vi si può far passare l'acque del fiume; ma si servono de
+               acque di fontane, essendone una nella strada, et altre in luoghi accomodati, come
+               anco nelle case de' particolari, oltre quelle de' pozzi.</p>
+            <p>La <objectName>fortezza</objectName> può girare più di un miglio e meza, ma la parte
+               fatta di mura è quella verso la riviera e da capi. La forma sua è varia, e però li
+               bellouardi perfetti, e vecchioni come a <placeName>Giavarino</placeName> presso al
+               castello, et altrove piate forme. Le mura sono de mattoni nella parte di fuori, et
+               alcune pietre vive, messe per ordine interzate come a quadri puliti un lungo e un
+               corto; di dentro sono speroni a dente, cioè larghi verso il terreno, e stretti dove
+               si congiungono alla mura. Da l'uno all'altro sono archi e volti e sopra muratura di
+               buona altezza; i terrapieni sono fatti co' terreno e frasche di legno forte, ogni
+               piede e mezo, e sono conservati già cinque anni che ella fu principiata. Sopra le
+               mure è un orlo in volta tondo, ogni tanti piedi e riempito di terreno, et il
+               parapetto de' quattro piedi commodo per uso dell'arcobuso. I bellouardi alcuni hanno
+               due piazze, altri una sola; e le fosse hanno l'acqua viva. Resta ancora le fosse, e
+               mure vecchie con torrette tonde; ma più in dentro delle mura nuove.</p>
+            <p>Il <objectName>palazzo</objectName> oltre un bel cortile spianato di terreno per uso
+               della cavalleria, o carri, e carrozze, che non facciano risuono, dalla parte verso la
+               strada, e mezodì è la galleria a levante, la salla nel mezo,
+               e sul'angulo della strada stanze per Sig.ri forestieri, l'angulo a Greco levante per
+               le stanze di sua altezza, e sopra a queste quelle della Altezza della
+                  <persName>duchessa de Barri</persName> sorella della Maestà del Re di
+                  Francia, et al lato a tramontana e sopra a
+                  giardini pur nel secondo piano le stanze del
+                  <persName>duca de Barri</persName>, suo maggior figliuolo, congiunte a quelle
+               della moglie. Sotto a quelle sono le stanze di Mons.or Ill.mo Cardinale ... secondo
+               genito, il quale patisce assai la gotta. E qui acanto sono le stanze dell'Ill.mo
+               Sig.or <persName>conte de Vademonte</persName>, generale delle gente oltramontane per
+               la Ser.ma Sig.a di <placeName ref="#Venise">Venezia</placeName>; ma questi appartamenti tirano allo
+               in là e sopra a giardini, i quali si estendono sino alle mura, lasciando solo una
+               strada coperta de sei piedi, et alta un huomo e mezo per dove vanno liberamente le
+               sentinelle giorno e notte.</p>
+            <p>Alla parte di Ponente sono poi le stanze, concesse all'Ill.mo Sig.or Ambas.or e piu
+               là di capo alla galleria è una buona sala dove mangiano i gentilhuomini, et ancor io
+               per ordinario; oltre alla quale è una sala in volta e depinta, che per ordinario
+               serve per guardarobba, co' cassoni intorno, ma però al tempo opportuno serve anco per
+               far barriere e feste: ella è lunga 112 piedi larga quaranta, e sotto volta leggiera
+               circa 34.</p>
+         </div1>
+
+         <div1 type="chapitre" n="9" xml:id="C9">
+            <head>Saint-Nicolas-de-Port</head>
+            <p>XXXIX^a^. Giornata il Martedì, a XI d'Aprile 1600 [...] giognessimo a <placeName ref="#SaintNicolaDePort">San
+                  Nicola</placeName> borgo molto grande, e quasi in forma de una buona terra. Egli è
+               posto in luogo alquanto rilevato, ha acanto il fiume o riviera
+                  Mu overo Muse, dove è un
+                  <objectName>ponte</objectName> assai lungo. Il borgo è molto habitato, e vi sono
+               case molto commode, e fussimo aloggiate in un casamento co' cortile, e sale, e stanze
+               molto commodamente; e vidi le tavole della sala lunghe 50 piedi e tutte d'un pezzo,
+               di larghezza pressa un piede. Tutte le fabriche sono de legnami bianchi, come sapini,
+               abieti, e simiglianti. In questo borgo è una bella <objectName>chiesa</objectName>
+               tutta de pietre assai dure, e di color bianco tendente al bruno, e col tempo
+               divengono più nere: hanno la grana grossa, e ruvida. La facciata co' i duoi
+                  campanili è assai differente da qualche altra, de questi
+               paesi, e però io ne ho fatto la pianta, e la facciata. Ella è molto luminosa si per
+               le molte e gran fenestre come anco la maggior parte de' vetri sono cristalli piani a
+               quadrati a mandola, come usanza della <placeName ref="#Lorraine">Lorena</placeName> e della
+                  <placeName ref="#France">Francia</placeName>. In questa chiesa sono molte reliquie come un
+               braccio di <persName>San Nicola</persName> il quale ne fu mostrato, et altre diverse.
+               Ella è molto bene tenuta, et ufficiata e in questo luogo concorrono molti per la
+               divotione di quel Santo, e qui acanto sono botteghe di corone, et altre cose, come
+               altri artificij, per uso proprio e de forestieri.</p>
+         </div1>
+
+         <div1 type="chapitre" n="10" xml:id="C10">
+            <head>Fraize</head>
+            <p>[32] XXXII.^a^ Giornata il Venerdì a 14 aprile [...] [33] [...] passamo per
+                  <placeName ref="#Fraize">Fras</placeName> villa di mediocre grandezza e posta in buona pianura,
+               e valle assai fruttifera, e con colli de varie altezze parte seminati, e parte
+               boschi. [...]</p>
+            <p>Qui vicino è una fucina da collare minera[li] di ferro,
+               argento e piombo, la quale andassimo vedere. Sotto una gran coperta è fatta di pietre
+               negre una fornace quadra, assai lunga, e larga, e di buona
+               altezza; di dietro ha duoi mantici levati per forza de una ruota da acqua, co'
+               lenguelle nel fuso al denanzi della fornace a piano terra e un forame dove portano il
+               carbone, e parimente la materia minerale pesante, e di color di ferro, con qualche
+               scintilla per dentro. Qui a piano è come una conca dove esce la spiuma e terra, e
+               sotto resta la materia liquefatta, la quale vano levando; e più in qua, e basso è una
+               altra conca dove per un piciolo canaletto scorre il piombo liquefatto, dal quale poi
+               cavano un'altra volta qualche poco d'argento. Oltre alla valletta è luogo dove cavano
+               la materia minerale in varij luoghi.</p>
+         </div1>
+
+      </body>
+   </text>
+</TEI>

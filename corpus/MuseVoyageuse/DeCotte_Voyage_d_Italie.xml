@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../../corpus/tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="fra">Voyage d'<placeName ref="#Italie">Italie</placeName>
+    </title>
+    <author ref="#RobertDeCotte">Robert de Cotte</author>
+   </titleStmt>
+   <publicationStmt>
+    <p/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl/>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+   <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <div1 n="1" type="chapitre" xml:id="C1">
+    <head> Relation du séjour de <placeName ref="#Venise">Venise</placeName> (<date
+      when="1689-12-22">22 décembre 1689</date> - <date when="1690-01-14">14 janvier 1690</date>) </head>
+    <p> « Après [avoir descendu le Pô depuis <placeName ref="#Ferrare">Ferrare</placeName>], nous
+     continuâmes notre route, toujours en gondole, jusqu'à <placeName ref="#Venise"
+      >Venise</placeName>, où nous arrivâmes le 21 décembre à une heure de nuit. Le lendemain 22
+     [décembre], nous allâmes saluer <persName ref="#DenisDeLaHaye">Mr de la Haye</persName>,
+     ambassadeur pour le Roi , et lui présentâmes une lettre que <persName
+      ref="#CharlesDAlbertDAilly">Monsieur de Chaulnes</persName> lui avait [écrite] en notre
+     faveur, après quoi nous visitâmes pendant 25 jours cette ville. <placeName ref="#Venise"
+      >Venise</placeName> est située au fond de la mer Adriatique, dans le milieu de marais que l'on
+     nomme lagune. Cette ville est longue, étroite du côté du levant, qui est [le] côté où est
+     l'église de <objectName ref="#SanPietroCastelloVenise">Saint-Pierre</objectName> qui en fait
+     l'extrémité . De l'autre côté, à l'autre bout, au ponant, elle est fort large. La longueur [de
+     la cité] se présente au golfe et fait face au midi. Cette ville, comme j'ai dit, est au milieu
+     de grandes plaines d'eau à perte de vue, ce qui fait qu'en tout temps, l'on n'y peut arriver
+     qu'en gondole ou [en] barque. Cette ville n'a aucune muraille ni forteresse, étant ouverte de
+     toutes parts, sa situation la mettant défendue [et] hors d'état d'être insultée. Toutes les
+     rues sont autant de canaux qui sont plus ou moins larges [et] qui se rendent tous dans un grand
+     canal qui traverse en serpentant [dans] le milieu de la ville. [C]e canal est extrêmement large
+     et profond, bordé des plus beaux palais et maisons. La mer a son flux et reflux qui fait
+     qu'elle remonte d'environ trois pieds de haut, ce qui fait qu'en hiver, les canaux d'une partie
+     de [la] ville sont à sec pendant quelques heures de jour, mais cet inconvénient ne se trouve
+     pas en été où la mer est plus haute et je n'en puis savoir la raison. L'on ne laisse pas
+     d'aller par toute la ville à pied, y ayant quantité de petites rues fort étroites et des ponts
+     pour communiquer qui sont fort fréquents et dangereux, n'ayant qu'un parapet d'un côté. La
+     ville est remplie de plusieurs places. Celle de <objectName ref="#PlaceSaintMarcVenise"
+      >Saint-Marc</objectName> est la plus belle et la plus grande, les autres [étant] petites et
+     irrégulières. Toutes les rues sont pavées de briques sur le champ et en losange . Les maisons
+     [sont] bâties de pierres de taille dures et [de] briques et sont couvertes de tuiles rondes. Il
+     y a grande quantité de palais dont les façades sont bâties de marbre et sont décorées
+     d'architecture d'assez bonne manière, entre autres ceux des seigneurs <objectName
+      ref="#CaPesaroVenise">Pesaro</objectName> et <objectName ref="#PalazzoGrimaniSanLucaVenise"
+      >Grimani</objectName> sur le Grand Canal, qui sont ornés magnifiquement. Tous les palais sont
+     presque faits d'une même distribution , ayant par bas un grand vestibule après vous qui [a]
+     trois fois la largeur, perçant sur deux rues. Les vestibules sont décorés de colonnes et
+     pilastres qui portent des voûtes. À droite ou à gauche sont des logements et un grand escalier
+     qui vous conduit à une salle au-dessus du vestibule. Cette salle vous dégage toutes les
+     chambres . Il y a plusieurs étages l'un sur l'autre . Il y a grande quantité d'églises. Les
+     plus belles sont celles de <objectName ref="#BasiliqueSanGiorgioMaggioreVenise">Saint-Georges
+      le Major</objectName> , le <objectName ref="#RedentoreVenise">Rédempteur</objectName> et
+      <objectName ref="#SanSalvadorVenise">Saint-Salvator</objectName>, qui sont du dessin de
+      <persName ref="#AndreaPalladio">Palladio</persName> , d'autres modernes comme la <objectName
+      ref="#SaluteVenise">Salute</objectName> et <objectName ref="#SantaMariaScalziVenise"
+      >Sainte-Thérèse</objectName> et <objectName ref="#SanGeminianoVenise">une autre
+      petite</objectName>, au fond de la place Saint-Marc, qui sont d'assez bonne manière . Il se
+     voit quantité de beaux tombeaux de marbre dans chacune de ces églises, ayant [levé] des dessins
+     et mémoires des meilleures choses.</p>
+    <p> La <objectName ref="#PlaceSaintMarcVenise">place Saint-Marc</objectName> est sur le rivage
+     du côté du golfe. Cette place n'est pas régulière mais elle ne laisse pas d'être fort belle.
+     Elle est ouverte du côté de la mer, ayant d'un côté le <objectName ref="#PalaisDogesVenise"
+      >vieil palais</objectName> avec l'<objectName ref="#BasiliqueSaintMarcVenise">église de
+      Saint-Marc</objectName>, qui est d'une manière gothique, et de l'autre la <objectName
+      ref="#ZeccaVenise">Monnaie</objectName> et <objectName ref="#BibliothequeMarcianaVenise"
+      >Bibliothèque</objectName>. Cette <objectName ref="#PlaceSaintMarcVenise">place</objectName>
+     [fait] retour à gauche et forme comme une autre grande place qui cependant n'en fait qu'une .
+     Au côté gauche sont les <objectName ref="#ProcuratiesVenise">logements des Procurateurs neufs
+      et de l'autre côté des Procuraties vieilles</objectName> [et de] plusieurs particuliers. Le
+     bâtiment où sont les <objectName ref="#ProcuratiesVenise">Procuraties</objectName>, <objectName
+      ref="#BibliothequeMarcianaVenise">Bibliothèque</objectName> et <objectName ref="#ZeccaVenise"
+      >Monnaie</objectName> est moderne, du dessin de <persName ref="#JacopoSansovino"
+      >Sansovino</persName> . Toutes les façades sont de marbre et bien décorées. Le <objectName
+      ref="#PalaisDogesVenise">vieil palais</objectName> faisant face sur la première place d'un
+     côté, de l'autre [sur] la mer et de l'autre sur un canal et par l'autre bout tenant à
+      l'<objectName ref="#BasiliqueSaintMarcVenise">église</objectName>. L'on entre par plusieurs
+     endroits dans une grande cour où il y a plusieurs escaliers. Dans le corps du bâtiment, un
+     autre escalier, appelé l'<objectName ref="#ScalaGigantiVenise">escalier des
+     Géants</objectName>, [est] en saillie dans la cour [et] se présente en face de la principale
+     entrée du côté de la place. Ce degré est fort large et doux à monter, ayant bien 15 pieds de
+     marche. Cela conduit dans une galerie au-dessus de celle qui est au rez-de-chaussée [et qui
+     mène] tant dans la cour [qu']extérieurement à plusieurs salles qui servent de bureaux . L'on
+     retrouve plusieurs escaliers qui montent aux étages au-dessus, entre autres un plus grand que
+     les autres dont les voûtes et murs sont ornés de stucs et peintures d'assez bonne manière,
+     étant de <persName ref="#JacopoSansovino">Sansovino</persName> , comme aussi un vestibule qui
+     [est] au second étage, qui distribue à toutes les salles d'audience et d'assemblée générale et
+     à l'appartement du doge . Tout cet étage est plein de peintures […] faites des meilleurs
+     maîtres, entre autres des ouvrages de <persName ref="#PaoloVeronese">Paul Véronèse</persName>
+     au plafond, d'autres du <persName ref="#JacopoTintoretto">Tintoret</persName>, <persName
+      ref="#JacopoPalmaIlGiovane">Palma</persName> et Paulin, quelques [uns] du <persName
+      ref="#Titien">Titien</persName> et du <persName ref="#JacopoBassano">Bassan</persName>. Dans
+     l'appartement du doge, sur un petit escalier, un <objectName ref="#TitienSaintChristophe">Saint
+      Christophe</objectName> a fresco . Sur le haut de l'<objectName ref="#ScalaGigantiVenise"
+      >escalier</objectName> dans la cour, deux statues de marbre [<objectName ref="#SansovinoMars"
+      >Mars</objectName> et <objectName ref="SansovinoNeptune">Neptune</objectName>] qui sont
+     colosses, assez bien . <objectName ref="">À l'église de Saint-Marc</objectName> tenant au vieil
+     palais, étant la chapelle du doge. Cette église est gothique, étant assez grande, son portail
+     sur la grande place ayant cinq arcades par où l'on entre dans un porche qui précède l'église .
+     Il y a cinq coupoles qui font autant de dômes . Toutes les voûtes, coupoles, vestibule et hauts
+     [des] portails sont en mosaïques, peu de celles du portail et des porches sont modernes et
+     d'assez bonne manière . Le reste ne vaut rien. L'on voit au-dessus du portail <objectName
+      ref="#ChevauxSaintMarc">quatre chevaux de bronze</objectName> que l'on apporta il y a bien un
+     siècle de <placeName ref="#Constantinople">Constantinople</placeName>, ces chevaux sont […] de
+     très bonne manière. […] La sacristie de cette église est derrière le chœur, voûtée et peinte à
+     la mosaïque, et étant une des meilleures choses.</p>
+    <p>Le <objectName ref="#ProcuratiesVenise">logement des Procureurs</objectName>, <objectName
+      ref="#BibliothequeMarcianaVenise">Bibliothèque</objectName> et <objectName ref="#ZeccaVenise"
+      >Monnaie</objectName> se tenant ensemble, étant d'une même décoration avec des galeries tout
+     autour ayant 14 pieds de large, voûtées avec compartiments. Des boutiques renfoncées dans le
+     corps des bâtiments devant chaque arcade laissent le passage toujours libre . Les bâtiments de
+     façade sont tous construits de marbre blanc [et] décorés de trois ordres d'architecture l'un
+     sur l'autre , à la réserve de ce qui regarde le <objectName ref="#PalaisDogesVenise">vieil
+      palais</objectName>, où il n'y a que deux étages. Toute cette décoration est ornée de
+     demi-colonnes faisant séparation des arcades et croisées . L'ordre dorique [est] au
+     rez-de-chaussée, les bases portant sur le rez-de-chaussée des galeries, qui est élevé de trois
+     marches. L'entablement a ses triglyphes et métopes et denticules . L'ordre ionique fait le
+     seconde étage et l'ordre corinthe [sic] le troisième . Les deux étages sont interrompus du côté
+     du <objectName ref="#PalaisDogesVenise">vieil palais</objectName>, l'entablement ionique [et]
+     la frise de ce côté étant fort hauts et n'ayant nul rapport avec le reste, pour donner lieu à
+     de petites croisées qui se trouvent pour éclairer des entresols qui, je crois, ne servent pas
+     beaucoup. Cela fait que l'entablement se trouve de toute sa hauteur au-dessus de l'autre du
+     côté de la grand place . Il n'y a qu'une balustrade dessus cette corniche , qui vient mourir
+     contre le troisième ordre. Les piédestaux de cette balustrade sont ornés de figures antiques de
+     marbre, le troisième ordre sur la grande place n'ayant qu'une corniche architravée avec des
+     modillons et le comble au-dessus. Les croisées sont ornées de petites colonnes, savoir au
+     second étage, étant dans l'épaisseur des piédroits et couplées, d'ordre ionique, portant leur
+     cintre qui forme des croisées en arcade. Le troisième ordre : les croisées sont ornées de
+     demi-colonnes à côté des piédroits portant leur entablement et fronton , et lesdites croisées
+     fermées en platebande . Les ordres ionique et corinthe [sic] sont portés sur des piédestaux
+     formant les appuis des croisées où il y [a] plusieurs balustres qui ne sont pas d'une belle
+     forme. Le dessus des arcades et dessous des archivoltes sont ornés de figures et ornements en
+     bas-reliefs, comme aussi au-dessus des croisées et frontons, [ainsi que] les métopes de l'ordre
+     dorique et la frise de l'ordre dorique. Le tout [est] du dessin de <persName ref="#JacopoSansovino">Sansovino</persName>. J'ai levé les
+     plan et élévation de cette place pour mémoire .</p>
+    <p>L'on voit les <objectName ref="#ProcuratiesVenise">Procuraties Vieilles en face des
+     Neuves</objectName>, ayant trois étages de haut avec des galeries au rez-de-chaussée, qui se terminent par
+     un bout proche l'<objectName ref="#SanGeminianoVenise">église de Saint-Geminiano</objectName> et par l'autre au <objectName ref="#TourHorlogeVenise">portique où est l'horloge</objectName> proche
+     et à côté de l'<objectName ref="#BasiliqueSaintMarcVenise">église Saint-Marc</objectName>. Ce bâtiment est d'une manière gothique et n'a rien de beau
+     que sa grandeur et matière, qui est de marbre en les façades du côté de la place seulement. La
+     <objectName ref="#CampanileSaintMarcVenise">tour de Saint-Marc</objectName> est dans cette <objectName ref="#PlaceSaintMarcVenise">grande place</objectName>, d'alignement de la façade du bâtiment qui
+     regarde le <objectName ref="#PalaisDogesVenise">vieil palais</objectName>. Elle est d'une forme carrée, ayant un grand escalier qui monte d'une
+     pente douce en haut. Cette tour carrée se termine par une pyramide en forme de clocher où il y
+     a un ange de bronze qui en fait l'amortissement , cet édifice n'ayant de remarquable que sa
+     hauteur qui est fort grande. Il y [a] un petit bâtiment adossé contre la face de cette tour du
+     côté qui regarde l'entrée principale du vieil palais . Cet endroit sert à mettre les
+     Procurateurs lorsque tout le Sénat est ensemble au vieil palais, pour empêcher les désordres et
+     les insultes que l'on pourrait faire à cette république quand elle est ensemble. Ce petit
+     édifice est orné d'un portail de marbre enrichi de colonnes couplées deux à deux, avec des
+     arcades entre deux. Celle du milieu sert d'entrée et les deux autres de croisée. Il y a des
+     bas-reliefs en attique qui sont assez beau. Au-devant de cette loge, il y a une terrasse de 8 à
+     9 pieds de large, faisant [toute] la longueur. Cette terrasse [est] ornée d'une balustrade de
+     marbre. Cet ouvrage est du dessin de <persName ref="#JacopoSansovino">Sansovino</persName>.
+     </p>
+    <p>À la tête de la <objectName ref="#PlaceSaintMarcVenise">place Saint-Marc</objectName>, l'on voit
+     <objectName ref="#ColonnesSaintTheodoreMarcVenise">deux colonnes</objectName> de granite séparant la place en trois. Ces colonnes ont des bases portées sur des
+     marches qui règnent autour et ces colonnes finissent par des mauvais chapiteaux au-dessus
+     desquels est une corniche portant sur l'un un <persName ref="#SaintGeorges">saint
+      George</persName> et sur l'autre un lion de <persName ref="#SaintMarc">saint Marc</persName>,
+     le tout n'ayant rien de beau. L'on voit aussi trois mâts en face du portail de Saint-Marc,
+     lesquels servent à mettre les trois étendards de la République, des trois royaumes qu'ils ont
+     possédés. Ces mâts sont portés sur des affuts de bronze en forme de balustre, remplis de
+     bas-reliefs et ornements régnant autour . La <objectName ref="#BibliothequeMarcianaVenise">Bibliothèque</objectName> est au premier étage en face du <objectName ref="#PalaisDogesVenise">vieil
+     palais</objectName>, comme j'ai ci-devant dit . L'on y entre par une arcade sous la galerie de ce côté.
+     L'escalier est à gauche en entrant, qui est décoré richement, les marches étant d'une belle
+     largeur et peu hautes. Les paliers sont ornés de colonnes et pilastres de l'ordre ionique
+     portant des arcades et voûtes toutes ornées d'architectures et sculptures de stuc faisant des
+     compartiments, comme celles suivant les rampes, où l'on voit des petits tableaux peints à
+     fresque, le tout de bonne manière . L'on entre dans un vestibule ou salon qui précède la
+     bibliothèque, orné d'architectures de stuc. Ce salon est rempli de statues, bustes antiques
+     assez bien, tout de marbre. L'on nous dit que l'on avait apporté tout cela de <placeName
+      ref="#Grece">Grèce</placeName> . La bibliothèque biblique n'est pas grande. Elle est remplie
+     d'armoires des deux côtés, qui enferment plusieurs manuscrits. Cette pièce est voûtée et
+     l'entrée surbaissée avec une corniche régnant au bas. Cette voûte est remplie de compartiments
+     de stuc enfermant des tableaux de tous les fameux maîtres qui, à l'envie de l'un [et] l'autre,
+     en firent en ce temps pour remporter un prix d'estime pour celui qui ferait le mieux. L'on nous
+     dit que ceux de <persName ref="#PaoloVeronese">Paul Véronèse</persName> avaient gagné cet avantage. L'on en voit trois de lui, du
+      <persName ref="#Titien">Titien</persName>, Palme, <persName ref="#JacopoTintoretto"
+      >Tintoret</persName>, <persName ref="#Guide">Guido Reni</persName> et <persName
+      ref="#JacopoBassano">Bassan</persName>, tous d'une forme ronde comme formant des médailles .</p><p>
+     Tenant à la <objectName ref="#BibliothequeMarcianaVenise">Bibliothèque</objectName>, nous entrâmes à la <objectName ref="#ZeccaVenise">Monnaie</objectName> par une pareille arcade qui vous conduit
+     sous un porche . À droite est une cour formant un carré long décoré d'arcades autour, qui sont
+     autant de boutiques où l'on fabrique la monnaie, que nous vîmes faire. À gauche du porche est
+     un grand escalier qui monte à deux ou trois étages. Le premier est une galerie sur la cour
+     régnant tout autour, décorée d'arcades régnant tout autour. Cette galerie sert à dégager toutes
+     décorées comme j'ai dit d'arcades, entre lesquelles il y [a] des pilastres tant au
+     rez-de-chaussée qu'au premier étage au-dessus des croisées, et les façades sont construites de
+     pierre proprement travaillées. Du côté regardant la mer sont plusieurs grandes salles qui
+     servent aux assemblées pour délibérer sur la monnaie.</p><p> L'<objectName ref="#SanGeminianoVenise">église de Saint-Geminiano</objectName>, au fond de
+     la grande place, sépare les <objectName ref="#ProcuratiesVenise">Vieilles Procuraties des Nouvelles</objectName>, faisant environ le milieu.
+     Cette église est fort petite et régulière, en ayant levé le plan et profil . Le portail est de
+     marbre orné d'architectures de colonnes couplées portant sur des piédestaux. Devant un des
+     côtés de l'<objectName ref="#BasiliqueSaintMarcVenise">église de Saint-Marc</objectName>, l'on voit une petite chapelle appelée <objectName ref="#SanBassoVenise">Saint-Basso</objectName>. Il y a
+     quelques tableaux de bonne manière des maîtres du temps . En face de la <objectName ref="#PlaceSaintMarcVenise">place Saint-Marc</objectName>, l'on
+     voit deux îles laissant une ouverture de canal entre deux. À droite est celle où est le <objectName ref="#MonastereSanGiorgioMaggioreVenise">couvent
+     de Saint-[Georges] Maggiore</objectName>, où est une fort belle <objectName ref="#BasiliqueSanGiorgioMaggioreVenise">église</objectName>
+      du dessin de <persName ref="#AndreaPalladio">Palladio</persName>, avec un cloître. L'<objectName ref="#BasiliqueSanGiorgioMaggioreVenise">église</objectName> est
+     grande et décorée d'architecture de colonnes et pilastres, en ayant [levé] le plan et profil .
+     Le chœur des religieux est derrière le maître[-autel], séparé par des colonnes couplées
+     au-dessus duquel [sont] les orgues. Ce maître-autel est simple mais de bonne manière. Au-dessus
+     de l'autel sont quatre figures de bronze représentant les Évangélistes qui portent une boule
+     représentant le monde sur lequel est le Sauveur, le tout de même métal . La sacristie est à
+     gauche au fond de la croisée . Nous y vîmes plusieurs beaux ornements d'église enrichis de
+     perles, quelques tableaux assez bons. Nous entrâmes dans le <objectName ref="#MonastereSanGiorgioMaggioreVenise">couvent</objectName>, qui est fort régulier, y
+     ayant deux cloîtres, l'un parfaitement beau, du dessin de <persName ref="#AndreaPalladio"
+      >Palladio</persName>, orné de petites colonnes couplées portant des arcades qui soutiennent
+     les façades . Le grand escalier se trouve dans le milieu d'une des faces. L'on y monte en deux
+     rampes, l'une à droite et l'autre à gauche, allant sur le corridor qui conduit aux dortoirs .
+     La bibliothèque se trouve de plain-pied dans le bâtiment séparant les deux cloîtres. Cette
+     bibliothèque est assez petite, n'ayant au plus que 20 toises de long, toute revêtue de
+     menuiseries qui font des armoires très propres . L'on y voit quantité de livres manuscrits […]
+     qu'un des pères de ce couvent fait à la main [et] qui sont d'une grande correction. Le dortoir
+     est au bout des deux cloîtres . Il est double. Le corridor a 17 à 18 pieds de large, des
+     cellules à droite et à gauche qui ont 12 [à] 15 pieds et toutes voûtées et ornées d'une
+     corniche au bas du cintre . L'on voit aussi au rez-de-chaussée un beau réfectoire long et
+     beaucoup large et haut, au fond duquel il y a un grand tableau de la main de <persName ref="#PaoloVeronese">Paul Véronèse</persName>
+      représentant <objectName ref="#VeroneseCana">les Noces de Cana</objectName>. Ce tableau est un des plus
+     beaux ouvrages que cet homme ait faits. Il est bien conservé. L'on voit aussi d'autres tableaux
+     dans l'église, qui sont des <persName ref="#JacopoBassano">Bassan</persName>. Je passais de là
+     à l'autre île vis-à-vis que l'on nomme la Giudecca, qui est longue et étroite. À la tête
+     regardant Saint-Georges est la <objectName ref="#DoganaDaMarVenise">douane</objectName>, où l'on voit un portail formant la pointe de [l']île,
+     orné d'architecture d'un ordre toscan rustique avec des colonnes en forme de tambours .
+     Au-dessus de l'entablement est un piédestal. Au-dessus dudit bâtiment est un <objectName ref="#FalconiStatuaFortuna">amortissement de
+     plusieurs figures en forme d'esclaves qui portent une boule</objectName>. Cela m'a paru de plomb doré par
+      [le] dessus . Plus loin est l'<objectName ref="#SaluteVenise">église de la Madone de la Salute</objectName>, bâtie par la République depuis
+     ce siècle en considération d'un vœu causé par la peste qui était à <placeName ref="#Venise"
+      >Venise</placeName> en ce temps. Cette église est grande et belle (levé le plan pour
+     mémoire), y ayant deux coupoles, l'une grande qui est octogone par dedans et ronde
+     extérieurement . Tout est construit de pierre dure et décoré d'architecture. [Au] dedans du
+     dôme, il y a des colonnes dans chacun pilier des angles, portées sur des piédestaux de 9 pieds
+     de haut. Ledit dôme est circonscrit de bas-côtés où il y a des chapelles renfoncées vis-à-vis
+     chaque arcade qui sont dans les pans. Au-dessus de l'entablement est une balustrade qui est sur
+     l'extrémité de la saillie. Au-dessus est un ordre d'architecture de pilastres au-devant duquel
+     sont des figures. Dans le sanctuaire, qui est large et [de] peu de profondeur, ayant deux
+     portions de cercle, un à chacun côté, qui donne lieu à des bancs pour les prêtres et autres. Le
+     maître-autel se trouve sous l'arcade entre ledit sanctuaire et le chœur des religieux qui est
+     derrière. Cet autel est tout de marbre, orné de double piédestaux qui portent plusieurs figures
+     qui ne sont nullement bien correctes . À côté du chœur des religieux sont les sacristies, l'une
+     à droite qui n'est pas grande, celle à gauche [plus] grande, où il y [a] plusieurs bons
+     tableaux. […]</p><p>Plus loin dans cette île sont <objectName ref="#RedentoreVenise">les Capucins ou Rédempteur</objectName>. Cette église du dessin
+     de <persName ref="#AndreaPalladio">Palladio</persName> est de ces plus [belles ?] choses. La
+     nef est longue, ayant des chapelles de chacun côté. Au bout est le sanctuaire sous la coupole,
+     avec deux renfoncements en demi-lune en chacun côté. Le chœur des religieux est derrière le
+     chœur. L'on voit un tableau du <persName ref="#Titien">Titien</persName> et un du <persName ref="#TommasoRues">Zuer</persName>. Dans
+     cette île, plusieurs petites églises où il n'y a rien de recommandable. </p>
+    <p>A <objectName ref="#SanSalvadorVenise">Saint-Salvator</objectName>.
+     Cette église est grande et belle. L'on me dit que c'était du dessin de <persName
+      ref="#AndreaPalladio">Palladio</persName>, pour [moi] je crois que c'est de la manière de
+      <persName ref="#SebastianoSerlio">Serlio</persName>, mais il n'importe. Il y a trois coupoles
+     et des chapelles de chacun côté. Les coupoles font trois croisées au fond desquelles il y a de
+     magnifiques tombeaux de marbre ornés de colonnes, statues et d'autres ornement. L'on voit
+     plusieurs tableaux, celui du <objectName ref="#TitienTransfiguration">maître-autel du <persName ref="#Titien">Titien</persName></objectName>, un
+     <objectName ref="#PalmaJeuneSanSalvador">autre du Palme</objectName>, plusieurs de Francesco Vecchio, d'autres de Vicentino et plusieurs autres assez
+     bien. Le portail de cette église est fait depuis l'église et par une autre main, aussi n'est-il
+     pas si bien . A <objectName ref="#SanPietroCastelloVenise">Saint-Pierre in Castelo</objectName> ou l'église patriarcale : elle est grande, ayant une
+     coupole avec des bas-côtés, n'étant pas de bonne manière . Il y a une chapelle à gauche toute
+     revêtue de marbre avec des tombeaux et autels où il n'y a rien à estimer que la matière . L'on
+     voit un <objectName ref="#VeroneseEvangelistesPierrePaul">tableau de Paul Véronèse</objectName> et plusieurs autres qui ne sont [pas] trop bien. […] <objectName ref="#BasiliqueSanGiovanniPaoloVenise">À
+      l'église de Saint Jean et Paul</objectName>, proche l'<objectName ref="#ScuolaGrandeMarcoVenise">école
+     Saint-Marc</objectName>, […] le dortoir du couvent est beau et les cellules grandes. Au rez-de-chaussée,
+     chaque religieux a un vestibule [et] au-dessus sa chambre. L'on y monte par un escalier. Dans
+     un petit pavillon sur le jardin, de l'autre côté, par symétrie, sont des lieux par bas pour
+     mettre la provision de bois. Au-dessus, un cabinet de plain-pied à la chambre. Par la salle,
+     l'on entre au jardin de plain-pied, au bout duquel il y a une grande salle qui sert
+     ordinairement d'orangerie ou d'autre sorte. Sur chaque porte il y a un buste des saints de leur
+     ordre, cardinaux ou pape. Ce couvent est extrêmement grand et assez beau . […] À la <objectName ref="#EgliseCaritaVenise">Carità</objectName>, un
+     tableau de Paul dans la sacristie. Dans l'église plusieurs autres de différents maîtres. Le
+     cloître est commencé du dessin de <persName ref="#AndreaPalladio">Palladio</persName>, lequel
+     est dans son livre . […] <objectName ref="#PontRialtoVenise">Le pont Rialto</objectName>, que l'on dit être de <persName ref="#MichelAnge"
+      >Michel-Ange</persName>. Ce pont traverse le Grand Canal d'une seule arche ayant 16 toises
+     d'ouverture. L'on y monte et passe par trois rues, une au milieu et les deux autres aux
+     extrémités, ayant deux rangées de bouches qui font face sur deux rues. Sur le haut, il y a une
+     grande arcade pour faire la communication. Tout cet ouvrage est d'assez bonne manière, en ayant
+     levé le plan pour mémoire . J'allais voir l'<objectName ref="#ArsenalVenise">arsenal</objectName> qui est au bout de la ville du côté du
+     levant, étant une des plus [curieuses] choses qui se trouve à <placeName ref="#Venise"
+      >Venise</placeName>. L'on construit plusieurs galères qui sont de même manière que celles de
+      <placeName ref="#France">France</placeName>. L'on nous fit voir des galéasses qui me parurent
+     extraordinaires […] . » </p>
+   </div1>
+   <div1 n="2" type="chapitre" xml:id="C2">
+    <head> Relation du séjour de Padoue (14-16 janvier <date when="1690">1690</date>) </head>
+    <p> « Le samedi 14e janvier <date when="1690">1690</date>, je partis de <placeName ref="#Venise"
+      >Venise</placeName> après avoir soupé. Nous embarquâmes pour prendre la route de <placeName
+      ref="#Padoue">Padoue</placeName>, qui est à 25 miles de <placeName ref="#Venise"
+      >Venise</placeName>. L'on entre sur la rivière appelée la Brinte, qui va jusqu'à <placeName
+      ref="#Padoue">Padoue</placeName> . Les rivages sont bordés de plusieurs palais ou maisons de
+     campagne [de] seigneurs vénitiens, la plus grande partie ornée de colonnes [et] architectures.
+     Ils sont tous à peu près d'une même distribution, ayant un vestibule pris en saillie ou
+     renfoncé dans-œuvre faisant le milieu et l'entrée. L'on y monte par un degré de la largeur du
+     vestibule ou bien par deux rampes, ce qui donne lieu à un bas étage et rez-de-chaussée qui,
+     après le vestibule, est un salon. L'on [a] à droite et à gauche plusieurs chambres dégagées par
+     ledit salon. Au-dessus de cet étage est un attique. Plusieurs de ces palais ont une avant-cour
+     et des basses-cours sur les côtés et des jardins, d'autres ont leur face sur la rivière.
+     Plusieurs de ces palais sont de <persName ref="#AndreaPalladio">Palladio</persName>,
+     c'est-à-dire les meilleurs . Nous arrivâmes à <placeName ref="#Padoue">Padoue</placeName> de
+     bonne [heure] et après avoir mangé, nous allâmes voir Sainte-Justine. L'église est grande et
+     belle, moderne, du dessin d'un Frate. Le portail n'en est pas fait, le dedans est décoré de
+     pilastres composés portés sur des piédestaux, en ayant levé les plan et profil pour mémoire .
+     L'on me fit voir le tableau du chœur qui est de Paul Véronèse . [Dans] toutes les chapelles à
+     droite et à gauche, les contre-tables sont de marbre de pièces de rapport, avec plusieurs
+     tableaux de marbre blanc assez mauvais. J'entre dans le couvent, qui répond à la grandeur de
+     l'église. Partie de ce monastère est bâtie nouvellement avec plusieurs cours, cloitres,
+     corridors ornés de pilastres et voûtés tant au rez-de-chaussée qu['au] premier étage, les
+     escaliers magnifiques, les paliers de marbre jaspé et les murs et voûtes peints, les cellules
+     grandes et en belle vue . Ce sont des Bénédictins qui occupent ce couvent, qui est situé à un
+     des bouts de la ville, proche les remparts. Et devant l'église est une place immense , toute
+     gazonnée . L'on nous dit que c'était le cours ordinaire de la ville. Nous allâmes de là à
+     Saint-Antoine qui est la cathédrale . Cette église est grande et d'une manière gothique. La
+     chapelle de <persName ref="#SaintAntoine">saint Antoine</persName> est à gauche, toute
+     incrustée de marbres, ornée d'architecture assez mauvaise . […] Nous allâmes voir la salle
+     della Comunità où l'on plaide , qui est grande, ayant bien 14 toises de large sur 35 de long,
+     n'ayant de remarquable que cette grandeur, voûtée de charpente sans tirant de bois mais bien de
+     fer qui retiennent le pied des jambes de force . Le palais du Podestat, tenant à cette salle :
+     c'est un bâtiment moderne commencé [et] orné d'architecture. Dans la cour, un ordre dorique
+     ayant des colonnes de trois-quarts portant des platebandes, des pilastres ioniques au-dessus,
+     le tout bien accommodé . Le Collège est orné d'une porte d'architecture avec colonnes doriques
+     portant une corniche architravée assez bien, dont en voici le profil . […] J'oubliais à parler
+     d'une porte de la ville que je vis, étant en bateau, [en] arrivant de <placeName ref="#Venise"
+      >Venise</placeName> . Cette porte ressemble à un arc de triomphe, ayant une grande arcade dans
+     le milieu et une petite de chacun côté. Il y a huit colonnes sur la face sur le fossé qui sont
+     couplées, portant sur un piédestal qui est soutenu par de longues consoles aussi couplées qui
+     prennent du pied du fossé [et] qui rachètent le talus du mur . Cette porte m'a paru d'une assez
+     bonne architecture. C'est un ordre corinthe [sic] avec un piédestal en forme de petit attique.
+     Au-dessus est un amortissement et une lanterne assez de mauvaise manière. Il y [a] plusieurs
+     maisons de particuliers qui sont décorées de pilastres et les croisées ornées mais d'une très
+     petite conséquence. Cette ville n'est pas autrement agréable après avoir vu <placeName
+      ref="#Venise">Venise</placeName>, les rues [de] beaucoup irrégulières et mal pavées. Elle est
+     ceinte de murailles de briques et pierres [avec] des grosses tours au lieu de bastions, entre
+     lesquels sont des courtines . Il y a des fossés pleins d'eau vive provenant de la rivière qui
+     passe par la ville. […] » </p>
+   </div1>
+   <div1 n="3" type="chapitre" xml:id="C3">
+    <head> Relation du séjour de Vicence (16 janvier <date when="1690">1690</date>) </head>
+    <p> « [L]e 16, je partis de <placeName ref="#Padoue">Padoue</placeName> pour aller à <placeName
+      ref="#Vicence">Vicence</placeName> où j'arrivais d'assez bonne heure pour aller voir ce qu'il
+     y avait de beau. Cette ville est une des plus belles d'<placeName ref="#Italie"
+      >Italie</placeName>. Il y a plusieurs beaux bâtiments faits du dessin de <persName
+      ref="#AndreaPalladio">Palladio</persName>, tous décorés d'architecture. Il en est parlé dans
+     le livre qu'il a traité , ayant cependant levé les plans des meilleures choses pour mémoire .
+     Les Loges autour du Palais , le théâtre de la Comédie sont les principales pièces . Il y a
+     aussi deux autres palais faits depuis quelques années, dont un n'est pas encore rachevé , ayant
+     un péristyle sur la face qui est assez bien accommodé . Plusieurs bonnes peintures aux
+     Dominicains, une Adoration des Rois de Paul Véronèse . La façade del Monte de Piété peinte à
+     fresque par le Zaloti . Hors la ville, un tableau de Paul à la Madone del Monte représentant un
+     Festin de saint Grégoire avec des pèlerins . L'on voit un pont d'une seule arche d'environ 16
+     toises de diamètre, assez bien accommodée. <persName ref="#AndreaPalladio">Palladio</persName>
+     en parle dans son livre . » </p>
+   </div1>
+   <div1 n="4" type="chapitre" xml:id="C4">
+    <head> Relation du séjour de Vérone (17-18 janvier <date when="1690">1690</date>) </head>
+    <p> « Le 17 [janvier], j'arrivais à <placeName ref="#Verone">Verona</placeName> de bonne heure.
+     Cela me donna lieu d'aller voir la ville qui est grande et fortifiée. Une rivière passe dans le
+     milieu. J'allais voir le Colisée que <persName ref="#Vespasien">Vespasien</persName> y fît
+     faire. Il est assez entier et même l'on commence à le restaurer . L'on nous dit que l'on y
+     jouait quelquefois des spectacles. Desgodets en traite dans son livre, c'est pourquoi je n'en
+     ferai aucune mention . L'on voit proche de cet amphithéâtre un bâtiment commencé . C'est un
+     grand édifice délaissé mais cet ouvrage me paraît être assez bien. La façade [est] décorée
+     d'arcades par en bas, ornées de rustiques , le dessus [avec] des colonnes et architecture avec
+     des croisées entre les colonnes [et] un attique. Au-dessus de l'ordre est un attique. Il y a 13
+     arcades par bas, les dernières colonnes au-dessus sont couplées et à peu près de la même
+     manière. Il y a 13 arcades pareillement et toutes sur une ligne. Dans cette place, il y a un
+     piédestal qui porte une croupe de figure représentant la République, le tout de marbre et d'une
+     méchante manière . Auparavant que d'entrer dans cette ville, je vis en venant de <placeName
+      ref="#Vicence">Vicence</placeName> une église que l'on nomme Notre-Dame ou Madone de la
+     Campagne, dont je levais le plan . […] II y avait trois arcs antiques [à <placeName
+      ref="#Verone">Vérone</placeName>], savoir un attaché au Vieil Château, un autre proche la
+     place et l'autre dans la cour de Lioni, mais il ne reste pas grand-chose de ces édifices . »
+    </p>
+   </div1>
+  </body>
+ </text>
+</TEI>

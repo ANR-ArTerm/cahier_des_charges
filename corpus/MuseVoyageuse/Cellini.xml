@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita">Vita, II, XLI</title>
+            <author ref="#BenvenutoCellini">Benvenuto Cellini</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Arterm</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Benvenuto Cellini, La vita, a cura di Guido Davico Bonino, Torino, G. Einaudi, 1973,
+               II, chap. XLI.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 xml:id="XLI" xml:lang="ita" n="1" type="chapitre">
+            <head>Chapitre XLI</head>
+            <p> Intanto con gran sollecitudine io fini’ il bel <objectName>Giove
+                  d’argento</objectName>, insieme con la sua basa dorata, la quale io avevo posta
+               sopra uno zocco di legno, che appariva poco; e in detto zocco di legno avevo commesso
+               quattro pallottole di legno forte, le quali istavano piú che mezze nascoste nelle lor
+               casse, in foggia di noce di balestre.</p>
+            <p> Eran queste cose tanto gentilmente ordinate, che un piccol fanciullo facilmente per
+               tutti i versi sanza una fatica al mondo, mandava innanzi e indietro e volgeva la
+               ditta statua di Giove. Avendola assettata a mio modo, me ne andai con essa a
+                  <placeName ref="#Fontainebleau">Fontana Beliò</placeName>, dove era il <persName ref="#FrancoisIer">Re</persName>.</p>
+            <p>In questo tempo il sopra ditto <persName ref="#Primatice">Bologna</persName> aveva portato di
+                  <placeName ref="#Rome">Roma</placeName> le sopra ditte statue, e l’aveva con gran
+               sollecitudine fatte gittare di bronzo. Io che non sapevo nulla di questo, sí perché
+               lui aveva fatto questa sua faccenda molto segretamente, e perché <placeName ref="#Fontainebleau">Fontana
+                  Beliò</placeName> è discosto da <placeName ref="#Paris">Parigi</placeName> piú di quaranta
+               miglia; però non avevo potuto sapere niente.</p>
+            <p>Faccendo intendere al <persName ref="#FrancoisIer">Re</persName> dove voleva che io ponessi il Giove,
+               essendo alla presenza <persName ref="#AnneDePisseleu">Madama di Tampes</persName>, disse al Re che non
+               v’era luogo piú a proposito dove metterlo che nella sua bella
+                  <objectName>galleria</objectName>. Questo si era, come noi diremmo in
+                  <placeName ref="#Toscane">Toscana</placeName>, una loggia, o sí veramente uno androne: piú presto
+               androne si potria chiamare, perché loggia noi chiamiamo quelle stanze che sono aperte
+               da una parte. Era questa stanza lunga molto piú di cento passi andanti, ed era ornata
+               e ricchissima di pitture di mano di quel mirabile <persName ref="#RossoFiorentino">Rosso</persName>, nostro
+               fiorentino; e infra le pitture era accomodato moltissime parte di scultura, alcune
+               tonde, altre di basso rilievo: era di larghezza di passi andanti dodici in circa. </p>
+            <p>Il sopra ditto <persName ref="#Primatice">Bologna</persName> aveva condotto in questa ditta galleria tutte le sopra ditte
+               opere antiche, fatte di bronzo e benissimo condotte, e l’aveva poste con bellissimo
+               ordine, elevate in su le sue base; e sí come di sopra ho ditto, queste erano le piú
+               belle cose tratte da quelle antiche di <placeName ref="#Rome">Roma</placeName>. </p>
+            <p>In questa ditta istanza io condussi il mio Giove; e quando viddi quel grande
+               apparecchio, tutto fatto a arte, io da per me dissi: </p>
+            <p>- Questo si è come passare in fra le picche. Ora Idio mi aiuti. </p>
+            <p>Messolo al suo luogo e, quanto io potetti, benissimo acconcio, aspettai quel gran Re
+               che venissi. </p>
+            <p>Aveva il ditto Giove innella sua mano destra accomodato il suo fúlgore in attitudine
+               di volerlo trarre, e nella sinistra gli avevo accomodato il Mondo. Infra le fiamme
+               avevo con molta destrezza commisso un pezzo d’una torcia bianca. </p>
+            <p>E perché <persName ref="#AnneDePisseleu">Madama di Tampes</persName> aveva trattenuto il Re insino a notte
+               per fare uno de’ duo mali, o che lui non venissi o sí veramente che l’opera mia,
+               causa della notte, si mostrassi manco bella; e come Idio promette a quelle creature
+               che hanno fede in lui, ne avvenne tutto il contrario; perché veduto fattosi notte, io
+               accesi la ditta torcia che era in mano al Giove; e per essere alquanto elevata sopra
+               la testa del ditto Giove, cadevano i lumi di sopra e facevano molto piú bel vedere,
+               che di dí non arien fatto. Comparse il ditto Re insieme con la sua Madama di Tampes,
+               col <persName ref="#HenriII">Dalfino</persName> suo figliuolo e con la <persName ref="#CatherineDeMedicis">Dalfina</persName>,
+               oggi re, con il <persName ref="#HenriIIDeNavarre">re di Navarra</persName> suo cognato, con <persName ref="#MargueriteDeFrance">madama
+                  Margherita</persName> sua figliuola, e parecchi altri gran signori, i quali erano
+               instruiti a posta da <persName ref="#AnneDePisseleu">Madama di Tampes</persName> per dire contro a di
+               me.</p>
+            <p>Veduto entrare il Re, feci ispignere innanzi da quel mio garzone già ditto,
+                  <persName>Ascanio</persName>, che pianamente moveva il bel Giove incontro al Re: e
+               perché ancora io fatto con un poco d’arte, quel poco del moto che si dava alla ditta
+               figura, per essere assai ben fatta, la faceva parer viva; e lasciatomi alquanto le
+               ditte figure antiche indietro, detti prima gran piacere, agli occhi, della opera mia.
+               Subito disse il Re:</p>
+            <p>- Questa è molto piú bella cosa che mai per nessuno uomo si sia veduta, e io, che pur
+               me ne diletto e ’ntendo, non n’arei immaginato la centesima parte. </p>
+            <p>Quei Signori, che avevano a dire contr’a di me, pareva che non si potessino saziare
+               di lodare la ditta opera. <persName ref="#AnneDePisseleu">Madama di Tampes</persName> arditamente disse: </p>
+            <p>- Ben pare che voi non abbiate occhi. Non vedete voi quante belle figure di bronzo
+               antiche son poste piú là, innelle quali consiste la vera virtú di quest’arte, e non
+               in queste baiate moderne? </p>
+            <p>Allora il Re si mosse, e gli altri seco; e dato una occhiata alle ditte figure, e
+               quelle, per esser lor porto i lumi inferiori, non si mostravano punto bene; a questo
+               il Re disse:</p>
+            <p>- Chi ha voluto disfavorire questo uomo, gli ha fatto un gran favore; perché mediante
+               queste mirabile figure si vede e cognosce questa sua da gran lunga esser piú bella e
+               piú maravigliosa di quelle. Però è da fare un gran conto di
+                  <persName ref="#BenvenutoCellini">Benvenuto</persName>, che non tanto che l’opere sue restino al paragone
+               dell’antiche, ancora quelle superano. </p>
+            <p>A questo <persName ref="#AnneDePisseleu">Madama di Tampes</persName> disse che vedendo di dí tale opera, la non parrebbe l’un
+               mille bella di quel che lei par di notte; ancora v’era da considerare, che io avevo
+               messo un velo addosso alla ditta figura, per coprire gli errori. Questo si era un
+               velo sottilissimo, che io avevo messo con bella grazia addosso al ditto Giove, perché
+               gli accrescessi maestà: il quale a quelle parole io lo presi, alzandolo per di sotto,
+               scoprendo quei bei membri genitali, e con un poco di dimostrata istizza tutto lo
+               stracciai. </p>
+            <p>Lei pensò che io gli avessi scoperto quella parte per proprio ischerno. Avvedutosi il
+               Re di quello isdegno e io vinto dalla passione, volsi cominciare a parlare: subito il
+               savio Re disse queste formate parole in sua lingua: </p>
+            <p>- <persName ref="#BenvenutoCellini">Benvenuto</persName>, io ti taglio la parola; sí che sta cheto, e arai
+               piú tesoro che tu non desideri, l’un mille -.</p>
+            <p> Non possendo io parlare, con gran passione mi scontorcevo: causa che lei piú
+               sdegnosa brontolava; e il <persName ref="#FrancoisIer">Re</persName>, piú presto assai di quel che gli arebbe fatto, si
+               partí, dicendo forte, per darmi animo, aver cavato di <placeName ref="#Italie">Italia</placeName>
+               il maggior uomo che nascessi mai, pieno di tante professione.</p>
+         </div1>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../corpus/tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita">Diario di viaggio di Vincenzo Giustiniani</title>
+            <author ref="#Bizoni">Bernardo Bizoni</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Arterm</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Bernardo Bizoni, Diario di viaggio di Vincenzo Giustiniani, éd. Barbara Agosti, Porretta Terme, I Quaderni del Battello Ebbro, 1995.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 xml:id="C1" xml:lang="fra" n="1" type="chapitre">
+            <head>L’arrivée en France, par Amiens</head>
+            <p>Alli 22, giovedi. Da <placeName ref="#Arras">Aras</placeName> a <placeName
+                  ref="#SaillyAuBois">Salidoboc</placeName>, idest salita del bosco: qui finisce
+               l'Attois e comincia la <placeName ref="#France">Francia</placeName>. In questo
+               piccolo villaggio ci siamo rinfrescati, si stette un poco male. A cena la sera a
+                  <placeName ref="#Amiens">Amiens</placeName>, con vento freddo continuo, gagliardo.
+               Viste nell'entrare diverse trincere vicine a mano destra, e più discoste a mano
+               manca, fatte dal tempo della guerra tra Spagnoli e Francesi. <placeName ref="#Amiens"
+                  >Amiens</placeName> si scopre circa due miglia lontano, bellissima vista, in
+               specie della <objectName ref="#CathedraleAmiens">chiesa di San Giovanni</objectName>,
+               simile di fuori alla vista di San Paolo di <placeName ref="#Rome">Roma</placeName>,
+               quale ha una facciata che combatte con <placeName ref="#Strasbourg"
+                  >Argentina</placeName> e <placeName ref="#Londres">Londra</placeName>, ed è tenuta
+               la più bella chiesa della <placeName ref="#France">Francia</placeName>. Dentro tutti
+               i pilastri con li suoi colonnati hanno tre quadri grandi per uno di pitture buone; di
+               qua e di là alla nave di mezzo, due sepolture belle di bronzo. Vista qui dentro la
+                  <objectName ref="#ChefJeanBaptiste">Testa di San Giovanni Battista</objectName>,
+               toccate le corone e medaglie, con folla; c'erano ivi alcune donne contadine con una
+               schiavina in spalla e berrettino in testa come li marinari e donne di <placeName ref="#Gaete">Gaeta</placeName>. Sei
+               strade principali sboccano in una piazza, dalla quale si vedono tutte sei.
+               “Prospettiva unica da disegnare” disse il <persName ref="#CristoforoRoncalli">Pomarancio</persName>. L'insegne dell'ostarie e delle
+               altre arti sono di ferro, lavorate con intagli e traforate con manifattura grande a
+               più viste. Di più, le cornici di quasi tutte le botteghe con figure di legno devote
+               intagliate, dove si scopre gran devozione antica e magnificenza. Vi sono sette e più
+               rivi d'acqua, che corrono per la città, grandi, con li suoi ponti per tutto. Il
+               <persName ref="#LeonXI">cardinal di <placeName ref="#Florence">Firenze</placeName></persName> spese qui scudi seicento
+               per mettere in ordine la casa, e scudi ottanta solo in vetri. Ogni cosa a beneficio
+               del padrone della casa ove alloggiò solo ventiquattro ore per volta, in duoi volte
+               sole; perché non si trattò qui conforme all'appuntamento la pace, ma a <placeName ref="#SaintQuentin">San Quintino</placeName>,
+               e poi nemmeno ivi ma a <placeName ref="#Vervins">Vervin</placeName>. Si aspettò un pezzo alla porta per causa delle
+               pistole. sino che venne l'ordine di portarle dentro. Ed intanto un soldato della
+               guardia ci teneva un archibugio longo voltato in faccia nostra. S'alloggiò
+               all'insegna del Cardinale. </p>
+         </div1>
+         <div1 xml:id="C2" n="2" type="chapitre">
+            <head>Le Château de Gaillon</head>
+            <p>Il <objectName ref="#ChateauGaillon">palazzo di Gaglione</objectName> fu fatto dal
+               gran cardinal di <placeName ref="#Rouen">Roano</placeName> <persName ref="#GeorgesDAmboise">Giorgio Ambuesa</persName> in questo sito d'aria perfetta e commodo per
+               la riviera, in mezzo tra Roano suo vescovato e <placeName ref="#Paris"
+                  >Parigi</placeName>, dov'egli era padrone e maneggiava tutta l'entrata di quel re
+               (per quanto mi fu detto). Ebbe questi un altro fratello cardinale, che fabricò
+                  <objectName>Santa Cecilia di <placeName ref="#Rome"
+                     >Roma</placeName></objectName>. All'entrata di questo palazzo si passa per un ponte levatore di
+               legno, poi s'entra in un bel cortile, ove in mezzo vi è una bella fontana con un vaso
+               doppio tondo, grande, mandatoli da' Genovesi d'<placeName ref="#Italie"
+                  >Italia</placeName>, quali avendo in quel tempo disgustato il re, avevano bisogno
+               del mezzo suo. Intomo per tutto in alto nicchi belli, ovati, pieni di teste di statue
+               belle come quelle di <objectName>Nonsicci</objectName>, e le finestre tutte con piramidi ed altri lavori di
+               pietra intagliati con disegno; portichi attorno con camere. Abasso, nell'appartamento
+               a man dritta nell'entrare, mangiorno il cardinale, il vescovo e il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName>, ed
+               altri al numero di otto. Al primo piano di sopra era l'appartamento del <persName ref="#VincenzoGiustiniani">signor
+               Vincenzo</persName>, con parati di velluto paonazzo, ricamato con gigli d'oro, com'anco il
+               cortinaggio e portiera, ed a mano manca quello del cardinale con molte stanze tutte
+               addobbate, ed a man destra, al pari delle finestre delle stanze, un bel corridore
+               longo quanto tirano le stanze tutte, con li parapetti di pietra, donde si scopre
+               bella e lontana vista, e particolarmente quella del gran giardino d'abasso del
+               palazzo e d' un padiglione diesso fatto di disegno portato d'<placeName ref="#Italie"
+                  >Italia</placeName>, ed un parco che gira sei miglia, pieno di daini, cervi; una
+               bellissima cappella piena di figure di rilievo e mezzo rilievo: in specie un
+                  <objectName ref="#ColombeSaintGeorges">quadro grande all'altare, di marmo
+                  intagliato, un San Giorgio a cavallo che uccide un dragone</objectName>, se bene
+               il drago fu tenuto dal marchese troppo grande e sproporzionato; e si disse che il
+               detto quadro fosse stato fatto in <placeName ref="#Italie">Italia</placeName>, e di
+               là venuto in quel tempo. Il <persName ref="#FrancoisDeJoyeuse">cardinal di Gioiosa</persName> ci fa molti ed utili miglioramenti,
+               in specie un gioco di palla alla francese, una galeria per tenerci lo studio che è
+               d'ottomila pezzi di libri, di valore di scudi trentamila. Siid un camerino del
+               cardinale, che egli chiama tesoro, e perciò tien sempre la chiave appresso di sé, ove
+               sono una croce, un secchio ed altri vasetti, e tra l'altre una navicella grande di
+               cristallo di montagna, di prezzo di scudi seimila, quale è un poco fosca in luogo da
+               basso, per essere cascata pochi giorni sono. Uno studiolo di radiche di rose, che
+               aprendo quelli secreti butta odore mirabile. Vi erano altre gallerie più piccole con
+               quadri portati di <placeName ref="#Rome">Roma</placeName> di diversi principi, papi,
+               e cardinali, e tra l'altri vi era il <persName ref="#BenedettoGiustiniani">cardinal Giustiniano</persName>. Una bellissima guardarobba
+               di paramenti ed altro, e tra l'altre cose un letto che vale ventimila scudi, con
+               perle assai. </p>
+         </div1>
+         <div1 xml:id="C3" n="3" type="chapitre">
+            <head>La peinture de paysage, le pittoresque</head>
+            <p><persName ref="#CristoforoRoncalli">Il Pomarancio</persName> ed io passammo la riviera (sopra vi è un ponte di pietra bello ma al
+               presente rotto) in una barca coperta di ... piena in un istante di uomini e donne,
+               con infinito concorso, che si facevano traiettare, chi per andare alli Cappuccini, e
+               chi a diversi altri luoghi a pranzo con portar seco canestre sul braccio, polite, e
+               fiaschi di vino, con provisione di magnare. Nel passare ci fu mostrata una nave, che
+               il giorno precedente, urtandosi con un'altra, si sfondrò. Si ritornò di nuovo a far
+               collazione e si bevve del vino bianco di <placeName ref="#Sicile">Sicilia</placeName>
+               e moscatello che s'ebbe in <placeName ref="#Venise">Venezia</placeName> dal Ferrari, e moscatello di Nocera, che avevano mantenuto
+               il colore e il sapore. Finita la collazione, si stette con gusto e con un poco di
+               disgusto per impeto di vino. </p>
+         </div1>
+         <div1 xml:id="C4" n="3" type="chapitre">
+            <head>Le Louvre</head>
+            <p>Dopo pranzo andassimo in carrozza e si vidde le <objectName ref="#PalaisTuileries"
+                  >Tulerie</objectName>, id est il giardino del re, con viali
+               grandissimi, boschetti tramezzati con alcune casette, grotte e lochi lussuriosi fatti
+               dalla <persName ref="#MarieDeMedicis">regina madre</persName>. Il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> non si curò di vederlo, perchè nell'idea
+               l'aveva per quello ch'ell'era. Al pari della galeria vi è un spasseggio o loggia di
+               <objectName ref="#Louvre">Loure</objectName>. Loure s'intende tanto il palazzo vecchio ov'abita il re quanto il
+               nuovo, principiato dalla <persName ref="#MarieDeMedicis">regina madre</persName>, quale si lavora per finirlo, se bene si va
+               lento, e più s'anderia se non fosse la regina che sollecita la facciata di questo
+               palazzo, la quale è longa e bella, con disegno e architettura all'italiana.
+               All'entrare un gran portico con pilastri e volta di travertino tutta, e scale con
+               colonnati simili. Ivi sono due bellissime galerie, una finita da questo re, dicono la
+               vecchia, l'altra si sta facendo e la chiamano la nuova, l'una e l'altra piene di
+               pitture moderne, d'uomini più celebri di quei paesi, nel soffitto ed alle bande. In
+               più luoghi, il re e regina dipinti con corone lauree in capo: sbracciati, spettorati,
+               con le gambe ignude e stivaletti, e, tra l'altre, la <persName ref="#MarieDeMedicis">regina</persName> in atto di ritrarre il <persName ref="#HenriIV">re</persName>
+               in pittura in un quadro ed in un altro in scultura, tenendoli un scarpello in petto.
+               E per tutto poi vi è quest'<objectName>impresa</objectName>, un H e un M intrecciati insieme, che significa
+               <persName ref="#HenriIV">Henrico</persName> e Monsciò, essendo la <persName ref="#GabrielleDEstrees">Gabriela madama di Monsciò</persName>. A basso si fa
+               un salotto per il conseglio, pieno di nicchi con statue dentro e bellissime colonne
+               di pietre mischie. il tutto venuto da <placeName ref="#Italie">Italia</placeName> e
+               da <placeName ref="#Rome">Roma</placeName>. E tutti questi luoghi hanno la vista
+               della riviera. </p>
+         </div1>
+         <div1 xml:id="C5" n="3" type="chapitre">
+            <head>Jardin de Mme de Chantelou</head>
+            <p>Andassimo a vedere un bellissimo giardino di madama di Sciantelù, qual piacque ad
+               ogniuno. Ha questo giardino molti viali longhi e verso la mano manca nell'entrare ha
+               bellissime spalliere, alberi di frutti, peschiere e fontane, le quali, se bene hanno
+               poca acqua, sono però di maggior maraviglia essendo in queste pianure basse. Il
+               palazzo è all'antica. Si ammira in questo giardino l'artificio grande delle spalliere
+               ed altri compartimenti, perché tutti sono rappresentativi di favole ed istorie di
+               Romani, di <persName ref="#Virgile">Virgilio</persName> e di <persName ref="#Terence">Terenzio</persName>, e vi è sino il
+               Coliseo di <placeName ref="#Rome">Roma</placeName>, con un teatro dove sono
+               personaggi a recitare ed altri a sentire la comedia, il viaggio d'<persName
+                  ref="#Enee">Enea</persName> all'infemo con il fiume d'Acheronte, tutta la fascia
+               del zodiaco con li segni celesti, il mappamondo, l'<placeName ref="#Angleterre"
+                  >Inghilterra</placeName> con il suo canale e riviera, ed il mare oceano con le
+               navi, l'<placeName ref="#Hollande">Olanda</placeName>, <placeName ref="#Zelande">Zelanda</placeName>, <placeName ref="#Irlande">Ghirlanda</placeName> con li suoi mari e canali, lo <placeName ref="#DetroitDeGibraltar">stretto di
+               Gibilterra</placeName>, ed infiniti altri artifici. Nell'uscita del giardino si fece avanti al
+               <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> un gentiluomo del re, piemontese di casa Villa Franca, senza
+               ferraiolo, con spada senza puntale, un po' stracciato il vestito. Disse d'avere
+               accordato il carrozziere, ma non fu vero (andò poi su un carro); disse anche essere
+               stato soldato con <persName ref="#PompeoGiustiniano">Pompeo Giustiniano</persName>. </p>
+         </div1>
+         <div1 xml:id="C6" n="3" type="chapitre">
+            <head>Les artisanes de Fontainebleau</head>
+            <p>Attaccato al nostro logis [a <placeName ref="#Fontainebleau">Fontanablò</placeName>] ci stavano alcune giovani di buona grazia
+               ben create con un fratello, e quando la regina va a <placeName ref="#Fontainebleau">Fontanablò</placeName>, sempre va a vederli
+               lavorare in terra cotta vasi d'infinite sorti, fruttifere intagliate dipinte, diversi
+               animali per porre alle fontane, bacili, bocali, candelieri, canestre, navicelle da
+               bere, etc. Il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> ivi comprò due per portarli con seco, e riuscì che per
+               il viaggio non si sono rotte. </p>
+         </div1>
+         <div1 xml:id="C7" n="3" type="chapitre">
+            <head>Saint-Cloud</head>
+            <p>Il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> fu visitato dal nipote di monsignor Volta e dalla ... genovese, ed
+               il secretario del nunzio venne a pigliare il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> con la carrozza, dove
+               fossimo a vedere il <objectName ref="#ChateauSaintCloud">palazzo e giardino del <persName ref="#JeromeDeGondi">barone Gondi</persName></objectName>. Nell'entrare del cortile,
+               attorno attorno teste di marmo dentro le nicchie, bel giardino con molte sorti
+               d'animali dentro, che parevano vivi, due fontane all'usanza, più gallerie. In una
+               tutti quadri del <persName ref="#Bassano">Bassano</persName>, come anco in un camerino del re, vicino a la camera, ove
+               mangia per lo più; (a Fontanablò il re ha <objectName>un quadro di <persName
+                  ref="#LeonardoDaVinci">Leonardo da Vinci</persName></objectName> ed <objectName>un altro di <persName ref="#Raphael">Raffaele</persName></objectName> e di
+               quello non se ne vede altrove, perché mori qui) noi non li potessimo vedere, perché
+               il <persName ref="#HenriIV">re</persName> tiene le chiavi in <placeName ref="#Paris">Parigi</placeName>. In un'altra
+               galleria di Gondi, quadri tutti di re e regine di questo regno; in un'altra, di
+               uomini e donne; in un'altra, più illustri in arme, in lettere o in bellezza, tra
+               l'altre <objectName>la madre di don <persName ref="#VirginioOrsini">Virginio Orsino</persName>, che fu <persName ref="#IsabelleDeMedicis">Isabella de' Medici</persName></objectName>, simile alla
+               <persName>duchessa Sforza</persName> sua figlia; ed <objectName>un altro di <persName ref="#CleliaFarnese">Cleria Cesarini</persName></objectName>. Sopra un camino il re
+               <persName ref="#FrancoisIer">Francesco</persName> e <persName ref="#CharlesQuint">Carlo V</persName> che si toccano la mano, ed è <objectName>la pace che fecero tra loro</objectName>, di mano
+               del <persName ref="#FrancescoSalviati">Salviati</persName>. Le camere addobbate con letti di broccato di <placeName ref="#Florence"
+                  >Firenze</placeName>, tra l'altro una camera di velluto cremisi con le colonne e
+               freggi di broccato, con il letto simile, fatti fare in <placeName ref="#Florence"
+                  >Firenze</placeName> a gusto ed a capriccio del <persName>barone Gondi</persName>; e perché <persName ref="#JeromeDeGondi">Gerolamo
+               Gondi</persName> fu quello che conchiuse il parentado, perciò li porta affezione. Ha moglie e
+               figli il detto barone, ed il suo <objectName>ritratto</objectName> stava, con l'armatura addosso, in una
+               camera che s'è capata in questo luogo per sé la <persName ref="#MarieDeMedicis">regina</persName> quando ci va, e va spesso. In
+               questa camera vi è un camino con statue sopra di bronzo dorato e pietre grandi di
+               paragone, compartite con diversi altri ornamenti superbi, che i re non ne hanno uno
+               simile. Vi sono altre galerie e camerini e studioli dove si ritira a scrivere il <persName ref="#HenriIV">re</persName>,
+               remoti, con vista bellissima di giardini, l'està freschi e l'inverno caldi. In questo
+               camerino in cima c'era un <objectName>quadro</objectName>, nel quale era un <persName ref="#SaintFrancois">San Francesco</persName> in abito di
+               cappuccino, disteso per fianco in terra in mezzo a molti alberi, e questo era come un
+               coperchio d'un specchio, e sotto v'era un quadro con una donna ignuda colcata per
+               fianco nell'istessa positura. Nella stalla poi v'erano cavalli di <placeName
+                  ref="#Espagne">Spagna</placeName> ed un sardo di gran vita, contro la natura de'
+               sardi. </p>
+         </div1>
+         <div1 xml:id="C8" n="3" type="chapitre">
+            <head>Lyon</head>
+            <p>Doppo pranzo andammo a vedere la <objectName ref="#CathedraleLyon">chiesa di San Giovanni</objectName>, che è la più bella chiesa, e
+               <objectName ref="#SaintNizierLyon">San Niceto</objectName>, pur bella, ove sono alcune colonne che piacquero al signor Vincenzo. Si
+               cenò dal signor <persName>Andrea Costa</persName>, dove anche vi fu il <persName>signor Franco</persName>, il <persName>signor Rantigni</persName>,
+               il signor <persName>Lorenzo Pianella</persName>. Tra l'altre cose ci fu paste di <placeName ref="#Lyon">Lione</placeName> all'usanza di
+                  <placeName ref="#Genes">Genova</placeName>, delle quali la matina il signor Andrea
+               n'aveva mandato un bacile al signor Vincenzo. Si cenò allo scoperto sotto diversi
+               alberi di frutti vicino a una fontana d'acqua viva, in un luogo alto, donde si vedeva
+               quasi tutto <placeName ref="#Lyon">Lione</placeName> con le campagne un pezzo lontane. Doppo cena sul <objectName ref="#PontDuChangeLyon">ponte della Sona</objectName>,
+               ove vi è altro concorso di numero e di dame che in <objectName ref="#PiazzaNavona">Piazza Navona</objectName>; ed è ricreazione.
+            </p>
+         </div1>
+         <div1 xml:id="C9" n="3" type="chapitre">
+            <head>Avignon</head>
+            <p>Si smontò per non passare sotto il <objectName ref="#PontduSaintEsprit">ponte di
+                  Santo Spirito</objectName>, quale ha ventun archi, conforme disse il barcaruolo,
+               se bene se ne vidde solo tredici. Passato il ponte a mano manca entra lo Stato de
+               Chiesa. Subito che passammo a mezzo il porto del <placeName ref="#PontSaintEsprit">Borgo</placeName>, si viddero alberi d'olive non
+               più visti per l'addietro, fichi, celse e ginestre. Due leghe vicino ad <placeName
+                  ref="#Avignon">Avignone</placeName> a mano destra in Linguadoca, <persName>monsù di
+               Mompensiere</persName> ha una bella rocca, che si dimanda <placeName>Rocca Maura</placeName>, con belle muraglie, con
+               il <objectName>castello</objectName> su la rocca. Nello stato d'<placeName ref="#Avignon">Avignone</placeName>, massime verso <placeName ref="#Carpentras">Carpentras</placeName>, vi sono
+               molte terre forti murate benissimo. Qui incontro l'onde entravano in barca e la
+               percotevano che parevano sassate, per uno scoglio che vi era di sotto. <placeName
+                  ref="#Mornas">Morenas</placeName>, <placeName ref="#Bollene">Bolena</placeName>,
+                  <placeName ref="#ChateauneufDuPape">Castelnovo del Papa</placeName> e
+               <placeName>Castelfalvone</placeName>, e qui si fanno vini buonissimi per essere su in un monte. <placeName ref="#Avignon">Avignone</placeName> ha
+               le muraglie belle al possibile, fatte da papi, ben tirate, con disegni che paiono
+               pitture. Vi è un <objectName ref="#pontAvignon">ponte</objectName> il quale è rotto in doi luoghi con danno delli vicini di
+               Linguadoca e delli vassalli della Chiesa, perché quelli non possono venire a vendere
+               le robbe loro e questi sono privi di quella grascia. Non s'accommoda perché l'utile
+               lo vogliono i ministri del re ed alle spese vogliono che partecipi la Chiesa, è vi è
+               pericolo che caschi tutto, nel qual caso non si potrebbe navigare. </p>
+         </div1>
+         <div1 xml:id="C10" n="3" type="chapitre">
+            <head>Marseille</head>
+            <p><placeName ref="#Marseille">Marseglia</placeName> ha privilegio che dentro non vi può entrare vino forastiero, né meno della
+                  <placeName ref="#France">Francia</placeName>, se non due leghe lontano da
+               <placeName ref="#Marseille">Marseglia</placeName>. In <placeName ref="#Marseille">Marseglia</placeName> sono ottantamila anime. La casa di <persName>monsù di Vic</persName> è la più
+               bella e quella di <persName>monsù Gabrielli</persName>. Si vidde il <objectName ref="#CathedraleMarseille"
+                  >duomo</objectName> e l'altre chiese, brutte, ci menò per Marseglia un ragazzetto
+               piccolo, scalzo, e non sapea parlare. <placeName ref="#SalonDeProvence">Salone</placeName> è dell'arcivescovato d'<placeName
+                  ref="#Arles">Arles</placeName> in temporale e spirituale. Il generale delle galere
+               del re è giovine ed assomiglia a <persName>Emilio Sommaripa</persName> lodigiano, ma con abito
+               stravagante, scarpe e pianelle di velluto alte da punta, con fettucce e fiocchi
+               grandissimi, gambe sottili, calzette senza ligacci con calzoni corti, uomo
+               ceremonioso ed affettato: fece aspettare il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> un'ora in sala, poi usci
+               per andare a messa, e se il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName> non se li faceva inanti, se n'andava
+               tirato a messa. L'ascolto in sala in publico e l'accompagnò a basso avanti la porta
+               della strada. Lo consigliò di non aspettare il passaggio delle galere, non solo
+               perché era incerto il di della partenza, ma anche perché vi era ordine del re che
+               prima facessero una scorsa per <placeName ref="#IlesDHyeres">l'isole d'Ere</placeName>. Inoltre non avevano da pigliar porto né
+               a <placeName ref="#Genes">Genova</placeName> né a <placeName ref="Civitavecchia">Civitavecchia</placeName>, ma solo a <placeName ref="#Livourne">Livorno</placeName>.
+               Io andai a presentare le lettere del signor <persName>Bartolomeo Oli</persName> a <persName>Leonardo Pescofiori</persName>. Intanto il <persName ref="#VincenzoGiustiniani">signor Vincenzo</persName>
+               vidde ogni cosa notabile in mezz'ora, al solito. </p>
+         </div1>
+      </body>
+   </text>
+</TEI>

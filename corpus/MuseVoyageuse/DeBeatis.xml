@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../corpus/tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="ita">Itinerario di Monsignor reverendissimo et illustrissimo il
+               cardinale di Aragona</title>
+            <author ref="#AntonioDeBeatis">Antonio De Beatis</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Arterm</publisher>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Ed. von PASTOR, Friburgo 1905</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 n="1" xml:id="C1" type="chapitre">
+            <head>Boulogne, Notre-Dame</head>
+            <p>Vi è anche un mediocre <objectName>castello</objectName> et una ecclesia assai bella
+               che se dice <objectName>nostra Donna de Bologna</objectName> devotissima non solo a
+               li convicini, ma anchora ad exteri et de parti longinque. La dicta ecclesia è tucta
+               in volte molto aerosa et la <objectName>Madonna</objectName> è de relievo di materea
+               lingnea, devotissima figura et di color negro.</p>
+
+         </div1>
+
+         <div1 n="2" xml:id="C2" type="chapitre">
+            <head>Rouen, Notre-Dame</head>
+            <p>La <objectName>ecclesia del arcivescovato</objectName> è grande et tiene una bella
+               fazziata lavorata de intagli et figure, dove son doi campanili altissimi, che l'uno
+               non è anchora finito, de pietre benché molli similmente intagliate con molto
+               artificio. Et vi è una campana grossissima, quanta altra habiamo vista. In mezzo de
+               decta ecclesia è il <objectName>sepulchro</objectName> di <persName>monsignor rmo el
+                  cardinale di Rhoano</persName> di fe. me. in un vaso de pietra marme relevato da
+               sei palmi; et sopra il coverchio è lui de naturale et in relievo con certa cancellata
+               ferrea d'intorno.</p>
+
+         </div1>
+
+         <div1 n="3" xml:id="C3" type="chapitre">
+            <head>Gaillon, Castello e giardino</head>
+            <p>Da <placeName>Ponte d'Arce</placeName> sua s. illma parti do poi disnare pur in
+               lectica per andare ad trovare el <persName>re</persName> predicto in <placeName
+                  ref="#Gaillon">Gaglione</placeName> che è distante IV leghe per dispedirse da Sua
+               Mtà [...]. El decto <objectName>palazzo over castello</objectName> fu edificato da
+                  <persName ref="#GeorgesDAmboise">monsignor revmo di Rohano</persName> sopra un
+               monte, donde verso levante ha la più bella prospectiva de pratarie, acque et monti,
+               che se potesse desiderare. Lli è un <objectName>parco</objectName> che gira due
+               leghe, murato de grosse et alte mura, quale viene ad serrare con lo zardino de decto
+               palazzo. La moraglia perche se vedesse da la parte del basso tira per la costera del
+               monte. In esso sono più pezzi di belli et folti boschetti et pianure de correre
+               animali; vi sono anche molti palazzocti per dentro et belli cervi, caprii, daini
+               communi et anchora de bianchi, lepri et conegli infiniti. E1 zardino è de un gran
+               quatro, quale è ornatissimo de strate dispartito in quatri con certe cancellate de
+               legnamo ben lavorato et colorito di colore verde, et con sue porte galante in ciascun
+               quatro. Ad un lato, che è la tirata del muro verso il parco, ha una ucellera
+               bellissima [...]. Da doi altri lati in fine a la porta grande, che riesce in una gran
+               piazza di prataria, per donde se entra uel cortile del palazo, ha due strate
+               larghissime et molte longhe intemplate et foderate con sopto celo lamiato
+               sequitamente et lavorato tucto de legno di rovere con sì limpio lavoro che pare de
+               argento. Li tecti son converti ad una acqua de certe tavolecte di pietre negre che
+               pareno de piumbo vero. Le mura sonno tucte hystoriate di diverse fantasie et di bella
+               pictura. Verso il zardino sonno aperte con uno ordine di collonne de legnamo pur
+               tento de verde, sopra soi pogi et bene pavimentate. In <placeName ref="#France"
+                  >Franza</placeName> simili strate coperte chiamano gallerie, in <placeName
+                  ref="#Italie">Italia</placeName> claustri o logge. Da la dicta porta infine a
+               Valtra chi esce al parco donde incomincia la ucellera mancano le dicte gallerie,
+               quali secondo il desegno deveno sequire. In mezzo de decto zardino è una bellissima
+                  <objectName>fontana</objectName> con vasi marmorei intagliati de figure et in cima
+               un puctino chi gecta acqua da più lochi et molto alto; et quella se copre de un gran
+               paviglione lavorato de legnamo intagliato et molto riccho de azzurro fino et d'oro;
+               lui è di octo faccie et in ciascuna ha la mezza cuppula sua, cuperto pur al modo de
+               le galerie molto aeroso et superbo. Dentro il prefato zardino per incontro la porta
+               del parco è facta una camera pur ad octo faccie de legnamo investita de fabrica de
+               mactoni, pintata di bona mano et tucta posta d'oro et de azzurro con octo fenestre
+               conveniente a le dicte fazziate con vitreate bellissime, et coperta del modo del
+               paviglione, et cosi anche tucto il palazzo; dicta camera serve per dormire di mezzo
+               giorno la estate. In li quatri de decto jardino sonno alcuni arbori, ma per la
+               magiore parte herbe, bussi et rosmarine [...]. Dal zardino si esce in una piazza di
+               pratarie, donde, come è decto, si entra nel cortile che è nel mezzo del palazzo per
+               ponte levaturo. El decto palazzo tira un gran quatro, et lo cortile, chi è in mezzo,
+               anche è spacioso, et tanto dentro come di fora quanto appare tucto è di pietre et ben
+               lavorato. Et vi sonno tucti conzi di fenestre et porte con teste retracte dal antiquo
+               de marmi, et quelle sonno fabricate sopra dicte porte et a le fazziate che respondeno
+               al cortile, in mezzo de chi è un fonte sumptuosissimo marmoreo con grandissimi pili
+               de un pezzo et intagliato con molte et belle figure, et butta molto forte. In decto
+               palazzo, quale è posto in fortallezza per un gran fosso che li va intorno, sonno
+               infinite stantie, et due logge 1'una sopra 1'altra in la banda de la sopradecta
+               prospectiva ornatissimo, grandi et con colonne marmoree molto alte et airose; in una
+               de quali loggie sono per ordine de naturale l'effigie del <persName>roy
+                  Carlo</persName>, <persName>roy Ludovico</persName> et regina, di
+                  <persName>monsignor rmo die Rhoano</persName>, di <persName>monsignor rmo il
+                  cardinale di San Severino</persName>, naturalissima de la <persName>principessa de
+                  Bisignano</persName>, et de alcuni altri signori et madonne Franzese, et tucti de
+               relievo colorati, non so però si son facte di legno o di pietra. Vi è anche una
+                  cappella bellissima et di grandezza conveniente al
+               palazzo, intorno de la quale di dentro vi sonno de naturale in pietra tucti li
+               signori de casa de <placeName ref="#Amboise">Ambois</placeName>, di che era il
+               predicto monsignor di Rohano. Le intemplature de le sale, camere et retrecti sonno
+               variamente lavorate con molto artificio et ricchissime, et una vi è in la camera dove
+               alloggiò el signore una nocte [...], tucta intagliata de legnamo de rovere in modo di
+               lamia ad spiculo, con foderatura per tucte le mura de decta camera del medesmo
+               legnamo tanto artificiosamente, che benchè non sia gran quatro constò XII milia
+               franchi. Le sale son dubate ad non mancare niuna di bellissimi razzi et camere de
+               velluti, rasi, damaschi et de burchati in ciascuna sua trabaccha conforme. Le
+               vitreate son tante et così belle historiate, che costorno XII milia scuti [...]. El
+               prefato palazzo ancora che sia bellissimo et cussì vagho maxime for via de intaglie
+               de pietre, d'ornamenti de octono et ordine de tecti, come cosa habia vista mai, et
+               per essere stato fabricato su un monte, come è decto, quale fu necessario spianare
+               per gran parte, habia constato (secundo la relatione de Franciosi et de auctorità)
+               septecento miglia franchi, el che ad chi lo ha visto non parera cosa incredibile, non
+               si può però denegare, che si de stantie come de le facciate che respondeno al
+               cortile, non sia stato male inteso. <persName ref="#GeorgesDAmboise">Monsignor revmo
+                  di Rohano</persName> fe fabricare decto palazzo ad emulatione di quello del
+                  <placeName ref="#LeVerger">Vergero</placeName> quale descriverò appresso. Et benchè in la morte
+               sua il lassasse al arcivescovato de <placeName ref="#Rouen">Rohano</placeName>, pur
+               se ne fe conscientia, et havendo facta cussì gran spesa per vanità ne dimostrò
+               grandissimo pentimento, dicendo: places a Dio che l'argento che ge dispesi in
+                  <placeName ref="#Gaillon">Gaglion</placeName> 1'haves bagliat ad povera gent.</p>
+
+         </div1>
+
+         <div1 n="4" xml:id="C4" type="chapitre">
+            <head>Parigi, Notre-Dame</head>
+            <p><placeName ref="#Paris">Parisi</placeName> è cita, qual'è [sic], secondo si può
+               videre da su il campanile di <objectName>Nostra Damma</objectName>, che è la ecclesia
+               cathedrale, donde si scopra tucta, non di minore habitato de <placeName ref="#Rome"
+                  >Rome</placeName>, et diria forsi di più [...]. Et la dicta ecclesia cathedrale,
+               quale è edificata sopra il fiume, è una largha et grande ecclesia, ma non molto
+               bella. Al primo pilastro de la gran nave, ad man dextra quando vi si entra, è
+               contrafacto un gran monte de pietra, dove sta appogiato un <objectName>san
+                  Cristoforo di pietra</objectName>, di grandezza quasi di
+                  <objectName>Morfoi</objectName>.</p>
+         </div1>
+
+         <div1 n="5" xml:id="C5" type="chapitre">
+            <head>Parigi, Sainte-Chapelle</head>
+            <p>In lo cortile de decto <objectName>palazzo</objectName> è la <objectName>santa
+                  ciappella</objectName>, quale non è grande, et son due ecclesie di sotto et di
+               sopra, et l'una et l'altra se officia assai bene con canonici honorati et de bone
+               intrate. In quella di sopra è uno altare ornatissimo d'oro,
+               et sopra quello è un tabernaculo dove se sale da tucte due
+               le bande da dietro dicto altare per certe lumache de octono, in che non cape più che
+               una persona strectamente.</p>
+
+         </div1>
+
+         <div1 n="6" xml:id="C6" type="chapitre">
+            <head>Saint-Denis, Sepolture reali, Basilica-cattedrale</head>
+            <p>Se andò ad <placeName ref="#SaintDenis">san Donisi</placeName> villagio due leghe distante da
+                  <placeName ref="#Paris">Parisi</placeName>, dove è la <objectName>abbatia di San
+                  Donisi</objectName>, assai bella ecclesia et ultra la devotione credo la più
+               riccha d'oro, argento et gioye che sia in cristianità [...]. Lli son sepulti tucti li
+               ri de <placeName ref="#France">Franza</placeName> et regine che son morte, ben vero
+               che li cori loro se sepelliscano in diverse ecclesie secondo le devotioni. Li dicti
+                  sepulchri posano in terra et per la più parte dentro il
+               choro et sono de marmore relevati da circha septe palmi, non già sumptuosi, et nel
+               coverghio di quelli sono le imagine loro di mezzo relievo et di naturale, ma sopra
+               quello di <persName>re Carlo</persName> ultimo sta lui ingenoghiono; alcuni ne sono
+               circumdati con legnami cancellati et serrati con chiavi et alcuni no; de modo che de
+               decti ri franciosi di poi morti se ne conosce humilità grande.</p>
+
+         </div1>
+
+         <div1 n="7" xml:id="C7" type="chapitre">
+            <head>Rennes</head>
+            <p>Dicta <placeName ref="#Rennes">villa</placeName> è grande quanto qualsivoglia altra di
+                  <placeName ref="#Bretagne">Britagna</placeName>, molto strecta habitata, assai populosa, ben
+               fornita de arti et forte. Tene in circha gran borghi, et per dentro li correno due
+               mediocri rivere. Le strate son pocho strecte et fangose. Le ecclesie per la qualità
+               de la terra non molto belle.</p>
+
+         </div1>
+
+         <div1 n="8" xml:id="C8" type="chapitre">
+            <head>Nantes, Sarcofago a gisant di Francesco II di Bretagna e di Margherita di Foix,
+               convento carmelitano (al tempo)</head>
+            <p>In una <objectName>ecclesia de carmelitani</objectName> è il
+                  <objectName>sepulchro del <persName>duca</persName> et
+                  <persName>duchessa de Britagna</persName></objectName>, avi di questa <persName>regina di
+                  Franza</persName>, quale è di doi quatri riposto in terra in mezzo del choro de
+               dicta ecclesia, con proporcionata altura. Esso è de un marmore negro, et le figure
+               son tucte de alabastro con sue suaggie o cortade intorno pur de finissimo alabastro.
+               In li quactro cantoni sono le quactre virtù, forteza, temperantia, justicia et
+               prudentia de tucto relievo et de statura de circha VII palmi ben lavorate. Di sopra
+               posano le effigie de li predicti duca et duchessa pur de alabastro et de tucto
+               relievo. A la dextra il marito con un leone ad piedi, a la sinistra la muglie con un
+               cane pur sopto li piedi, quali, secondo dicano quelli fratri, sono de naturale. Et
+               per opera moderna veramente è assai bella cosa.</p>
+
+         </div1>
+
+         <div1 n="9" xml:id="C9" type="chapitre">
+            <head>Verger</head>
+            <p>Questo è un <objectName>palazzo</objectName> in piano posto in forteza con fossi
+               profondi et pieni de acqua, [...] et benché decto palazzo non sia costato tanto
+               quanto <placeName ref="#Gaillon">Gaglione</placeName> che fe edificare <persName
+                  ref="#GeorgesDAmboise">monsignor r.mo de Rohano</persName> di bo. me., né di tanta
+               vista, per essere quello locato in monte et questo in piano, è molto megliore inteso
+               et de più commode habitatiuni. Tiene un bel parco murato di gran mura et zardino, ma
+               non così belli come quelli di <placeName ref="#Gaillon">Gaglione</placeName>.</p>
+
+         </div1>
+
+         <div1 n="10" xml:id="C10" type="chapitre">
+            <head>Cathédrale de Bourges et sainte chapelle</head>
+            <p>Veddimo una bellissima <objectName>ecclesia</objectName> e grande, benché non sia
+               cruciata come la magior parte de le ecclesie moderne. Nel choro è un grande arbore de
+               octono et bello. [...] Dicta <objectName>sancta ciappella</objectName> è più grande
+               de quella di <placeName ref="#Paris">Parisi</placeName>, non gia tanto ornata, ma se
+               serve con più canonici et clerici de la predicta de Parisi. Fu
+               edificata et dotata dal <persName>duca di Burges</persName>, figliolo secundogenito
+               de un <persName>roy Carlo</persName>, qual duca è sepulto in mezzo del choro in un
+               gran <objectName>sepulchro</objectName> marmoreo posto in terra con rilievo de VII
+               palmi. Però è da advertere che ne in la <placeName ref="#Alemagne">Magna</placeName> alta ne in la
+               bascia ne in <placeName ref="#France">Franza</placeName> habbiamo trovati sepulchri
+               relevati con soi archecti accostati ad mura de gran lavori et superbi al modo
+               italiano, ma solo sepulchri de doi quatri, quali o bassi o alti relevati, tucti
+               posano in terra.</p>
+         </div1>
+         <div1 n="11" xml:id="C11" type="chapitre">
+            <head>Saint-Antoine-des-Viennois</head>
+            <p>La <objectName>ecclesia</objectName> de decto santo, quale è fondata sopra certa
+               eminentia, è assai bella e grande. Vi è entrando a man sinistra della nave appresso
+               il choro un bello et grosso organo con molti registri et
+               assai ornato con la demostratione de <objectName>l'angelo che annuntia la
+                  Madonna</objectName> et moltre altre galanterie.</p>
+         </div1>
+      </body>
+   </text>
+</TEI>
