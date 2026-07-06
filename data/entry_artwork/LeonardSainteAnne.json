@@ -1,0 +1,65 @@
+{
+  "id": "LeonardSainteAnne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q563727",
+  "entry_type": "artwork",
+  "title": "Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "1503-1519"
+  },
+  "materialsAndTechniques": "huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "maraniLeonardVinciCarriere1999",
+      "location": "n° 30"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Léonard_de_Vinci%2C_sainte_Anne%2C_Louvre.jpg",
+      "copyright": "Wikimédia Commons, Léonard de Vinci, Domain Public (https://commons.wikimedia.org/wiki/File:Léonard_de_Vinci,_sainte_Anne,_Louvre.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.404524",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T11:49:46.327587",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T11:44:15.964160",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

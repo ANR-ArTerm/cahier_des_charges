@@ -1,0 +1,58 @@
+{
+  "id": "RaimondiSainteCecile",
+  "QID_wikidata": "",
+  "title": "Sainte Cécile, entourée de saint Paul, saint Jean, saint Augustin et sainte Marie-Madeleine",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": 1515,
+    "endYear": 1516,
+    "text": "vers 1515-1516"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/342578/1483283/main-image",
+      "copyright": "Metropolitan Museum of Arts, inv. 17.3.573 (https://www.metmuseum.org/art/collection/search/342578)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.468638",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-28T14:26:48.107621",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T16:25:32.829631",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 1,
+  "typology": "Estampe"
+}

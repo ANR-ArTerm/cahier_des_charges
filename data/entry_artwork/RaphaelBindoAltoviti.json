@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelBindoAltoviti",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2528106",
+  "entry_type": "artwork",
+  "title": "Portrait de Bindo Altoviti\r",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": null,
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° 72"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Raphael_-_Bindo_Altoviti_-_Google_Art_Project.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.283450",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T09:02:33.238090",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

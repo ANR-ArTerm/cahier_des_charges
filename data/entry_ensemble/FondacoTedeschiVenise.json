@@ -1,0 +1,97 @@
+{
+  "id": "FondacoTedeschiVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1259067",
+  "entry_type": "ensemble",
+  "title": " Façade du Fondaco dei Tedeschi ",
+  "creator": [
+    {
+      "xml_id": "Giorgione",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "Titien",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1508,
+    "text": "1508"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": "Venise",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalcoFondacoTedeschiVenezia2016",
+      "location": ""
+    },
+    {
+      "zotero_key": "novaGiorgioneTizianoFondaco2017",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Fontego_dei_Tedeschi_Venedig.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 4.0, Freddo213, https://commons.wikimedia.org/wiki/Category:Fondaco_dei_Tedeschi",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "Fresques existent toujours mais détachées. Maintenant à la Ca' d'Oro (A vérifier)\n",
+  "history": [
+    {
+      "date": "2026-04-10T19:04:02.402025",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T12:07:05.810172",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-23T14:53:25.390766",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-19T19:39:05.909920",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T19:40:48.712928",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T19:44:51.465017",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T19:45:21.627127",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-29T14:52:10.516668",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "cycle de peintures",
+  "contains_works": [],
+  "status_entry": 1
+}

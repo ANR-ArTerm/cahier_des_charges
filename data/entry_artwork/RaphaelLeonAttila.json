@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelLeonAttila",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2716974",
+  "entry_type": "artwork",
+  "title": "La Rencontre entre Léon Ier le Grand et Attila",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": null,
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 81"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/0_Chambre_de_Raphaël_-_Rencontre_de_Léon_le_Grand_et_d%27Attila.JPG",
+      "copyright": "Wikimédia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:0_Chambre_de_Raphaël_-_Rencontre_de_Léon_le_Grand_et_d%27Attila.JPG)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.267162",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:16:24.265976",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

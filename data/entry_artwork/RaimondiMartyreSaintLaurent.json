@@ -1,0 +1,54 @@
+{
+  "id": "RaimondiMartyreSaintLaurent",
+  "QID_wikidata": "",
+  "title": "Martyre de Saint Laurent",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 104 (89)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP223393.jpg",
+      "copyright": "MET, Public Domain, https://www.metmuseum.org/art/collection/search/345726",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.470826",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:56:48.957430",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

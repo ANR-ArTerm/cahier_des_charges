@@ -1,0 +1,90 @@
+{
+  "id": "MichelAngePlafondSixtine",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q844675",
+  "entry_type": "ensemble",
+  "title": "Plafond de la chapelle Sixtine",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1508,
+    "endYear": 1512,
+    "text": "1508-1512"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Chapelle Sixtine",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "partridgeMichelangeloVoltaCappella1996",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/CAPPELLA_SISTINA_Ceiling.jpg",
+      "copyright": "",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-19T16:59:00.719225",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T12:59:56.450730",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:41:41.164148",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T14:44:18.199891",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-04T17:16:24.417495",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-11T15:55:52.679552",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T16:42:17.223175",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "ensemble décoratif",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MichelAngeIsaieSixtine",
+      "link_types_contained": null
+    }
+  ],
+  "status_entry": 1
+}

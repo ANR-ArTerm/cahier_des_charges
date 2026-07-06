@@ -1,0 +1,54 @@
+{
+  "id": "MichelAngeCascina",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Bataille de Cascina",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": null,
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/La_batalla_de_Cascina_-_Sangallo.jpg",
+      "copyright": "Wikimedia Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:La_batalla_de_Cascina_-_Sangallo.jpg)",
+      "caption": "La bataille de Cascina (Sangallo) copie des cartons de Michel-Ange",
+      "storage": "online"
+    }
+  ],
+  "description": "Il en réalisa seulement le carton, fragmenté puis détruit mais connu par une copie d’Aristotele da Sangallo.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.159136",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T10:22:24.908016",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T10:22:55.962996",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

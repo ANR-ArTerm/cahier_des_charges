@@ -1,0 +1,82 @@
+{
+  "id": "MichelAngeTombeauLaurentIIMedicis",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3992617",
+  "entry_type": "artwork",
+  "title": "Tombeau de Laurent II de Médicis",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "sculpteur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1524,
+    "endYear": 1534,
+    "text": "1524-1534"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Basilique San Lorenzo",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "biettiSagrestiaDiMichelangelo2023",
+      "location": ""
+    },
+    {
+      "zotero_key": "michelangeloMichelangeloTombeMedicee1965",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Life_of_Michael_Angelo%2C_1912_-_Monument_of_Lorenzo_de_Medici.jpg",
+      "copyright": "Domaine public, https://commons.wikimedia.org/wiki/File:Life_of_Michael_Angelo,_1912_-_Monument_of_Lorenzo_de_Medici.jpg",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-04T15:22:52.899055",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-02-04T15:34:18.279756",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-29T14:59:29.867659",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T17:30:08.473961",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {
+    "link_type": "appartient à l'ensemble",
+    "xml_id_work": "SagrestiaNuovaFlorence"
+  },
+  "status_entry": 1,
+  "typology": "Sculpture"
+}

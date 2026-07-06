@@ -1,0 +1,62 @@
+{
+  "id": "RaphaelParnasse",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2715152",
+  "entry_type": "artwork",
+  "title": "Parnasse",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": "huile sur toile",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée du Louvre",
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dusslerRaphaelCriticalCatalogue1971",
+      "location": "p. 74"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.224130",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-01-27T10:19:53.687775",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:08:39.255979",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-30T11:10:12.710591",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

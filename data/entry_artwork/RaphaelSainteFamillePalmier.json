@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelSainteFamillePalmier",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3212679",
+  "entry_type": "artwork",
+  "title": "La Sainte Famille au palmier",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": null,
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 32"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Raphael_The_Holy_Family_with_a_Palm_Tree.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Raphael_The_Holy_Family_with_a_Palm_Tree.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.170173",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:44:58.747014",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

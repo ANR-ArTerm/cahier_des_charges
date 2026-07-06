@@ -1,0 +1,58 @@
+{
+  "id": "MantegnaBelvedere",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Chapelle du Belvedere",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1488,
+    "endYear": 1490,
+    "text": "1488-1490"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vatican",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "pp. 247–255"
+    },
+    {
+      "zotero_key": "martineauAndreaMantegna1992a",
+      "location": "pp. 389–395"
+    }
+  ],
+  "illustrations": [],
+  "description": "Le pape commande une série de fresques (détruites au XVIIe siècle) pour la chapelle à Andrea Mantegna.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-19T19:35:59.318669",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:28:31.524323",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

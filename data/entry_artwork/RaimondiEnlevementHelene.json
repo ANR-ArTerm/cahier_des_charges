@@ -1,0 +1,54 @@
+{
+  "id": "RaimondiEnlevementHelene",
+  "QID_wikidata": "",
+  "title": "L'enlèvement d'Hélène",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP831906.jpg",
+      "copyright": "MET, Public Domain (https://www.metmuseum.org/art/collection/search/416020)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.467387",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T10:50:04.482525",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T11:42:27.845441",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

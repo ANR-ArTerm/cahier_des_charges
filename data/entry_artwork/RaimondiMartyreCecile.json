@@ -1,0 +1,59 @@
+{
+  "id": "RaimondiMartyreCecile",
+  "QID_wikidata": "",
+  "title": "Martyre de Sainte Cecile",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 117 (104)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b69532745/f1/full/full/0/native.jpg",
+      "copyright": "Source gallica.bnf.fr / Bibliothèque nationale de France (https://gallica.bnf.fr/ark:/12148/btv1b69532745.item)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.467493",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-03-17T12:11:59.582690",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:54:38.030376",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 1,
+  "typology": "Estampe"
+}

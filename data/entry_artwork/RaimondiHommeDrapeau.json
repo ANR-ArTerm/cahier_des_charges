@@ -1,0 +1,69 @@
+{
+  "id": "RaimondiHommeDrapeau",
+  "QID_wikidata": "",
+  "title": "L'homme au drapeau",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 481 (357)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP855117.jpg",
+      "copyright": "MET, Domain Public, https://www.metmuseum.org/art/collection/search/342682",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.469993",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T10:56:50.037350",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T11:00:52.739406",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:14:19.425100",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:14:22.499137",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

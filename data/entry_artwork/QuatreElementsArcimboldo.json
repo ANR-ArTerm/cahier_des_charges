@@ -1,0 +1,85 @@
+{
+  "id": "QuatreElementsArcimboldo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1750032",
+  "entry_type": "artwork",
+  "title": "Quatre Éléments",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1566,
+    "endYear": 1566,
+    "text": "1566"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 147-156"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arcimboldo_Air_%28copy%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg/1280px-Giuseppe_Arcimboldo_Fire_Kunsthistorisches_Museum.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": ""
+    },
+    {
+      "id": 2,
+      "url": "https://scontent-fco2-1.cdninstagram.com/v/t51.75761-15/504718634_17911982745118737_2743321151136711442_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzY2NTc3MTgzNTE2NzgyOTMyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=WjCDS1Kb1cgQ7kNvwGhVc6O&_nc_oc=AdppPyDBMOkqYm7MvopSQuZ6e-c2iHZxHfHHAe7ljrWkA-zQ7wVEoB7RNCVyP6HTd3A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_gid=qk0ZoH7eGUb2qYScS0uc7g&_nc_ss=7a22e&oh=00_AQAWxo-EfbVSUAnR52cvb08uLpQ9uzvY1UnZ1VtkeFRi5A&oe=6A4AAE82",
+      "storage": "online",
+      "copyright": "Public domain, rolvatore",
+      "caption": ""
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arcimboldowater.jpg/960px-Arcimboldowater.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:07:34.652086",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:07:38.863712",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:07:59.893708",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T13:11:53.401254",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "MurAntoninGrandeBretagne",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q210957",
+  "entry_type": "building",
+  "title": "Mur d'Antonin en Grande-Bretagne",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 142,
+    "endYear": 144,
+    "text": "Ie siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": null,
+      "country": "Angleterre",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T16:44:28.097578",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-17T16:53:49.728718",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

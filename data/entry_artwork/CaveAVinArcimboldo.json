@@ -1,0 +1,90 @@
+{
+  "id": "CaveAVinArcimboldo",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Cave à vin",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1574,
+    "endYear": 1574,
+    "text": "1574"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PrivateCollection",
+      "place": "London",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 179, 182"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835FXD.jpg/960px-Giuseppe_Arcimboldo_-_The_Waiter_-_WGA0835FXD.jpg?_=20180323204749",
+      "copyright": "Wikimedia Commons, Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "\n",
+  "history": [
+    {
+      "date": "2026-06-22T18:49:32.084706",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T18:50:18.508035",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T18:59:31.080076",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T10:04:13.413687",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T09:23:50.292595",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:14:35.728562",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T13:14:41.183488",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-01T15:30:46.865433",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

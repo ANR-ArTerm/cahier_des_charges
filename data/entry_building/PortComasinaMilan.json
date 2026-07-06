@@ -1,0 +1,40 @@
+{
+  "id": "PortComasinaMilan",
+  "QID_wikidata": "https://it.wikipedia.org/wiki/Porta_Comasina_(medievale)",
+  "entry_type": "building",
+  "title": "Porte Comasina",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XIIe-XVIe siècles"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "cassiramelliCentroDiMilano1971",
+      "location": "pp. 28-31"
+    }
+  ],
+  "illustrations": [],
+  "description": "Détruite au XVIe siècle",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-02T15:21:37.650789",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T14:41:15.085006",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "Porte",
+  "contained_by_ensemble": {}
+}

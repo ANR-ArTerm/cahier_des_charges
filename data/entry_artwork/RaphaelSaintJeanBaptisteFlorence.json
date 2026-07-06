@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelSaintJeanBaptisteFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3463871",
+  "entry_type": "artwork",
+  "title": "Saint Jean-Baptiste",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": "huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° A4"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_the_Baptist_in_the_wilderness_%28by_Raffaello_Sanzio%29_–_Tribuna_degli_Uffizi%2C_Florence.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:John_the_Baptist_in_the_wilderness_(by_Raffaello_Sanzio)_–_Tribuna_degli_Uffizi,_Florence.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.354186",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T12:07:02.413610",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:51:12.702118",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

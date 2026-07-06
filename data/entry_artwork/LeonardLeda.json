@@ -1,0 +1,59 @@
+{
+  "id": "LeonardLeda",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2308934",
+  "entry_type": "artwork",
+  "title": "Léda et le cygne",
+  "creator": [
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1505,
+    "endYear": 1510,
+    "text": "1505-1510 ca."
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "dalliregoliLeonardoMitoDi2001",
+      "location": "pp. 116-119"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Study_for_the_Kneeling_Leda.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Study_for_the_Kneeling_Leda.jpg)",
+      "caption": "Léonard de Vinci, Étude pour une Léda agenouillée au cygne, plume et encre sur pierre noire, Chatsworth, Devonshire"
+    }
+  ],
+  "description": "Peinture perdue de Léonard de Vinci.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-05T15:53:02.156205",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-05T15:40:23.891452",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-18T16:28:04.165221",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "materialsAndTechniques": "huile sur bois",
+  "contained_by_ensemble": {},
+  "status_entry": 1,
+  "typology": "Peinture"
+}

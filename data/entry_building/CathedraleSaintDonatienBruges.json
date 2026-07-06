@@ -1,0 +1,43 @@
+{
+  "id": "CathedraleSaintDonatienBruges",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2550254",
+  "entry_type": "building",
+  "title": "Cathédrale Saint-Donatien de Bruges",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 900,
+    "endYear": 1299,
+    "text": "Xe-XIIIe siècles"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Bruges",
+      "country": "Belgique",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "La cathédrale fut détruite entre 1799 et 1800. \n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T18:27:38.762826",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T13:34:39.558100",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "cathédrale",
+  "contained_by_ensemble": {}
+}

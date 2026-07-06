@@ -1,0 +1,54 @@
+{
+  "id": "RaimondiMariesPleurantChristMort",
+  "QID_wikidata": "",
+  "title": "Les Maries pleurant le Christ mort",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 37 (43)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marcantonio_Raimondi_-_Lamentation_-_WGA18977.jpg",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Marcantonio_Raimondi_-_Lamentation_-_WGA18977.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.470933",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T15:53:10.360760",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

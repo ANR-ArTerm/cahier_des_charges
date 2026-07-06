@@ -1,0 +1,59 @@
+{
+  "id": "DurerViergeSinge",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q18338506",
+  "entry_type": "artwork",
+  "title": "Vierge avec un singe",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1498,
+    "endYear": 1498,
+    "text": "environ 1498"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 85-87"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Durer_-_Madonna_with_a_monkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20090907091342",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain (CC 0) (https://commons.wikimedia.org/wiki/File:Clevelandart_1964.29.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-06T16:55:29.461647",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-29T12:37:00.738812",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-17T11:44:12.804805",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {},
+  "status_entry": 1,
+  "typology": "Estampe"
+}

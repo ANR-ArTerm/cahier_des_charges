@@ -1,0 +1,54 @@
+{
+  "id": "DurerGrandePassionBoisCene",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La Cène",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1510,
+    "endYear": 1510,
+    "text": "1510"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": null,
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Durer%2C_la_grande_passione_09.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Sailko, ( https://commons.wikimedia.org/wiki/File:Durer,_la_grande_passione_09.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-25T19:11:55.551140",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-01T15:49:24.730325",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "gravure sur bois",
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

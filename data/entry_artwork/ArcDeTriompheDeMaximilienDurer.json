@@ -1,0 +1,59 @@
+{
+  "id": "ArcDeTriompheDeMaximilienDurer",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1300406",
+  "entry_type": "artwork",
+  "title": "L'Arc de triomphe de l'empereur Maximilien Ie",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1515,
+    "endYear": 1515,
+    "text": "1515"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 369-372"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Albrecht_Dürer_-_The_Triumphal_Arch_of_Maximilian_%28NGA_1991.200.1%29.jpg/1280px-Albrecht_Dürer_-_The_Triumphal_Arch_of_Maximilian_%28NGA_1991.200.1%29.jpg",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-12T17:13:26.245528",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T16:12:16.255357",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T16:06:40.442023",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "eau-forte",
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

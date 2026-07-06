@@ -1,0 +1,64 @@
+{
+  "id": "LaprocessionDeMegabizoApelle",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "La procession de Megabizo",
+  "creator": [
+    {
+      "xml_id": "Apelle",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "IVème siècle av. J.-C."
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Ephese",
+      "country": "Turquie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "TempleArtemisEphese"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Oeuvre mentionée par Pline dans L'Ancien Historia (Livre XXXV, chapitre 36, 93).\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T18:27:08.153219",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-10T18:35:55.878957",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-19T17:19:12.699086",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-29T09:51:17.399899",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 2,
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

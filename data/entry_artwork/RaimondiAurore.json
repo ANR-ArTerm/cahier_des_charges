@@ -1,0 +1,51 @@
+{
+  "id": "RaimondiAurore",
+  "QID_wikidata": "",
+  "title": "Le Lever de l'Aurore",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch261978",
+      "location": "n° 293 (222)"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.470214",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-24T17:11:56.745868",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T11:22:36.506722",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 2,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

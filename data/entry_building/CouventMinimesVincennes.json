@@ -1,0 +1,60 @@
+{
+  "id": "CouventMinimesVincennes",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q111745852",
+  "entry_type": "building",
+  "title": "Couvent des Minimes de Vincennes ",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 1164,
+    "endYear": 1179,
+    "text": "1179"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abbaye_des_Minimes_arriv%C3%A9e_de_Louis_XIV_Van_der_Meulen.png",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, VVVCFFrance  (https://commons.wikimedia.org/wiki/File:Abbaye_des_Minimes_arriv%C3%A9e_de_Louis_XIV_Van_der_Meulen.png)",
+      "caption": ""
+    },
+    {
+      "id": 1,
+      "url": "data\\images\\Plan_général_du_Chasteau_Jardins_[...]_btv1b53046282g.JPEG",
+      "copyright": "Gallica ",
+      "caption": "http://catalogue.bnf.fr/ark:/12148/cb402689323",
+      "storage": "local"
+    }
+  ],
+  "description": "Le couvent des Minimes de Vincennes est à l'emplacement de l'actuel Lac des Minimes du bois de Vincennes.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-17T18:52:52.634711",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T09:09:55.527586",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-24T09:40:08.559171",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T10:24:00.853437",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "monument imaginaire ou disparu",
+  "contained_by_ensemble": {}
+}

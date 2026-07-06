@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelSaintMichel",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q594470",
+  "entry_type": "artwork",
+  "title": "Saint Michel",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": "huile sur bois transposée sur toile",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° 61"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Le_Grand_Saint_Michel%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Le_Grand_Saint_Michel,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.342105",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-21T12:06:15.492402",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:53:04.786270",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

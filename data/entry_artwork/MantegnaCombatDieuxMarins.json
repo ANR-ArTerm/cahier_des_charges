@@ -1,0 +1,49 @@
+{
+  "id": "MantegnaCombatDieuxMarins",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q4024963",
+  "title": "Combat des dieux marins",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Andrea_Mantegna_Schlacht_der_Meeresgötter.jpg",
+      "copyright": "Wikimedia  Commons, Domaine Public (https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_Schlacht_der_Meeresgötter.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.466669",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T15:18:37.825658",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

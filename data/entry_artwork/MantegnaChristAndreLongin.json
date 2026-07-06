@@ -1,0 +1,54 @@
+{
+  "id": "MantegnaChristAndreLongin",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q56305286",
+  "title": "Le Christ ressuscité entre saint André et Longin\r",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": "burin",
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "n° 206"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Risen_Christ_between_Saint_Andrew_and_Saint_Longinus_MET_51220.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimedia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:The_Risen_Christ_between_Saint_Andrew_and_Saint_Longinus_MET_51220.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.467148",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-22T15:10:05.501137",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

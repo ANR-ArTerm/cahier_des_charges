@@ -1,0 +1,61 @@
+{
+  "id": "SantaMariaDellaCaritaVenise",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2929873",
+  "entry_type": "building",
+  "title": "Santa Maria della Carita Venise",
+  "creator": [
+    {
+      "xml_id": "BartolomeoBono",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1100,
+    "endYear": 1600,
+    "text": "entre XIIe et XVIe siècle"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Venise",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.4313",
+        "longitude": "12.3285"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "PalladioOeuvreArchitecturale2001",
+      "location": "pp. 226-229"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Carit%C3%A0_%28Venice%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Didier Descouens (https://commons.wikimedia.org/wiki/File:Carit%C3%A0_(Venice).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "Eglise issue d'un projet non abouti, d'un complexe du \"Convento dela Carità\" projeté par Andréa Palladio.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T10:20:25.436058",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T14:06:21.298604",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 8
+}

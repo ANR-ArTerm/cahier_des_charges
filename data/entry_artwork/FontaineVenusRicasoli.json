@@ -1,0 +1,56 @@
+{
+  "id": "FontaineVenusRicasoli",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Fontaine Venus",
+  "creator": [],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "/"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "jonietzSemanticsRecyclingCosimo2011",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "La sculpture antique de Vénus aurait été utilisée pour la fontaine de Vénus.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-01T12:23:14.348592",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-05-01T12:26:43.112166",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-03T16:57:58.637197",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-17T16:54:45.219486",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "materialsAndTechniques": "Sculpture en marbre",
+  "contained_by_ensemble": {},
+  "status_entry": 1,
+  "typology": "Sculpture"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DiamantBirago",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait du prince Charles d'Espagne",
+  "creator": [
+    {
+      "xml_id": "ClementeBirago",
+      "role": "orifice"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1559,
+    "endYear": 1589,
+    "text": "1559-1589"
+  },
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "crespoArteColeccionarLisboa2019",
+      "location": "pp. 54-67"
+    }
+  ],
+  "illustrations": [],
+  "description": "Perdu",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T13:01:38.454849",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T16:09:45.157733",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 1,
+  "materialsAndTechniques": "gravure au diamant",
+  "contained_by_ensemble": {},
+  "typology": "Orfèvrerie"
+}

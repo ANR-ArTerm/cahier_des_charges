@@ -1,0 +1,85 @@
+{
+  "id": "QuatreSaisonsArcimboldo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1395699",
+  "entry_type": "artwork",
+  "title": "Quatre Saisons",
+  "creator": [
+    {
+      "xml_id": "GiuseppeArcimboldo",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1563,
+    "endYear": 1573,
+    "text": "1563-1573"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ferino-pagdenArcimboldo152615932008",
+      "location": "pp. 125-140"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg/1280px-Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": "Printemps"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Arcimboldo_Summer_1563.jpg/960px-Arcimboldo_Summer_1563.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": "Été"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": ""
+    },
+    {
+      "id": 3,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Arcimboldo_Winter_1563.jpg/960px-Arcimboldo_Winter_1563.jpg",
+      "storage": "online",
+      "copyright": "Wikimédia Commons, Public domain",
+      "caption": "Hiver"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-22T18:14:24.788506",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T18:22:34.639003",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-23T16:09:06.335293",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-01T13:27:20.466608",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "huile sur toile",
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

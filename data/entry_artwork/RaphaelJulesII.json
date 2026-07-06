@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelJulesII",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q686848",
+  "entry_type": "artwork",
+  "title": "Portrait du pape Jules II",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1511,
+    "endYear": 1511,
+    "text": "1511"
+  },
+  "materialsAndTechniques": "huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "NationalGalleryLondon",
+      "place": "London",
+      "inventory_number": "NG27",
+      "url": "https://www.nationalgallery.org.uk/paintings/raphael-pope-julius-ii"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° 71"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pope_Julius_II.jpg/960px-Pope_Julius_II.jpg",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.237111",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-19T19:17:32.998335",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-30T10:09:39.414347",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

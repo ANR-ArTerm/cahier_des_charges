@@ -1,0 +1,88 @@
+{
+  "id": "BelvedereVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q17354885",
+  "entry_type": "building",
+  "title": "Palais du Belvédère (Vatican)",
+  "creator": [
+    {
+      "xml_id": "AntonioPollaiuolo",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "Bramante",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaldassarrePeruzzi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PirroLigorio",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1484,
+    "endYear": 1565,
+    "text": "1484-1565"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Vatican",
+      "country": "Vatican",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "nicoloBelvedereDiInnocenzo2009",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/0_Chapelle_Sixtine_-_Palais_du_Belv%C3%A9d%C3%A8re_et_Mus%C3%A9es_du_Vatican.JPG",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Jean-Pol GRANDMONT (https://commons.wikimedia.org/wiki/File:0_Chapelle_Sixtine_-_Palais_du_Belvédère_et_Musées_du_Vatican.JPG)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-29T12:16:28.543885",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-28T16:56:31.473930",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-19T19:30:19.191802",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-22T10:42:14.059978",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-23T16:02:23.234046",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "typology": "Palais",
+  "status_entry": 1,
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "RaphaelViergeEnfantErmitage",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2629419",
+  "entry_type": "artwork",
+  "title": "La Vierge à l'Enfant et saint Joseph",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "materialsAndTechniques": null,
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": null,
+      "place": null,
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 29"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Raphael_Madonna_with_Beardless_St._Joseph.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Raphael_Madonna_with_Beardless_St._Joseph.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.176144",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T14:05:50.569801",
+      "type": "modified",
+      "author": "Nicolo"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}

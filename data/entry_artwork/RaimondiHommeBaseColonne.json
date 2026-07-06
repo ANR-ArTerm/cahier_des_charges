@@ -1,0 +1,59 @@
+{
+  "id": "RaimondiHommeBaseColonne",
+  "QID_wikidata": "",
+  "title": "L'homme portant la base d'une colonne",
+  "creator": [
+    {
+      "xml_id": "MarcantonioRaimondi",
+      "role": "graveur"
+    }
+  ],
+  "entry_type": "artwork",
+  "materialsAndTechniques": null,
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": ""
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "straussIllustratedBartsch271978",
+      "location": "n° 476 (354)"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/dp/original/DP855118.jpg",
+      "copyright": "MET, Public Domain, https://www.metmuseum.org/art/collection/search/342683",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.470096",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-29T10:54:01.418584",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-29T12:01:22.435404",
+      "type": "modified",
+      "author": "Jules"
+    }
+  ],
+  "status_entry": 1,
+  "contained_by_ensemble": {},
+  "typology": ""
+}
