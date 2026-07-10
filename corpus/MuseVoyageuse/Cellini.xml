@@ -20,6 +20,13 @@
          <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
          <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
       </profileDesc>
+      <encodingDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition muse</p>
+        </correction>
+        </editorialDecl>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
