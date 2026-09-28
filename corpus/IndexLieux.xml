@@ -2,6 +2,84 @@
 <TEI>
   <settingDesc xmlns="http://www.tei-c.org/ns/1.0">
     <listPlace>
+      <place xml:id="VilaVicosa" source="https://www.wikidata.org/wiki/Q1013623"></place>
+      <place xml:id="Lenoncourt" source="https://www.wikidata.org/wiki/Q217373"/>
+      <place xml:id="DucatoDiSora" source="https://www.wikidata.org/wiki/Q2738954"/>
+      <place xml:id="Arce" source="https://www.wikidata.org/wiki/Q116423"/>
+      <place xml:id="Vignola" source="https://www.wikidata.org/wiki/Q100111"/>
+      <place xml:id="Abruzzes" source="https://www.wikidata.org/wiki/Q1284"/>
+      <place xml:id="Basilicate" source="https://www.wikidata.org/wiki/Q1452"/>
+      <place xml:id="Soest" source="https://www.wikidata.org/wiki/Q6149"/>
+      <place xml:id="Panchaea" source="https://www.wikidata.org/wiki/Q1120415"/>
+      <place xml:id="Carmania" source="https://www.wikidata.org/wiki/Q1734044"/>
+      <place xml:id="Thermopyles" source="https://www.wikidata.org/wiki/Q194450"/>
+      <place xml:id="EleusiGrece" source="https://www.wikidata.org/wiki/Q204905"/>
+      <place xml:id="Pella" source="https://www.wikidata.org/wiki/Q213679"/>
+      <place xml:id="Cyrene" source="https://www.wikidata.org/wiki/Q44112"/>
+      <place xml:id="Smyrne" source="https://www.wikidata.org/wiki/Q1379299"/>
+      <place xml:id="IlesBaleares" source="https://www.wikidata.org/wiki/Q5765"/>
+      <place xml:id="Chiaravalle" source="https://www.wikidata.org/wiki/Q123941"/>
+      <place xml:id="Larissa" source="https://www.wikidata.org/wiki/Q178405"/>
+      <place xml:id="Philippes" source="https://www.wikidata.org/wiki/Q379652"/>
+      <place xml:id="Murano" source="https://www.wikidata.org/wiki/Q52437"/>
+      <place xml:id="Mesopotamie" source="https://www.wikidata.org/wiki/Q11767"/>
+      <place xml:id="Sardes" source="https://www.wikidata.org/wiki/Q232615"/>
+      <place xml:id="Lleida" source="https://www.wikidata.org/wiki/Q15090"/>
+      <place xml:id="Camarina" source="https://www.wikidata.org/wiki/Q854843"/>
+      <place xml:id="CaputCilla" source="https://www.wikidata.org/wiki/Q1035211"/>
+      <place xml:id="Kayseri" source="https://www.wikidata.org/wiki/Q48338"/>
+      <place xml:id="Cilicie" source="https://www.wikidata.org/wiki/Q620864"/>
+      <place xml:id="Santorin" source="https://www.wikidata.org/wiki/Q129296"/>
+      <place xml:id="Thirassia" source="https://www.wikidata.org/wiki/Q598563"/>
+      <place xml:id="Therma" source="https://www.wikidata.org/wiki/Q628768"/>
+      <place xml:id="Helice" source="https://www.wikidata.org/wiki/Q1432654"/>
+      <place xml:id="Bouras" source="https://www.wikidata.org/wiki/Q3555318"/>
+      <place xml:id="Tarragone" source="https://www.wikidata.org/wiki/Q15088"/>
+      <place xml:id="Corse" source="https://www.wikidata.org/wiki/Q14112"/>
+      <place xml:id="Megaro" source="https://www.wikidata.org/wiki/Q6982112"/>
+      <place xml:id="Beotie" source="https://www.wikidata.org/wiki/Q187570"/>
+      <place xml:id="Leucade" source="https://www.wikidata.org/wiki/Q190138"/>
+      <place xml:id="Peluse" source="https://www.wikidata.org/wiki/Q1145715"/>
+      <place xml:id="Margiane" source="https://www.wikidata.org/wiki/Q154974"/>
+      <place xml:id="Epire" source="https://www.wikidata.org/wiki/Q565751"/>
+      <place xml:id="Atlantide" source="https://www.wikidata.org/wiki/Q25373"/>
+      <place xml:id="PlaceMaubert" source="https://www.wikidata.org/wiki/Q3030249"/>
+      <place xml:id="CollegeDeLaon" source="https://www.wikidata.org/wiki/Q2983763"/>
+      <place xml:id="IleNotreDame" source="https://www.wikidata.org/wiki/Q1845956"/>
+      <place xml:id="Pergame" source="https://www.wikidata.org/wiki/Q18986"/>
+      <place xml:id="Ecbatane" source="https://www.wikidata.org/wiki/Q696193"/>
+      <place xml:id="MontsCerauniens" source="https://www.wikidata.org/wiki/Q1054699"/>
+      <place xml:id="Cnossos" source="https://www.wikidata.org/wiki/Q173527"/>
+      <place xml:id="Gythio" source="https://www.wikidata.org/wiki/Q992256"/>
+      <place xml:id="Akhmim" source="https://www.wikidata.org/wiki/Q340572"/>
+      <place xml:id="RoyaumeDuPont" source="https://www.wikidata.org/wiki/Q7380487"/>
+      <place xml:id="Hebron" source="https://www.wikidata.org/wiki/Q168225"/>
+      <place xml:id="PalaisTuileries" source="https://www.wikidata.org/wiki/Q234364"/>
+      <place xml:id="Soissons" source="https://www.wikidata.org/wiki/Q167152"/>
+      <place xml:id="Portus" source="https://www.wikidata.org/wiki/Q2037271"/>
+      <place xml:id="Pasargades" source="https://www.wikidata.org/wiki/Q230025"/>
+      <place xml:id="Chiusi" source="https://www.wikidata.org/wiki/Q91185"/>
+      <place xml:id="LaodiceeDuLycos" source="https://www.wikidata.org/wiki/Q849709"/>
+      <place xml:id="Ceryneia" source="https://www.wikidata.org/wiki/Q12879058"/>
+      <place xml:id="BoisDeVincennes" source="https://www.wikidata.org/wiki/Q271639"/>
+      <place xml:id="Soucy" source="https://www.wikidata.org/wiki/Q208733"/>
+      <place xml:id="TellBasta" source="https://www.wikidata.org/wiki/Q603841"/>
+      <place xml:id="Tarse" source="https://www.wikidata.org/wiki/Q134287"/>
+      <place xml:id="Ashkelon" source="https://www.wikidata.org/wiki/Q60956"/>
+      <place xml:id="ArmenieMineure" source="https://www.wikidata.org/wiki/Q1148125"/>
+      <place xml:id="Bucephalie" source="https://www.wikidata.org/wiki/Q786725"/>
+      <place xml:id="Lysimacheia" source="https://www.wikidata.org/wiki/Q517690"/>
+      <place xml:id="Siguenza" source="https://www.wikidata.org/wiki/Q47475"/>
+      <place xml:id="Erice" source="https://www.wikidata.org/wiki/Q192917"/>
+      <place xml:id="Milet" source="https://www.wikidata.org/wiki/Q169460"/>
+      <place xml:id="Persepolis" source="https://www.wikidata.org/wiki/Q129072"/>
+      <place xml:id="Thermo" source="https://www.wikidata.org/wiki/Q13389655"/>
+      <place xml:id="Etolie" source="https://www.wikidata.org/wiki/Q26857"/>
+      <place xml:id="Cos" source="https://www.wikidata.org/wiki/Q187027"/>
+      <place xml:id="Phenicie" source="https://www.wikidata.org/wiki/Q41642"/>
+      <place xml:id="LePiree" source="https://www.wikidata.org/wiki/Q13426467"/>
+      <place xml:id="Tigranakert" source="https://www.wikidata.org/wiki/Q720583"/>
+      <place xml:id="IleDePharos" source="https://www.wikidata.org/wiki/Q2696558"/>
       <place xml:id="IleElephantine" source="https://www.wikidata.org/wiki/Q284009"/>
       <place xml:id="Phrygie" source="https://www.wikidata.org/wiki/Q32579"/>
       <place xml:id="Paphos" source="https://www.wikidata.org/wiki/Q180918"/>
@@ -45,11 +123,12 @@
       <place xml:id="Jaffa" source="https://www.wikidata.org/wiki/Q180294"/>
       <place xml:id="Byblos" source="https://www.wikidata.org/wiki/Q173532"/>
       <place xml:id="Pyrgi" source="https://www.wikidata.org/wiki/Q1724661"/>
-      <place xml:id="FauxbourgSaintJacques" source="https://www.wikidata.org/wiki/Q3067309"/>
+      <place xml:id="FaubourgSaintJacques" source="https://www.wikidata.org/wiki/Q3067309"/>
       <place xml:id="AgerGallicus" source="https://www.wikidata.org/wiki/Q644966"/>
       <place xml:id="Gaule" source="https://www.wikidata.org/wiki/Q38060"/>
       <place xml:id="RocheTarpéienne" source="https://www.wikidata.org/wiki/Q752553"/>
       <place xml:id="MonteMorello" source="https://www.wikidata.org/wiki/Q3322556"/>
+      <place xml:id="Pretola" source="https://www.wikidata.org/wiki/Q2318915"/>
       <place xml:id="Mestre" source="https://www.wikidata.org/wiki/Q541405"/>
       <place xml:id="Veies" source="https://www.wikidata.org/wiki/Q677935"/>
       <place xml:id="Benevent" source="https://www.wikidata.org/wiki/Q13437"/>
@@ -127,10 +206,12 @@
       <place xml:id="PiombinoDese" source="https://www.wikidata.org/wiki/Q34611"/>
       <place xml:id="Montagnana" source="https://www.wikidata.org/wiki/Q34605"/>
       <place xml:id="Asolo" source="https://www.wikidata.org/wiki/Q29371"/>
+      <place xml:id="Viterbe" source="https://www.wikidata.org/wiki/Q13395"/>
       <place xml:id="Maser" source="https://www.wikidata.org/wiki/Q47420"/>
       <place xml:id="Gambarare" source="https://www.wikidata.org/wiki/Q2796784"/>
       <place xml:id="Cessalto" source="https://www.wikidata.org/wiki/Q29396"/>
       <place xml:id="Polesine" source="https://www.wikidata.org/wiki/Q1242205"/>
+      <place xml:id="Pyrenees" source="https://www.wikidata.org/wiki/Q12431"/>
       <place xml:id="FrattaPolesine" source="https://www.wikidata.org/wiki/Q34716"/>
       <place xml:id="Lonigo" source="https://www.wikidata.org/wiki/Q47385"/>
       <place xml:id="Bagnolo" source="https://www.wikidata.org/wiki/Q18505818"/>
@@ -143,6 +224,7 @@
       <place xml:id="Gubbio" source="https://www.wikidata.org/wiki/Q20458"/>
       <place xml:id="Capoue" source="https://www.wikidata.org/wiki/Q58477"/>
       <place xml:id="LacDeGarde" source="https://www.wikidata.org/wiki/Q6414"/>
+      <place xml:id="Japon" source="https://www.wikidata.org/wiki/Q17"/>
       <place xml:id="Sirmione" source="https://www.wikidata.org/wiki/Q112019"/>
       <place xml:id="Cumes" source="https://www.wikidata.org/wiki/Q243456"/>
       <place xml:id="Nanto" source="https://www.wikidata.org/wiki/Q46532"/>
@@ -151,9 +233,16 @@
       <place xml:id="Acre" source="https://www.wikidata.org/wiki/Q126084"/>
       <place xml:id="Arcadie" source="https://www.wikidata.org/wiki/Q12898802"/>
       <place xml:id="Sardaigne" source="https://www.wikidata.org/wiki/Q19740031"/>
-      <place xml:id="Parnasse" source="https://www.wikidata.org/wiki/Q105261"/>
+      <place xml:id="CanalGrande" source="https://www.wikidata.org/wiki/Q309243"/>
+      <place xml:id="Parnasse" source="https://www.wikidata.org/wiki/Q105261">
+        <placeName xml:lang="ita">Parnaso</placeName>
+      </place>
       <place xml:id="Cracovie" source="https://www.wikidata.org/wiki/Q31487"/>
+      <place xml:id="Chaillot" source="https://www.wikidata.org/wiki/Q3413160"/>
+      <place xml:id="Auteuil" source="https://www.wikidata.org/wiki/Q784536"/>
+      <place xml:id="Arno" source="https://www.wikidata.org/wiki/Q115457"/>
       <place xml:id="MontFalterona" source="https://www.wikidata.org/wiki/Q749841"/>
+      <place xml:id="Montmartre" source="https://www.wikidata.org/wiki/Q186115"/>
       <place xml:id="Salerno" source="https://www.wikidata.org/wiki/Q1083"/>
       <place xml:id="Troia" source="https://www.wikidata.org/wiki/Q51965"/>
       <place xml:id="LeVerger" source="https://www.wikidata.org/wiki/Q226902"/>
@@ -1671,7 +1760,7 @@
         </location>
         <idno type="wikidata">Q201272</idno>
       </place>
-      <place xml:id="Peloponnese " source="https://www.wikidata.org/wiki/Q78967">
+      <place xml:id="Peloponnese" source="https://www.wikidata.org/wiki/Q78967">
         <placeName xml:lang="fra">Péloponnèse</placeName>
         <placeName xml:lang="ita">Peloponneso</placeName>
         <location>
@@ -2696,14 +2785,14 @@
         </location>
         <idno type="wikidata">Q190134</idno>
       </place>
-      <place xml:id="Urbino" source="https://www.wikidata.org/wiki/Q190134">
-        <placeName xml:lang="fra">Urbania</placeName>
-        <placeName xml:lang="ita">Urbania</placeName>
+      <place xml:id="Urbino" source="https://www.wikidata.org/wiki/Q2759">
+        <placeName xml:lang="fra">Urbino</placeName>
+        <placeName xml:lang="ita">Urbino</placeName>
         <location>
           <country>Italie</country>
-          <geo>43.667773055556 12.522088055556</geo>
+          <geo>43.725239, 12.6372</geo>
         </location>
-        <idno type="wikidata">Q190134</idno>
+        <idno type="wikidata">Q2759</idno>
       </place>
       <place xml:id="Valdarno" source="https://www.wikidata.org/wiki/Q538820">
         <placeName xml:lang="fra">Valdarno</placeName>
