@@ -4,22 +4,73 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="fra">Title</title>
+            <title xml:lang="ita">I quattro primi libri di architettura</title>
+            <respStmt>
+               <name>Emma Bondoerffer</name>
+               <resp>Structuration</resp>
+            </respStmt>
+            <respStmt>
+               <name>Anaïs Mazoué</name>
+               <resp>Transcription</resp>
+            </respStmt>
+            <respStmt>
+               <name>ATIR</name>
+               <resp>Edition travaillée à partir de la transcription d'ATIR</resp>
+            </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl source="https://books.google.it/books?id=8QYOQOWe5aAC&amp;pg=PP3&amp;hl=fr&amp;source=gbs_selected_pages&amp;cad=1#v=onepage&amp;q&amp;f=false">
+               <author>Pietro Cataneo<idno type="ISNI">https://isni.org/isni/0000000118388240</idno>
+               </author>
+               <title xml:lang="ita">I quattro primi libri di architettura</title>
+               <publisher>Aldo Manuzio</publisher>
+               <pubPlace>Venise</pubPlace>
+               <date when="1554">1554</date>
+               <availability>
+                  <p>CC</p>
+               </availability>
+            </bibl>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="low" method="silent">
+               <p>édition synthétique</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées automatiquement ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+            </normalization>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.</p>
+            </segmentation>
+            <hyphenation eol="none"/>
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+      </encodingDesc>
       <profileDesc>
          <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
          <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
       </profileDesc>
    </teiHeader>
    <text>
-      <front>
+      <linkGrp type="intertextuality"><link target="#BAR_A_L2_L2C10_P2 #CAT_PQLA_L2_L2C1_P1" n="0.8047"/><link target="#BAR_A_L7_L7C14_P7 #CAT_PQLA_L3_L3C2_P1" n="0.8403"/><link target="#BAR_A_L7_L7C14_P7 #CAT_PQLA_L3_L3C3_P1" n="0.8066"/><link target="#BAR_A_L7_L7C14_P7 #CAT_PQLA_L3_L3C4_P1" n="0.8116"/><link target="#BAR_A_L7_L7C14_P7 #CAT_PQLA_L3_L3C9_P1" n="0.8253"/><link target="#BAR_A_L7_L7C15_P1 #CAT_PQLA_L1_L1C10_P1" n="0.8074"/><link target="#BAR_A_L7_L7C15_P1 #CAT_PQLA_L3_L3C2_P1" n="0.8526"/><link target="#BAR_A_L7_L7C15_P1 #CAT_PQLA_L3_L3C9_P1" n="0.8314"/><link target="#BAR_A_L7_L7C3_P1 #CAT_PQLA_L4_P2" n="0.8083"/><link target="#BAR_A_L7_L7C5_P1 #CAT_PQLA_L3_L3C2_P1" n="0.8132"/><link target="#BAR_A_L7_L7C8_P2 #CAT_PQLA_L1_L1C9_P1" n="0.8194"/><link target="#BAR_A_L7_L7C8_P2 #CAT_PQLA_L3_L3C7_P2" n="0.8007"/><link target="#BAR_A_L7_L7C9_P2 #CAT_PQLA_L1_L1C10_P1" n="0.8228"/><link target="#BAR_A_L7_L7C9_P2 #CAT_PQLA_L1_L1C9_P1" n="0.8077"/><link target="#BAR_A_L7_L7C9_P2 #CAT_PQLA_L3_L3C2_P1" n="0.8164"/><link target="#BAR_A_L7_L7C9_P5 #CAT_PQLA_L1_L1C10_P1" n="0.8047"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L1_L1C10_P1" n="0.8074"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L1_L1C9_P1" n="0.8328"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L3_L3C2_P1" n="0.8289"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L3_L3C6_P1" n="0.8074"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L4_L4C7_P1" n="0.8094"/><link target="#BAR_A_L8_L8C9_P2 #CAT_PQLA_L4_L4C9_P1" n="0.8127"/><link target="#BAR_DLDA_L2_L2C5_P1 #CAT_PQLA_L2_L2C1_P1" n="0.8036"/><link target="#BAR_DLDA_L5_L5C9_P4 #CAT_PQLA_L3_L3C7_P2" n="0.8098"/><link target="#BAR_DLDA_L5_L5C9_P4 #CAT_PQLA_L3_L3C9_P2" n="0.8022"/><link target="#BAR_DLDA_L7_L7C3_P1 #CAT_PQLA_L2_L2C1_P1" n="0.8013"/><link target="#BAR_DLDA_L9_L9C4_L9C4SC1_P11 #CAT_PQLA_L4_L4C11_P1" n="0.8063"/><link target="#BAR_PP_L3_L3C8_P1 #CAT_PQLA_L1_L1C10_P1" n="0.8057"/><link target="#BAR_PP_L4_L4C10_P1 #CAT_PQLA_L3_L3C2_P1" n="0.8125"/><link target="#BAR_PP_L4_L4C3_P1 #CAT_PQLA_L1_L1C10_P1" n="0.8177"/><link target="#BAR_PP_L4_L4C3_P1 #CAT_PQLA_L1_L1C9_P1" n="0.8357"/><link target="#BAR_PP_L4_L4C3_P1 #CAT_PQLA_L3_L3C2_P1" n="0.8116"/><link target="#BAR_PP_L4_L4C3_P1 #CAT_PQLA_L3_L3C7_P2" n="0.8169"/><link target="#BAR_PP_L4_L4C4_P1 #CAT_PQLA_L1_L1C9_P1" n="0.8375"/><link target="#CAT_PQLA_L1_L1C10_P1 #I100" n="0.8236"/><link target="#CAT_PQLA_L1_L1C10_P1 #I83" n="0.8128"/><link target="#CAT_PQLA_L1_L1C10_P1 #MAR_AA_L8_L8C5_P6" n="0.8265"/><link target="#CAT_PQLA_L1_L1C10_P1 #MAR_AA_L8_L8C5_P7" n="0.8002"/><link target="#CAT_PQLA_L1_L1C10_P1 #PAL_ATF_L1_L1C16_P2" n="0.8343"/><link target="#CAT_PQLA_L1_L1C10_P1 #PAL_ATF_L1_L1C16_P4" n="0.8237"/><link target="#CAT_PQLA_L1_L1C10_P1 #PAL_QLA_L1_L1C17_P2" n="0.8102"/><link target="#CAT_PQLA_L1_L1C10_P1 #PAL_QLA_L1_L1C18_P5" n="0.8007"/><link target="#CAT_PQLA_L1_L1C10_P1 #SER_LEA_L1_L1C7_P1" n="0.8118"/><link target="#CAT_PQLA_L1_L1C10_P1 #VAS_V1568M_INTRO_INTROC3_P5" n="0.8271"/><link target="#CAT_PQLA_L1_L1C11_P1 #MAR_AA_L7_L7C15_P1" n="0.8067"/><link target="#CAT_PQLA_L1_L1C11_P1 #SCA_IAU_L8_L8C15_P17" n="0.8102"/><link target="#CAT_PQLA_L1_L1C15_P1 #MAR_AA_L3_L3C12_P3" n="0.8051"/><link target="#CAT_PQLA_L1_L1C15_P1 #MAR_AA_L3_L3C9_P7" n="0.8137"/><link target="#CAT_PQLA_L1_L1C17_P1 #DUP_TP_L4_L4C2_L4C2SC8_P5" n="0.8003"/><link target="#CAT_PQLA_L1_L1C17_P1 #I115" n="0.8075"/><link target="#CAT_PQLA_L1_L1C17_P1 #MAR_AA_L8_L8C5_P6" n="0.8101"/><link target="#CAT_PQLA_L1_L1C6_P1 #MAR_AA_L3_L3C7_P7" n="0.831"/><link target="#CAT_PQLA_L1_L1C6_P1 #MAR_AA_L3_L3C9_P7" n="0.8142"/><link target="#CAT_PQLA_L1_L1C6_P1 #MAR_AA_L4_L4C7_P1" n="0.8083"/><link target="#CAT_PQLA_L1_L1C6_P1 #SCA_IAU_L6_L6C13_P1" n="0.8093"/><link target="#CAT_PQLA_L1_L1C9_P1 #F101" n="0.8058"/><link target="#CAT_PQLA_L1_L1C9_P1 #I100" n="0.8647"/><link target="#CAT_PQLA_L1_L1C9_P1 #I101" n="0.823"/><link target="#CAT_PQLA_L1_L1C9_P1 #I106" n="0.8084"/><link target="#CAT_PQLA_L1_L1C9_P1 #I115" n="0.8037"/><link target="#CAT_PQLA_L1_L1C9_P1 #I83" n="0.8009"/><link target="#CAT_PQLA_L1_L1C9_P1 #I93" n="0.8095"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L7_L7C8_P3" n="0.8198"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L7_L7C9_P4" n="0.8006"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L8_L8C5_P6" n="0.8371"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L8_L8C5_P7" n="0.8301"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L8_L8C6_P21" n="0.8057"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_AA_L8_L8C9_P6" n="0.8073"/><link target="#CAT_PQLA_L1_L1C9_P1 #MAR_DSP_L1_L1C21_P5" n="0.8027"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_ATF_L1_L1C16_P2" n="0.8394"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C15_P3" n="0.828"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C16_P4" n="0.8124"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C17_P2" n="0.8013"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C17_P4" n="0.8057"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C18_P2" n="0.8183"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L1_L1C18_P5" n="0.8224"/><link target="#CAT_PQLA_L1_L1C9_P1 #PAL_QLA_L2_L2C17_P2" n="0.8033"/><link target="#CAT_PQLA_L1_L1C9_P1 #RAP_LLX_L1_P14" n="0.8002"/><link target="#CAT_PQLA_L1_L1C9_P1 #SER_LEA_L1_L1C7_P1" n="0.8217"/><link target="#CAT_PQLA_L1_L1C9_P1 #SER_LEA_L2_L2C15_P1" n="0.8045"/><link target="#CAT_PQLA_L1_L1C9_P1 #VAS_V1568M_INTRO_INTROC3_P5" n="0.8066"/><link target="#CAT_PQLA_L2_L2C10_P2 #SCA_IAU_L8_L8C4_P14" n="0.8445"/><link target="#CAT_PQLA_L2_L2C12_P1 #MAR_AA_L5_L5C18_P9" n="0.8099"/><link target="#CAT_PQLA_L2_L2C12_P1 #PAL_QLA_L1_L1C23_P1" n="0.8081"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L7_L7C18_P18" n="0.8019"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L7_L7C28_P13" n="0.8275"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L7_L7C4_P14" n="0.8061"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L8_L8C17_P2" n="0.8064"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L8_L8C22_P5" n="0.8081"/><link target="#CAT_PQLA_L2_L2C12_P1 #SCA_IAU_L8_L8C24_P11" n="0.8301"/><link target="#CAT_PQLA_L2_L2C1_P1 #SCA_IAU_L8_L8C11_P12" n="0.8018"/><link target="#CAT_PQLA_L2_L2C1_P1 #SCA_IAU_L8_L8C11_P13" n="0.8089"/><link target="#CAT_PQLA_L2_L2C2_P5 #SCA_IAU_L7_L7C5_P7" n="0.833"/><link target="#CAT_PQLA_L2_L2C2_P5 #VAS_V1551M_INTRO_C1_P10" n="0.8033"/><link target="#CAT_PQLA_L2_L2C2_P5 #VAS_V1568M_INTRO_INTROC1_P11" n="0.8033"/><link target="#CAT_PQLA_L2_L2C3_P3 #SCA_IAU_L7_L7C19_P13" n="0.802"/><link target="#CAT_PQLA_L2_L2C5_P1 #PAL_ATF_L1_L1C5_P1" n="0.8055"/><link target="#CAT_PQLA_L2_L2C5_P1 #PAL_QLA_L1_L1C4_P1" n="0.8253"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C18_P21" n="0.8154"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C19_P13" n="0.8127"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C19_P9" n="0.8068"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C21_P12" n="0.805"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C21_P13" n="0.828"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C21_P9" n="0.831"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C24_P2" n="0.8067"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L7_L7C4_P14" n="0.8095"/><link target="#CAT_PQLA_L2_L2C5_P1 #SCA_IAU_L8_L8C26_P22" n="0.8077"/><link target="#CAT_PQLA_L2_L2C7_P1 #SCA_IAU_L7_L7C28_P12" n="0.8149"/><link target="#CAT_PQLA_L2_L2C7_P1 #SCA_IAU_L7_L7C28_P19" n="0.8089"/><link target="#CAT_PQLA_L2_L2C7_P12 #SCA_IAU_L7_L7C28_P28" n="0.8132"/><link target="#CAT_PQLA_L2_L2C7_P23 #SCA_IAU_L7_L7C25_P23" n="0.8002"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L7_L7C11_P28" n="0.8179"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L7_L7C18_P18" n="0.808"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L7_L7C18_P7" n="0.8056"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L7_L7C28_P19" n="0.8015"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L7_L7C28_P31" n="0.8016"/><link target="#CAT_PQLA_L2_L2C7_P5 #SCA_IAU_L8_L8C22_P5" n="0.8159"/><link target="#CAT_PQLA_L2_L2C7_P6 #SCA_IAU_L7_L7C18_P18" n="0.801"/><link target="#CAT_PQLA_L2_P1 #SCA_IAU_L8_L8C11_P8" n="0.8068"/><link target="#CAT_PQLA_L3_L3C10_P1 #F100" n="0.8247"/><link target="#CAT_PQLA_L3_L3C10_P1 #I100" n="0.8387"/><link target="#CAT_PQLA_L3_L3C10_P1 #PAL_QLA_L4_L4C27_P1" n="0.8196"/><link target="#CAT_PQLA_L3_L3C10_P1 #SER_LEA_L1_L1C7_P1" n="0.8476"/><link target="#CAT_PQLA_L3_L3C10_P1 #VAS_V1551M_INTRO_C3_P12" n="0.8243"/><link target="#CAT_PQLA_L3_L3C10_P1 #VAS_V1551M_INTRO_C3_P6" n="0.8019"/><link target="#CAT_PQLA_L3_L3C2_P1 #F101" n="0.8094"/><link target="#CAT_PQLA_L3_L3C2_P1 #I100" n="0.8384"/><link target="#CAT_PQLA_L3_L3C2_P1 #I101" n="0.8215"/><link target="#CAT_PQLA_L3_L3C2_P1 #I115" n="0.8077"/><link target="#CAT_PQLA_L3_L3C2_P1 #I93" n="0.806"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L7_L7C12_P13" n="0.8001"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L7_L7C15_P1" n="0.8027"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L7_L7C15_P4" n="0.8123"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L7_L7C15_P5" n="0.8092"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L8_L8C5_P6" n="0.848"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L8_L8C5_P7" n="0.8165"/><link target="#CAT_PQLA_L3_L3C2_P1 #MAR_AA_L8_L8C9_P6" n="0.8149"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_ATF_L1_L1C13_P3" n="0.8005"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_ATF_L1_L1C16_P2" n="0.8067"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L1_L1C14_P3" n="0.8233"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L1_L1C15_P3" n="0.806"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L1_L1C16_P4" n="0.8008"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L1_L1C18_P2" n="0.8095"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L1_L1C22_P2" n="0.8021"/><link target="#CAT_PQLA_L3_L3C2_P1 #PAL_QLA_L2_L2C17_P2" n="0.807"/><link target="#CAT_PQLA_L3_L3C2_P1 #RAP_LLX_L1_P19" n="0.8229"/><link target="#CAT_PQLA_L3_L3C2_P1 #SCA_IAU_L8_L8C10_P18" n="0.8015"/><link target="#CAT_PQLA_L3_L3C2_P1 #SCA_IAU_L8_L8C23_P16" n="0.813"/><link target="#CAT_PQLA_L3_L3C2_P1 #SER_LEA_L1_L1C7_P1" n="0.8541"/><link target="#CAT_PQLA_L3_L3C2_P1 #SER_LEA_L2_L2C15_P1" n="0.8068"/><link target="#CAT_PQLA_L3_L3C2_P1 #VAS_V1551M_INTRO_C3_P12" n="0.8011"/><link target="#CAT_PQLA_L3_L3C2_P1 #VAS_V1551M_INTRO_C3_P6" n="0.8201"/><link target="#CAT_PQLA_L3_L3C2_P1 #VAS_V1568M_INTRO_INTROC3_P5" n="0.8191"/><link target="#CAT_PQLA_L3_L3C2_P1 #VIG_RDCOA_L2_P10" n="0.8126"/><link target="#CAT_PQLA_L3_L3C2_P1 #VIG_RPP_L5_L5C21_L5C21SC3_P4" n="0.8112"/><link target="#CAT_PQLA_L3_L3C3_P1 #I100" n="0.8206"/><link target="#CAT_PQLA_L3_L3C3_P1 #SCA_IAU_L8_L8C12_P4" n="0.8053"/><link target="#CAT_PQLA_L3_L3C3_P1 #SCA_IAU_L8_L8C28_P19" n="0.8004"/><link target="#CAT_PQLA_L3_L3C3_P1 #SER_LEA_L1_L1C7_P1" n="0.8145"/><link target="#CAT_PQLA_L3_L3C3_P1 #VAS_V1551M_INTRO_C3_P12" n="0.8052"/><link target="#CAT_PQLA_L3_L3C4_P1 #I100" n="0.8455"/><link target="#CAT_PQLA_L3_L3C5_P1 #I100" n="0.845"/><link target="#CAT_PQLA_L3_L3C5_P1 #MAR_AA_L8_L8C5_P6" n="0.8126"/><link target="#CAT_PQLA_L3_L3C5_P1 #MAR_AA_L8_L8C5_P7" n="0.8015"/><link target="#CAT_PQLA_L3_L3C5_P1 #SCA_IAU_L8_L8C12_P4" n="0.8023"/><link target="#CAT_PQLA_L3_L3C5_P1 #SCA_IAU_L8_L8C7_P46" n="0.8037"/><link target="#CAT_PQLA_L3_L3C5_P1 #VAS_V1551M_INTRO_C3_P12" n="0.8017"/><link target="#CAT_PQLA_L3_L3C6_P1 #F100" n="0.808"/><link target="#CAT_PQLA_L3_L3C6_P1 #I100" n="0.8691"/><link target="#CAT_PQLA_L3_L3C6_P1 #I93" n="0.8048"/><link target="#CAT_PQLA_L3_L3C6_P1 #MAR_AA_L8_L8C5_P6" n="0.8254"/><link target="#CAT_PQLA_L3_L3C6_P1 #SER_LEA_L1_L1C7_P1" n="0.8014"/><link target="#CAT_PQLA_L3_L3C7_P1 #MAR_AA_L8_L8C5_P6" n="0.8363"/><link target="#CAT_PQLA_L3_L3C7_P2 #I100" n="0.8359"/><link target="#CAT_PQLA_L3_L3C7_P2 #MAR_AA_L8_L8C5_P6" n="0.8247"/><link target="#CAT_PQLA_L3_L3C7_P2 #PAL_QLA_L2_L2C3_P6" n="0.8013"/><link target="#CAT_PQLA_L3_L3C7_P2 #SER_LEA_L1_L1C7_P1" n="0.82"/><link target="#CAT_PQLA_L3_L3C7_P2 #SER_LEA_L2_L2C15_P1" n="0.8126"/><link target="#CAT_PQLA_L3_L3C8_P1 #I70" n="0.8062"/><link target="#CAT_PQLA_L3_L3C9_P1 #I100" n="0.8416"/><link target="#CAT_PQLA_L3_L3C9_P1 #MAR_AA_L7_L7C4_P10" n="0.815"/><link target="#CAT_PQLA_L3_L3C9_P1 #MAR_AA_L8_L8C5_P6" n="0.8446"/><link target="#CAT_PQLA_L3_L3C9_P1 #MAR_AA_L8_L8C5_P7" n="0.8052"/><link target="#CAT_PQLA_L3_L3C9_P1 #SCA_IAU_L8_L8C12_P4" n="0.8088"/><link target="#CAT_PQLA_L3_L3C9_P1 #SCA_IAU_L8_L8C7_P46" n="0.8019"/><link target="#CAT_PQLA_L3_L3C9_P1 #VAS_V1551M_INTRO_C3_P12" n="0.81"/><link target="#CAT_PQLA_L3_L3C9_P2 #I100" n="0.8288"/><link target="#CAT_PQLA_L3_L3C9_P2 #PAL_ATF_L2_L2C7_P2" n="0.8077"/><link target="#CAT_PQLA_L3_L3C9_P2 #PAL_QLA_L2_L2C17_P2" n="0.8122"/><link target="#CAT_PQLA_L3_L3C9_P2 #PAL_QLA_L2_L2C3_P6" n="0.8423"/><link target="#CAT_PQLA_L3_L3C9_P2 #PAL_QLA_L4_L4C27_P1" n="0.8161"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L1_L1C4_P1" n="0.8085"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L1_L1C7_P1" n="0.8207"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L2_L2C15_P1" n="0.8114"/><link target="#CAT_PQLA_L3_L3C9_P2 #VAS_V1551M_INTRO_C3_P6" n="0.8006"/><link target="#CAT_PQLA_L4_L4C11_P1 #I115" n="0.8276"/><link target="#CAT_PQLA_L4_L4C11_P1 #I93" n="0.8042"/><link target="#CAT_PQLA_L4_L4C11_P1 #I99" n="0.8077"/><link target="#CAT_PQLA_L4_L4C11_P1 #MAR_AA_L7_L7C15_P4" n="0.8029"/><link target="#CAT_PQLA_L4_L4C11_P1 #SCA_IAU_L1_L1C15_P19" n="0.8149"/><link target="#CAT_PQLA_L4_L4C11_P1 #SCA_IAU_L8_L8C12_P4" n="0.8082"/><link target="#CAT_PQLA_L4_L4C11_P1 #VIG_RDCOA_L2_P4" n="0.8005"/><link target="#CAT_PQLA_L4_L4C12_P1 #MAR_AA_L7_L7C15_P13" n="0.8155"/><link target="#CAT_PQLA_L4_L4C12_P1 #SCA_IAU_L1_L1C15_P19" n="0.8056"/><link target="#CAT_PQLA_L4_L4C12_P1 #VAR_LM_lettre_P48" n="0.8069"/><link target="#CAT_PQLA_L4_L4C3_P1 #I100" n="0.8139"/><link target="#CAT_PQLA_L4_L4C4_P1 #I100" n="0.8465"/><link target="#CAT_PQLA_L4_L4C4_P1 #MAR_AA_L8_L8C5_P6" n="0.8183"/><link target="#CAT_PQLA_L4_L4C4_P1 #SCA_IAU_L1_L1C15_P30" n="0.8066"/><link target="#CAT_PQLA_L4_L4C5_P1 #I100" n="0.8221"/><link target="#CAT_PQLA_L4_L4C5_P1 #PAL_QLA_L2_L2C17_P2" n="0.8097"/><link target="#CAT_PQLA_L4_L4C5_P1 #PAL_QLA_L2_L2C3_P6" n="0.8103"/><link target="#CAT_PQLA_L4_L4C6_P1 #F100" n="0.8131"/><link target="#CAT_PQLA_L4_L4C6_P1 #I100" n="0.848"/><link target="#CAT_PQLA_L4_L4C6_P1 #MAR_AA_L7_L7C5_P11" n="0.8138"/><link target="#CAT_PQLA_L4_L4C6_P1 #PAL_QLA_L1_L1C27_P1" n="0.8019"/><link target="#CAT_PQLA_L4_L4C6_P1 #PAL_QLA_L2_L2C10_P1" n="0.8055"/><link target="#CAT_PQLA_L4_L4C6_P1 #PAL_QLA_L2_L2C3_P10" n="0.8234"/><link target="#CAT_PQLA_L4_L4C6_P1 #PAL_QLA_L2_L2C3_P6" n="0.8108"/><link target="#CAT_PQLA_L4_L4C6_P1 #SCA_IAU_L3_L3C8_P20" n="0.8084"/><link target="#CAT_PQLA_L4_L4C6_P1 #SCA_IAU_L8_L8C12_P4" n="0.8035"/><link target="#CAT_PQLA_L4_L4C7_P1 #I100" n="0.8414"/><link target="#CAT_PQLA_L4_L4C7_P1 #MAR_AA_L7_L7C12_P13" n="0.8137"/><link target="#CAT_PQLA_L4_L4C7_P1 #PAL_QLA_L1_L1C22_P2" n="0.8028"/><link target="#CAT_PQLA_L4_L4C9_P1 #I100" n="0.8328"/><link target="#CAT_PQLA_L4_L4C9_P1 #MAR_AA_L7_L7C12_P13" n="0.8004"/><link target="#CAT_PQLA_L4_L4C9_P1 #PAL_ATF_L1_L1C16_P2" n="0.8029"/><link target="#CAT_PQLA_L4_L4C9_P1 #PAL_QLA_L1_L1C22_P2" n="0.8181"/><link target="#CAT_PQLA_L4_L4C9_P1 #PAL_QLA_L2_L2C17_P2" n="0.8041"/><link target="#CAT_PQLA_L4_P2 #VAS_V1568M_L2_L2C32_P6" n="0.8064"/></linkGrp><front>
          <titlePage>
             <titlePart> I QUATTRO PRIMI LIBRI DI ARCHITETTVRA DI PIETRO CATANEO SENESE: NEL PRIMO DE'QUALI SI DIMOSTRANO le buone qualità de'siti, per
                l'edificationi delle città et castella, sotto diversi disegni: NEL SECONDO, QUANTO SI ASPETTA alla materia per la fabrica: NEL TERZO SI
@@ -487,7 +538,7 @@
             <div2 type="chapitre" n="6" xml:id="L1C6">
                <head> Di quanta importanza sia nel terminar la pianta di nuova città, i buon compartimenti delle piazze, strade, tempu, palazzi, et di
                   ogni altro spatio, o edificio publico. Cap. VI. </head>
-               <p xml:id="CAT_PQLA_L1_L1C6_P1">Quantunque gli antichi edificii riempino di meraviglia qualunque gli uede, non sera inutile dubitar delle parti loro co i bassi miei
+               <p xml:id="CAT_PQLA_L1_L1C6_P1"><ptr type="intertextuality" target="#MAR_AA_L3_L3C7_P7"/><ptr type="intertextuality" target="#MAR_AA_L3_L3C9_P7"/><ptr type="intertextuality" target="#MAR_AA_L4_L4C7_P1"/><ptr type="intertextuality" target="#SCA_IAU_L6_L6C13_P1"/>Quantunque gli antichi edificii riempino di meraviglia qualunque gli uede, non sera inutile dubitar delle parti loro co i bassi miei
                   argomenti; accioché in parte riluca piu la uirtù de gli antichi Architetti. Primieramente gli antichi nell'edificare città o
                   castella usorono la figura circulare. così anco mostra Vetruvio che si debbi fare. ma essendo l'angulare piu atta a difendersi coi
                   fianculi et angulari baluardi dalla moderna artiglieria, per esser tale offesa nuova; non si scema in tal caso l'antica uirtù loro
@@ -780,7 +831,7 @@
             <div2 type="chapitre" n="9" xml:id="L1C9">
                <head> Della città pentagonale equilatera, posta nel piano, sottoposta a batterie, con le misure della sua pianta, et da quella
                   tiratone l'alzato per ordine di Prospettiva. Cap. IX. </head>
-               <p xml:id="CAT_PQLA_L1_L1C9_P1">Mostraremo appresso la forma della città pentagonale equilatera, posta nel piano, con tre porte o entrate. Le misure della sua
+               <p xml:id="CAT_PQLA_L1_L1C9_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C8_P2"/><ptr type="intertextuality" target="#BAR_A_L7_L7C9_P2"/><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C3_P1"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C4_P1"/><ptr type="intertextuality" target="#F101"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#I101"/><ptr type="intertextuality" target="#I106"/><ptr type="intertextuality" target="#I115"/><ptr type="intertextuality" target="#I83"/><ptr type="intertextuality" target="#I93"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C8_P3"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C9_P4"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P7"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C6_P21"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C9_P6"/><ptr type="intertextuality" target="#MAR_DSP_L1_L1C21_P5"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C15_P3"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C16_P4"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C17_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C17_P4"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P5"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/><ptr type="intertextuality" target="#RAP_LLX_L1_P14"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#SER_LEA_L2_L2C15_P1"/><ptr type="intertextuality" target="#VAS_V1568M_INTRO_INTROC3_P5"/>Mostraremo appresso la forma della città pentagonale equilatera, posta nel piano, con tre porte o entrate. Le misure della sua
                   pianta seranno queste, che ciascun lato del pentagono serà canne ottanta. Dalla estremità de gli anguli del pentagono, segnati di
                   lettera, o, a i fianchi, segnati di crocetta, sono canne sedici. i fianchi son canne quindici: delle quali se ne lasserà canne otto
                   alle spalle; et canne otto per tal uerso si daranno alla piazza da basso a due cannoniere, che uerrà a pigliar una canna dentro alla
@@ -806,7 +857,7 @@
             <div2 type="chapitre" n="10" xml:id="L1C10">
                <head> Della città esagonale equilatera posta nel piano, co i baluardi a mezzo le cortine oltre a quei degli anguli, con le sue misure,
                   et dalla sua pianta n'è tirato l'alzato per ordine di Prospettiva. Cap. X. </head>
-               <p xml:id="CAT_PQLA_L1_L1C10_P1">Et se nel piano piu sottoposto a batterie si uorrà fare la città di forma esagonale equilatera, et che intra suoi anguli si lassasse
+               <p xml:id="CAT_PQLA_L1_L1C10_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C15_P1"/><ptr type="intertextuality" target="#BAR_A_L7_L7C9_P2"/><ptr type="intertextuality" target="#BAR_A_L7_L7C9_P5"/><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#BAR_PP_L3_L3C8_P1"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C3_P1"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#I83"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P7"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P2"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P4"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C17_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P5"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#VAS_V1568M_INTRO_INTROC3_P5"/>Et se nel piano piu sottoposto a batterie si uorrà fare la città di forma esagonale equilatera, et che intra suoi anguli si lassasse
                   tal distanza, che, uolendo difendere il suo recinto, bisognasse fare nel mezzo delle cortine altri baluardi, quando per mio avuiso,
                   come nell'ottavo capitolo di questo si è detto, non sono da usare le piatte forme; hor come si uede in questa di quattro entrate,
                   che da angulo et angulo dello esagono corre di distanza braccia secentocinquanta, che a braccia quattro per canna sono canne
@@ -836,7 +887,7 @@
             </div2>
             <div2 type="chapitre" n="11" xml:id="L1C11">
                <head> Pianta di città eptagona, posta nel piano, con baluardi differenti da quelli, che si sono mostri sino a hora. Cap. XI. </head>
-               <p xml:id="CAT_PQLA_L1_L1C11_P1">Et se la forma del recinto delle mura della città o castello fusse tale, che i fianchi de'suoi baluardi, o parte di quelli, si
+               <p xml:id="CAT_PQLA_L1_L1C11_P1"><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P1"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C15_P17"/>Et se la forma del recinto delle mura della città o castello fusse tale, che i fianchi de'suoi baluardi, o parte di quelli, si
                   dimostrassero troppo al nemico, et si potessero per tal causa rimboccar dalla campagna le cannoniere de i parapetti delle loro
                   piazze da basso; si potra in tal caso usare i baluardi in forma di cuore: che così gli diciamo; ancor che da i capitani sino a hoggi
                   sieno stati detti, a coglione, et si potranno anco fare angulati, entrando co i parapetti delle prime piazze da basso tanto dentro
@@ -986,7 +1037,7 @@
             </div2>
             <div2 type="chapitre" n="15" xml:id="L1C15">
                <head> Come non si può molte uolte ne i monti o colli, per la loro strana figura, far baluardi, ne intra quelli cortine. Cap. XV. </head>
-               <p xml:id="CAT_PQLA_L1_L1C15_P1">Trovansi, oltre a quel, che si è detto, ancor tal uolta questi colli et luoghi montuosi di così strana figura, che, uolendo
+               <p xml:id="CAT_PQLA_L1_L1C15_P1"><ptr type="intertextuality" target="#MAR_AA_L3_L3C12_P3"/><ptr type="intertextuality" target="#MAR_AA_L3_L3C9_P7"/>Trovansi, oltre a quel, che si è detto, ancor tal uolta questi colli et luoghi montuosi di così strana figura, che, uolendo
                   abbracciarli con bastioni, o muraglia, di maniera che non resti fuor di essi spatio ne da potergli battere, ne da uenirui a
                   combattere, non si può in detti colli fare baluardi, ne intra quelli cortine; ma è necessario procedere quasi secondo che nel
                   disegno della presente pianta, che segue, si dimostra: del quale non ne addurrò misura alcuna, per non mi potere astrignere a
@@ -1075,7 +1126,7 @@
             <div2 type="chapitre" n="17" xml:id="L1C17">
                <head>Della città del Prencipe di forma decagonale equilatera, posta nel piano, con la sua cittadella pentagonale, con le misure della
                   sua pianta, et da quella tiratone il suo alzato per ordine di Prospettiva. Cap. XVII. </head>
-               <p xml:id="CAT_PQLA_L1_L1C17_P1">Ancor che la città del Prencipe si potesse fare di piu anguli, et lati, et molto maggiore di questa, secondo che la grandezza et
+               <p xml:id="CAT_PQLA_L1_L1C17_P1"><ptr type="intertextuality" target="#DUP_TP_L4_L4C2_L4C2SC8_P5"/><ptr type="intertextuality" target="#I115"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/>Ancor che la città del Prencipe si potesse fare di piu anguli, et lati, et molto maggiore di questa, secondo che la grandezza et
                   fertilità del dominio suo richiedesse: noi nondimeno, per il poco spatio de'nostri disegni, ne formaremo una di dieci angoli, et
                   lati equilateri, di cinque porte, con la sua cittadella pentagonale equilatera; laquale partecipando dentro et fuore uiene con la
                   sua città collegata; et di quella nella piu forte et suprema parte sia posta. <pb n="19bis"/> Hor, uenendo alle particolari misure,
@@ -1328,7 +1379,7 @@
          <div1 type="livre" n="2" xml:id="L2">
             <pb n="26"/>
             <head>IL SECONDO LIBRO DI ARCHITETTURA DI PIETRO CATANEO SENESE, ove si tratta di quanto si aspetta alla materia per la fabrica. </head>
-            <p xml:id="CAT_PQLA_L2_P1"> Non debbe il buono Architetto, Illustrissimo Signor, haver manco notitia della materia atta ad ogni generatione di edificio, che di
+            <p xml:id="CAT_PQLA_L2_P1"><ptr type="intertextuality" target="#SCA_IAU_L8_L8C11_P8"/> Non debbe il buono Architetto, Illustrissimo Signor, haver manco notitia della materia atta ad ogni generatione di edificio, che di
                qual si uoglia altra cosa: peroche, se bene tutte le fabriche fussero in ogni parte con ottima proportione guidate, et non fussero di
                buona materia, ne a i debiti tempi fabricate; potrebbono facilmente ruinare, et in piccolo tempo uenire al meno: di che ne peruerrebbe
                non piccolo danno, et dishonore dello edificatore, et dello Architetto. È necessario per tanto, che tale artefice habbia buona notitia
@@ -1350,7 +1401,7 @@
             <div2 type="chapitre" n="1" xml:id="L2C1">
                <head> A che si conoschi la buona creta; et come, et a che tempo s'impasti nel far de i mattoni, et altri lavori di quella per le
                   fabriche accommodati. Capitolo primo. </head>
-               <p xml:id="CAT_PQLA_L2_L2C1_P1">Se si anderà ben considerando nelle antiche et moderne fabriche, si potrà espressamente giudicare, che per quelle sieno piu conmodi
+               <p xml:id="CAT_PQLA_L2_L2C1_P1"><ptr type="intertextuality" target="#BAR_A_L2_L2C10_P2"/><ptr type="intertextuality" target="#BAR_DLDA_L2_L2C5_P1"/><ptr type="intertextuality" target="#BAR_DLDA_L7_L7C3_P1"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C11_P12"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C11_P13"/>Se si anderà ben considerando nelle antiche et moderne fabriche, si potrà espressamente giudicare, che per quelle sieno piu conmodi
                   i mattoni, che le pietre, quando sieno di buona creta, a i debiti tempi lavorati, et conuenientemente asciutti et cotti. Onde
                   Semiramide a maggior perpetuita fece le mura di <placeName ref="#Babylone">Babilonia</placeName>, poste tra le sette cose
                   meravigliose del mondo, di mattoni, murati con bitume tenacissimo, del lago Asfalthide. et è da considerare, che alhora serà
@@ -1438,7 +1489,7 @@
                   luoghi così d'<placeName ref="#Italie">Italia</placeName>, come di altre regioni. et di questi non se ne sono uiste statue, o
                   animali, ma bene grandi et grosse colonne, uasi, pili, basamenti, stipiti, cornici, et di molti altri lavori conuenienti alle opere
                   delle fabriche. </p>
-               <p xml:id="CAT_PQLA_L2_L2C2_P5"> Ci sono ancora i marmi Graniti: i quali sono di molta durezza. et di questi alcuni se ne trovano puntati o schizzati di rosso,
+               <p xml:id="CAT_PQLA_L2_L2C2_P5"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C5_P7"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C1_P10"/><ptr type="intertextuality" target="#VAS_V1568M_INTRO_INTROC1_P11"/> Ci sono ancora i marmi Graniti: i quali sono di molta durezza. et di questi alcuni se ne trovano puntati o schizzati di rosso,
                   altri di nero, altri di bianco, et alcuni di altri colori, et di tali in <placeName ref="#Egypte">Egitto</placeName> se ne sono
                   cavate maggiori saldezze, che di qual si uoglia altra sorte; come ne rendono testimonio le Piramidi, gli obelischi, et i grandissimi
                   uasi per i bagni, et le superbe colonne, che in <placeName ref="#Rome">Roma</placeName> et in altre regioni et diversi luoghi si
@@ -1524,7 +1575,7 @@
                   di queste se ne ritrovano per molte regioni et diversi parti d'<placeName ref="#Italie">Italia</placeName> in maggiore quantita di
                   ogni altra sorte pietra, et massime a <placeName ref="#Sienne">Siena</placeName>: che così dentro, come fuore, et per tutto intorno,
                   et a canto alle sue mura se ne cava. le quali, come habbiamo detto, per essere sottoposte piu di tutte l'altre alle tempeste, <pb n="29"/> non si conuengono mettere in opera allo scoperto. </p>
-               <p xml:id="CAT_PQLA_L2_L2C3_P3"> Nella prouincia Belgica si sega una pietra bianca, assai piu facile, che il legname: della quale ne fanno tegole per coprime
+               <p xml:id="CAT_PQLA_L2_L2C3_P3"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C19_P13"/> Nella prouincia Belgica si sega una pietra bianca, assai piu facile, che il legname: della quale ne fanno tegole per coprime
                   de'tetti. Trovasi in piu parti di <placeName ref="#Espagne">Spagna</placeName> citeriore, in <placeName ref="#France">Francia</placeName>, in Cipri, in Cappadocia, in <placeName ref="#Afrique">Africa</placeName>, in <placeName ref="#Sicile">Sicilia</placeName>, nella riviera di <placeName ref="#Genes">Genova</placeName>, nel Bolognese, et in altri assai luoghi una
                   sorte di pietra, che si cava et si divide in corteccie o lastre sottili di eguali grossezze, come se fussero spianate dall'arte con
                   la pialla: le quali seruon'eccellentemente a coprire o lastricare i tetti: e se ne trovano delle bianche, delle bigie scure, et
@@ -1561,7 +1612,7 @@
             <div2 type="chapitre" n="5" xml:id="L2C5">
                <pb n="29bis"/>
                <head>Delle calcine; et quali per farle sieno pietre migliori. Cap. V. </head>
-               <p xml:id="CAT_PQLA_L2_L2C5_P1">Varia la natura delle calcine secondo la uarietà delle pietre; e tanto fanno piu forte presa, quanto di piu dure petrine sono fatte,
+               <p xml:id="CAT_PQLA_L2_L2C5_P1"><ptr type="intertextuality" target="#PAL_ATF_L1_L1C5_P1"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C4_P1"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C18_P21"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C19_P13"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C19_P9"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C21_P12"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C21_P13"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C21_P9"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C24_P2"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C4_P14"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C26_P22"/>Varia la natura delle calcine secondo la uarietà delle pietre; e tanto fanno piu forte presa, quanto di piu dure petrine sono fatte,
                   delle quali alcune sono che in luoghi sotterranei, dove l'humidità abbonda, serrano meravigliosamente: et queste sono le albazzane:
                   delle quali le buone si fanno di petrina albarese gentile, di cava, et così ogni altra calcina è molto meglio di cava, che di sassi
                   raccolti sopra la terra, et le dette albazzane spente ch'elle sono, si conuengono subito lavorarle: perché stando spente,
@@ -1631,7 +1682,7 @@
             <div2 type="chapitre" n="7" xml:id="L2C7">
                <pb n="30bis"/>
                <head>Delli arbori universalmente; et come si conuenghino secondo la uarietà di loro nature anco a uariate opere disporre. Cap. VII. </head>
-               <p xml:id="CAT_PQLA_L2_L2C7_P1">Lassando hor noi da parte il legno santo, et gli altri arbori medicinali, et aromatici, et quelli che producono specierie, per non
+               <p xml:id="CAT_PQLA_L2_L2C7_P1"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P12"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P19"/>Lassando hor noi da parte il legno santo, et gli altri arbori medicinali, et aromatici, et quelli che producono specierie, per non
                   essere cosa da questo luogo; et parlando delli arbori, che all'opere di lavoro per le fabriche sono in cognitione, et piu in uso; ci
                   pare molto conueniente disporre quelli a diversi lavori, secondo che la qualità di loro nature ricerca. La quercia ne i fondamenti
                   delle fabriche si conserua eternamente in luoghi humidi et paludosi: peroche, come dice Vetruvio, havendo poco dell'humore,
@@ -1713,7 +1764,7 @@
                   dove fussero i morti; acciò che di quello facesse indicio manifesto. gli antichi ne piantavano le selue, tenendole di grandissimo
                   guadagno: et le chiamavano dote delle figlivole. <placeName ref="#Rome">Roma</placeName> stette quattrocento anni coperta di asse et
                   scheggie di pino, fino alla guerra di Pirrho. </p>
-               <p xml:id="CAT_PQLA_L2_L2C7_P5"> L'abeto è molto forte, bello, atto, et durabile: il quale, per il rigore naturale, non si piega per il peso, ma si mantiene
+               <p xml:id="CAT_PQLA_L2_L2C7_P5"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C11_P28"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C18_P18"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C18_P7"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P19"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P31"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C22_P5"/> L'abeto è molto forte, bello, atto, et durabile: il quale, per il rigore naturale, non si piega per il peso, ma si mantiene
                   saldissimo; et per la sua leggierezza non grava la fabrica; et però nelle travi, et molli, o piane è molto approvato. et così nelle
                   porte, casse, et forzieri, et quasi ad ogni altra opera di lavoro, per essere molto facile a lavorarlo. et per tali molli, o piane,
                   overo cantiere, uvole <persName ref="#Pline">Plinio</persName> che tutti gli arbori ghiandiferi seruino. ma l'abeto è di tutti
@@ -1728,7 +1779,7 @@
                   durabili. et il medesimo può avuenire ancora nelli altri arbori. l'abeto per la sua leggierezza per i naviglii è meglio di ogni
                   altro. ma quelli di <placeName ref="#Egypte">Egitto</placeName> et di Soria, secondo <persName ref="#Pline">Plinio</persName>, per
                   non havere abeto, facevano le navi di cedro. </p>
-               <p xml:id="CAT_PQLA_L2_L2C7_P6"> L'olmo et il frassino, havendo grandissimo humore, et poco dell'aria, et del fuoco, et di terreno temperati, quando di gioveni
+               <p xml:id="CAT_PQLA_L2_L2C7_P6"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C18_P18"/> L'olmo et il frassino, havendo grandissimo humore, et poco dell'aria, et del fuoco, et di terreno temperati, quando di gioveni
                   arbori il loro legname sia messo in opera, seranno flessibili, overo piegabili, et per l'abbondanza dello humore per sostenere peso
                   non seranno forti, et prestamente apriranno: ma se innanzi che si taglino, seranno <pb n="32"/> da i molto anni loro divenuti
                   antichi, si faranno aridi, et si morrà in essi per la loro uecchiezza l'humore, et ne diverranno ottimi per incatenature o chiavarde
@@ -1768,7 +1819,7 @@
                   rosseggia et sparge bellissime uene. et i primi, che si uedessero in <placeName ref="#Italie">Italia</placeName>, gli condusse
                   Locullo di Ponto a <placeName ref="#Rome">Roma</placeName> nella uittoria, che hebbe contra Mitridate: et si sparsero dipoi sino in
                      <placeName ref="#Angleterre">Inghilterra</placeName>. </p>
-               <p xml:id="CAT_PQLA_L2_L2C7_P12"> Il pero, melo, sorbo, il legno del suvero, il bosso, ma piu di tutti l'hebano sono di molto denso overo serrato legname, ma
+               <p xml:id="CAT_PQLA_L2_L2C7_P12"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P28"/> Il pero, melo, sorbo, il legno del suvero, il bosso, ma piu di tutti l'hebano sono di molto denso overo serrato legname, ma
                   schiantano uolentieri: et così fanno, secondo <persName ref="#Pline">Plinio</persName>, tutti gli arbori crespi. seruono tutti a
                   molti uarii et diversi lavori, ma difficilmente pigliano la colla: et l'hebano, et il bosso sono piu serrati et piu gravi di tutti:
                   et però nell'acqua non stanno a galla: et così il legno del suvero, et il larice. Il pero, sorbo, et bosso, oltre a molti altri
@@ -1822,7 +1873,7 @@
                   tale effeto hanno tenuti piu in pregio, sono stati cedro, terebintho, acero, bosso, palma, acquifoglio, ischio, oppio, et la radice
                   del sambuco. </p>
                <p xml:id="CAT_PQLA_L2_L2C7_P22"> Arbori, che non tarlano; et altri, che non fendono; et quelli, che di tutti sono piu eterni. </p>
-               <p xml:id="CAT_PQLA_L2_L2C7_P23"> Gli arbori, che non tarlano, per quanto dice <persName ref="#Pline">Plinio</persName>, sono cipresso, cedro, hebano, loto, bosso,
+               <p xml:id="CAT_PQLA_L2_L2C7_P23"><ptr type="intertextuality" target="#SCA_IAU_L7_L7C25_P23"/> Gli arbori, che non tarlano, per quanto dice <persName ref="#Pline">Plinio</persName>, sono cipresso, cedro, hebano, loto, bosso,
                   nasso, ginepro, ulivastro, et ulivo; et quelli, che con grande tardità tarlano, sono arice, rovero, castagno, et noce. ma quanto
                   all'arice, è in disparere <persName ref="#Pline">Plinio</persName> con Vetruvio: peroche egli non uvole, che per l'amaritudine del
                   suo liquore possi tarlare. È da considerare, che alcuni arbori, per l'amaritudine di loro liquore, non possono essere offesi da
@@ -1882,7 +1933,7 @@
             </div2>
             <div2 type="chapitre" n="10" xml:id="L2C10">
                <p xml:id="CAT_PQLA_L2_L2C10_P1">Quali tempi sieno piu conuenienti al murare delle fabriche. Cap. X. </p>
-               <p xml:id="CAT_PQLA_L2_L2C10_P2">Se tutte le cose, che sono fatte fuor de i debiti tempi, ne dimostrano il piu delle uolte tristi, et dannosi effetti, et ne
+               <p xml:id="CAT_PQLA_L2_L2C10_P2"><ptr type="intertextuality" target="#SCA_IAU_L8_L8C4_P14"/>Se tutte le cose, che sono fatte fuor de i debiti tempi, ne dimostrano il piu delle uolte tristi, et dannosi effetti, et ne
                   perturbano la mente; si deveno per tanto fuggire i tempi non buoni, et accostarsi a quelli, che piu si richieggono, et massime nelle
                   fabriche delle muraglie, esercitandosi in quelle nella piu temperata stagione di tutto l'anno. et non essendo da grande necessità
                   astretto, non si debbe mai acconsentire, che a i tempi molto freddi, o molto caldi si muri, massime le parti di fuore, che uengono
@@ -1934,7 +1985,7 @@
             <div2 type="chapitre" n="12" xml:id="L2C12">
                <pb n="35"/>
                <head>Calcestruzzo, o smalto di due sorti. Cap. XII. </head>
-               <p xml:id="CAT_PQLA_L2_L2C12_P1">Grande utile commodità, et uaghezza ci rende lo smalto, o calcestruzzo: et si fa di due sorti: una serue a i pozzi, cisterne,
+               <p xml:id="CAT_PQLA_L2_L2C12_P1"><ptr type="intertextuality" target="#MAR_AA_L5_L5C18_P9"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C23_P1"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C18_P18"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C28_P13"/><ptr type="intertextuality" target="#SCA_IAU_L7_L7C4_P14"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C17_P2"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C22_P5"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C24_P11"/>Grande utile commodità, et uaghezza ci rende lo smalto, o calcestruzzo: et si fa di due sorti: una serue a i pozzi, cisterne,
                   fontane, et conserue di acqua, ritenendola in quelle, acciò che per i pori della terra non possa pigliare esito. così ancora per le
                   loggie, che si fanno scoperte senza tetto, resiste all'acque, che non possino penetrare sotto le loro uolte, quando sia con
                   diligentia bene ordinato. et uolendo fare questo, piglisi parti una di buona calcina albazzana, parti una di ghiarra sottile, parti
@@ -2040,7 +2091,7 @@
             <div2 type="chapitre" n="2" xml:id="L3C2">
                <head>Secondo disegno del tempio a crociera, et dalla sua pianta tiratone gli alzati per ordine di Prospettiva, così della parte
                   interiore, come di quella di fuore, con le particolari misure de'membri suoi principali. Cap. II. </head>
-               <p xml:id="CAT_PQLA_L3_L3C2_P1">Dovendo hor noi mostrar con le loro misure et proportioni piu maniere et uariate forme di tempii, comminciaremo a quelle di tre
+               <p xml:id="CAT_PQLA_L3_L3C2_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C14_P7"/><ptr type="intertextuality" target="#BAR_A_L7_L7C15_P1"/><ptr type="intertextuality" target="#BAR_A_L7_L7C5_P1"/><ptr type="intertextuality" target="#BAR_A_L7_L7C9_P2"/><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C10_P1"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C3_P1"/><ptr type="intertextuality" target="#F101"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#I101"/><ptr type="intertextuality" target="#I115"/><ptr type="intertextuality" target="#I93"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C12_P13"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P1"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P4"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P5"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P7"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C9_P6"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C13_P3"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C14_P3"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C15_P3"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C16_P4"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C22_P2"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/><ptr type="intertextuality" target="#RAP_LLX_L1_P19"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C10_P18"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C23_P16"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#SER_LEA_L2_L2C15_P1"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P12"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P6"/><ptr type="intertextuality" target="#VAS_V1568M_INTRO_INTROC3_P5"/><ptr type="intertextuality" target="#VIG_RDCOA_L2_P10"/><ptr type="intertextuality" target="#VIG_RPP_L5_L5C21_L5C21SC3_P4"/>Dovendo hor noi mostrar con le loro misure et proportioni piu maniere et uariate forme di tempii, comminciaremo a quelle di tre
                   navate. Le misure della sua pianta seranno queste, che la lunghezza del suo uano dentro col cappellone si farà di piedi cento
                   uint'otto, et nella sua larghezza piedi settantatre; la navata di mezzo piedi uintiquattro: et il medesimo spatio correrà tra i
                   quattro pilastri, che levano la tribuna. l'altre due navate dalle bande seranno larghe piedi diciotto e mezzo. il resto serà
@@ -2060,7 +2111,7 @@
                <pb n="37bis"/>
                <head> Variata for ma di pianta del tempio a crociera, et di minore spesa, per città piccola, o honorato castello, con le misure
                   de'suoi membri principali. Cap. V.</head>
-               <p xml:id="CAT_PQLA_L3_L3C5_P1"> In altro modo et di minore spesa si potrà fabricare il tempio a crociera, come per la presente pianta si dimostra. il transito
+               <p xml:id="CAT_PQLA_L3_L3C5_P1"><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P7"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C12_P4"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C7_P46"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P12"/> In altro modo et di minore spesa si potrà fabricare il tempio a crociera, come per la presente pianta si dimostra. il transito
                   principale del suo corpo serà largo piedi trentasei, quello delle braccia piedi uintisette, i suoi pilastri o colonne piedi tre
                   larghe: et per minore spesa si potranno fare di muro, con i capitelli, base, et cornici di pietre. le cappelle del corpo sono piedi
                   dieci larghe: le quali si potranno ancora compartire come quelle del lato destro: che ue ne sono due non in tutto circolari. le
@@ -2096,7 +2147,7 @@
             <div2 type="chapitre" n="3" xml:id="L3C3">
                <head> Pianta di tempio a crociera, per la città di potentissimo Prencipe, o gran republica, con le misure de'suoi membri particolari.
                   Cap. III. </head>
-               <p xml:id="CAT_PQLA_L3_L3C3_P1">Et se nella città Imperiale, Regale, o di qualche gran republica, o altro potentissimo Prencipe si uorrà fabricare il principale
+               <p xml:id="CAT_PQLA_L3_L3C3_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C14_P7"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C12_P4"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C28_P19"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P12"/>Et se nella città Imperiale, Regale, o di qualche gran republica, o altro potentissimo Prencipe si uorrà fabricare il principale
                   tempio a crociera, uolendolo rappresentare magnifico, si potrà farlo di cinque navate nel suo corpo, et di tre nelle braccia, come
                   per la presente pianta si può considerare. della quale, per essere così piccola, non ne mostreremo altro alzato. Seranno dunque di
                   tal pianta ciascuna delle quattro fronti di ogni suo pilastro, o colonna, piedi tre larghe, et piedi trenta alte. le quattro navate
@@ -2122,7 +2173,7 @@
             <div2 type="chapitre" n="4" xml:id="L3C4">
                <pb n="39bis"/>
                <head>Pianta di tempio a crociera per castello, o città piccola, con le misure de'suoi membri principali. Cap. IIII.</head>
-               <p xml:id="CAT_PQLA_L3_L3C4_P1"> Potrassi il tempio a crociera per una città piccola o gran castello fabricare di questa simile forma di una sola navata. i pilastri
+               <p xml:id="CAT_PQLA_L3_L3C4_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C14_P7"/><ptr type="intertextuality" target="#I100"/> Potrassi il tempio a crociera per una città piccola o gran castello fabricare di questa simile forma di una sola navata. i pilastri
                   seranno per ciascuna delle tre loro fronti piedi tre: et movendosi dall'altra loro fronte un muro di piedi tre grosso, si uerrà a
                   congiugnere con l'altre duo mura estreme dalle bande: et ne uerranno da ogni banda a formare cinque cappelle di larghezza di piedi
                   quindici l'una: et si potranno, parendo piccole, fare sino uinti: et si potranno fare entrar di una in altra con porticciole di
@@ -2148,7 +2199,7 @@
             <div2 type="chapitre" n="6" xml:id="L3C6">
                <head> Diversa forma, et piu breve, di pianta di tempio a crociera, per città piccola, o castello, con le misure de'suoi membri
                   principali. Cap. VI. </head>
-               <p xml:id="CAT_PQLA_L3_L3C6_P1">E l'altra forma ancora piu semplice, come questa, che segue, o simile, si potrà fare in una terra piccola il tempio suo principale a
+               <p xml:id="CAT_PQLA_L3_L3C6_P1"><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#F100"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#I93"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/>E l'altra forma ancora piu semplice, come questa, che segue, o simile, si potrà fare in una terra piccola il tempio suo principale a
                   crociera. Serà dunque di questo il transito del suo corpo largo piedi cinquantasei, quel delle braccia piedi trentadue, le sue
                   colonne piane di dentro piedi due e mezzo, et i loro membretti piedi uno et un quarto. et non uolendo farle tutte di pietra, basterà
                   fare le loro base, capitello, et cornicione di conci, come nelle due passate si è detto. gli spatii intra i pilastri per le cappelle
@@ -2166,7 +2217,7 @@
                <pb n="41"/>
                <head> Della forma del tempio rotondo, et dalla sua pianta, tiratone gli alzati per ordine di Prospettiva così della parte interiore,
                   come di quella di fuore, con le misure de i membri loro particolari. Cap. VII. </head>
-               <p xml:id="CAT_PQLA_L3_L3C7_P1">Avuenga che, oltre al principale, si potessero fare altri tempii per la città a crociera, così a parrochie, a conuenti, et per altri
+               <p xml:id="CAT_PQLA_L3_L3C7_P1"><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/>Avuenga che, oltre al principale, si potessero fare altri tempii per la città a crociera, così a parrochie, a conuenti, et per altri
                   luoghi pii: ma perché la uarietà porga bellezza, si farà per tanto dal principale in poi, gli altri tempii della città di uariate et
                   diverse forme, come circolari, ovali, quadrangulari, et di piu anguli et lati, secondo che piu si conuenisse, ualendosi massime
                   dell'ottangula, per essere molto grata all'occhio, et porgere molta maestà a i riguardanti. formaremo dunque noi un tempio circolare
@@ -2188,7 +2239,7 @@
                   imposta seranno alte dette cappelle piedi uintinove. <figure type="schema"/>
                   <pb n="42bis"/>
                </p>
-               <p xml:id="CAT_PQLA_L3_L3C7_P2"> Havendo a dietro dimostro la pianta et la metà del dentro del tempio rotondo, si dimostrerà hora l'alzato, che di fuore si può
+               <p xml:id="CAT_PQLA_L3_L3C7_P2"><ptr type="intertextuality" target="#BAR_A_L7_L7C8_P2"/><ptr type="intertextuality" target="#BAR_DLDA_L5_L5C9_P4"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C3_P1"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P6"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#SER_LEA_L2_L2C15_P1"/> Havendo a dietro dimostro la pianta et la metà del dentro del tempio rotondo, si dimostrerà hora l'alzato, che di fuore si può
                   uedere, di tutto il tempio, tirato dalla detta sua pianta per ordine di Prospettiva, del quale i dodici intercolunni maggiori sono
                   piedi uintidue l'uno: che tutti uengono a essere piedi dugento sessantaquattro. ciascuna delle quattro entrate è larga piedi dieci,
                   et ciascuna delle otto loro pilastrate, che seruono per membretti alle colonne, è larga piedi due e mezzo: che tutte otto uengono a
@@ -2210,7 +2261,7 @@
             <div2 type="chapitre" n="8" xml:id="L3C8">
                <head> Come la medesima inuentione et ordine del tempio rotondo passato si possa usare nelle figure latere, come per la pianta
                   ottangula si dimostra. Cap. VIII. </head>
-               <p xml:id="CAT_PQLA_L3_L3C8_P1">Potrassi ualere l'Architetto della medesima inuentione della figura passata ancor nelle figure latere, come per la pianta ottangula
+               <p xml:id="CAT_PQLA_L3_L3C8_P1"><ptr type="intertextuality" target="#I70"/>Potrassi ualere l'Architetto della medesima inuentione della figura passata ancor nelle figure latere, come per la pianta ottangula
                   si dimostra nel disegno, che segue, con quattro entrate: ma nelli anguli si accozzeranno di necessità due cappelle della medesima
                   figura: et di una di quelle si potrà fare la sagrestia, et sopra essa il suo campanile. ne di tale si farà altro alzato; ne si darà
                   alcuna misura. peroche si potrà fare di quella grandezza, che il luogo ricercherà. et di tale inuentione si potrà ancora ualere
@@ -2221,7 +2272,7 @@
                <pb n="44"/>
                <head>Diversa forma di tempio rotondo da quel, che si è mostro, et dalla sua pianta tiratone gli alzati per ordine di Prospettiva, così
                   della parte interiore, come di quella di fuore, con le misure de i membri suoi principali. Cap. IX. </head>
-               <p xml:id="CAT_PQLA_L3_L3C9_P1">In altro modo si potrà fare il tempio rotondo, sì come per questa figura si dimostra. il quale essendo porticato con sedici cappelle
+               <p xml:id="CAT_PQLA_L3_L3C9_P1"><ptr type="intertextuality" target="#BAR_A_L7_L7C14_P7"/><ptr type="intertextuality" target="#BAR_A_L7_L7C15_P1"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C4_P10"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P7"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C12_P4"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C7_P46"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P12"/>In altro modo si potrà fare il tempio rotondo, sì come per questa figura si dimostra. il quale essendo porticato con sedici cappelle
                   così fuore come dentro, ne renderà non piccola uaghezza et commodità: quando intorno a quelle sopra la piana di tal portico si potrà
                   insieme con la parte interiore celebrare il culto divino. Parlando prima delle misure della sua pianta, le sue colonne piane di
                   dentro seranno larghe piedi quattro; et i loro membretti piedi due. le cappelle sono larghe piedi undici et un terzo, et così le sue
@@ -2239,7 +2290,7 @@
                   un piede et un terzo, et alte quattordici. <figure type="schema"/>
                </p>
                <pb n="45"/>
-               <p xml:id="CAT_PQLA_L3_L3C9_P2"> Il disegno, che segue, rappresenta l'alzato di quanto si può ueder della parte di fuore del tempio rotondo, tirato per ordine di
+               <p xml:id="CAT_PQLA_L3_L3C9_P2"><ptr type="intertextuality" target="#BAR_DLDA_L5_L5C9_P4"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#PAL_ATF_L2_L2C7_P2"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P6"/><ptr type="intertextuality" target="#PAL_QLA_L4_L4C27_P1"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C4_P1"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#SER_LEA_L2_L2C15_P1"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P6"/> Il disegno, che segue, rappresenta l'alzato di quanto si può ueder della parte di fuore del tempio rotondo, tirato per ordine di
                   Prospettiva dalla detta sua pianta passata. le sue colonne Doriche sono larghe piedi quattro e mezzo, et alte trenta: che,
                   aggiuntoui piedi dieci, che sono la metà di uinti, che è largo il portico, fanno quaranta. e tanto seranno alte le uolte sotto,
                   uolendole dare tutto sesto. et di uerso il muro per causa del pendino si moverà sopra quelle il tetto alto piedi otto: et piedi
@@ -2258,7 +2309,7 @@
             <div2 type="chapitre" n="10" xml:id="L3C10">
                <pb n="46"/>
                <head> Pianta di tempio uariata dall'altre a similitudine di croce, con le misure de'suoi membri principali: Cap. X.</head>
-               <p xml:id="CAT_PQLA_L3_L3C10_P1"> Voglio al presente mostrare l'ordine di un tempio a similitudine di croce: che in opera, per mio avuiso, si renderebbe molto uago;
+               <p xml:id="CAT_PQLA_L3_L3C10_P1"><ptr type="intertextuality" target="#F100"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#PAL_QLA_L4_L4C27_P1"/><ptr type="intertextuality" target="#SER_LEA_L1_L1C7_P1"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P12"/><ptr type="intertextuality" target="#VAS_V1551M_INTRO_C3_P6"/> Voglio al presente mostrare l'ordine di un tempio a similitudine di croce: che in opera, per mio avuiso, si renderebbe molto uago;
                   come per la pianta, che segue, si può considerare. del quale ciascuno de i due diametri lunghi delle croci, senza le cappelle, che
                   gli sono in testa, sono lunghi piedi cento, et la loro larghezza piedi quaranta. il diametro dell'emiciclo di ciascuna delle tre
                   cappelle di testa è piedi uinti. et il medesimo è il diametro delle quattro cappelle circolari. di una delle quali si potrà fare la
@@ -2275,7 +2326,7 @@
             <pb n="46bis"/>
             <p xml:id="CAT_PQLA_L4_P1">LIBRO QUARTO DI ARCHITETTURA DI PIETRO CATANEO SENESE: dove si tratta per uia di uarie piante l'ordine di piu palazzi, et casamenti:
                uenendo dal palazzo reale a quello di particolar Signore, et honorato gentilhuomo, sino alle case di persone private. </p>
-            <p xml:id="CAT_PQLA_L4_P2"> Non è cosa, che renda piu contentezza a gli huomini, Illustrissimo Signore, che l'havere una sana, ben composta, et uaga habitatione,
+            <p xml:id="CAT_PQLA_L4_P2"><ptr type="intertextuality" target="#BAR_A_L7_L7C3_P1"/><ptr type="intertextuality" target="#VAS_V1568M_L2_L2C32_P6"/> Non è cosa, che renda piu contentezza a gli huomini, Illustrissimo Signore, che l'havere una sana, ben composta, et uaga habitatione,
                per ricreatione et riposo doppo i uarii et diversi travagliamenti. et questo deve desiderare ogni gran Prencipe, ciascun Signore, et
                qual si uoglia honorato gentilhuomo, et ogni altra particolare persona; considerato, che alla maggior parte del tempo i Prencipi
                grandi, per causa delle molte audienze et negotii importanti, conuiene star dentro a i loro palazzi. poco meno interuiene a i
@@ -2404,7 +2455,7 @@
             <div2 type="chapitre" n="3" xml:id="L4C3">
                <pb n="49"/>
                <head>Variata pianta di palazzo regale, di due appartamenti, di forma quadrata, con le misure de'suoi membri principali. Cap. III. </head>
-               <p xml:id="CAT_PQLA_L4_L4C3_P1">In altro modo, et di minore spesa, et ricetto, si potrà fare il palazzo Signorile, et potrà seruire per due appartamenti, piglisi di
+               <p xml:id="CAT_PQLA_L4_L4C3_P1"><ptr type="intertextuality" target="#I100"/>In altro modo, et di minore spesa, et ricetto, si potrà fare il palazzo Signorile, et potrà seruire per due appartamenti, piglisi di
                   quadro per ogni uerso braccia cento settantadue; le quali si partino per braccia quattro: che in questa si fanno i sodi, et i uani,
                   o porte così aperte, come finte: et ne uerrà quarantatre: che seranno uintiduo sodi, et uint'uno uano: et così serà compartita tutta
                   la faccia fuore di esso palazzo: il quale si presuppone spiccato di ogn'intorno, et che si possa accommodare con quello honorato
@@ -2433,7 +2484,7 @@
                <pb n="49bis"/>
                <head>Altra pianta di palazzo quadrato, di minore spesa, et ricetto, con due appartamenti, et con le misure de'suoi membri principali.
                   Cap. IIII. </head>
-               <p xml:id="CAT_PQLA_L4_L4C4_P1">Di altra forma piu piccola, et di minore spesa si potra far il palazzo quadrato, di due appartamenti, come in questa pianta seguente
+               <p xml:id="CAT_PQLA_L4_L4C4_P1"><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#SCA_IAU_L1_L1C15_P30"/>Di altra forma piu piccola, et di minore spesa si potra far il palazzo quadrato, di due appartamenti, come in questa pianta seguente
                   si mostra. il quale si è fatto per ogni uerso braccia cento tredici: et si sono partite per uintisette tra uani et sodi. i sodi
                   delle cantonate si sono fatti di braccia sei, et le porte principali di mezzo braccia cinque larghe: che per ogni faccia occupano le
                   due cantonate et la porta principale braccia dicissette: che tratte di cento tredici restano braccia novantasei per gli altri
@@ -2459,7 +2510,7 @@
                <pb n="50bis"/>
                <head>Pianta diversa da l'altre già mostre di palazzo, per il Prencipe, con due cortili, et due entrate principali, incontro l'una
                   all'altra, pur di due appartamenti, con le misure de'suoi membre principali. Cap. V. </head>
-               <p xml:id="CAT_PQLA_L4_L4C5_P1">Potrassi ancora fare il palazzo Signorile con due cortili, et due appartamenti, et con due entrate principali, incontro l'una
+               <p xml:id="CAT_PQLA_L4_L4C5_P1"><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P6"/>Potrassi ancora fare il palazzo Signorile con due cortili, et due appartamenti, et con due entrate principali, incontro l'una
                   all'altra, di modo che da una porta spassi la uista per l'altra sua opposita, come per la presente pianta si dimostra. la quale
                   piglia di spatio per un uerso braccia centouintitre, et per l'altro ottantasei, e tutti i sodi sono braccia cinque: et il medesimo
                   sono le due porte principali: et ciascuno de gli spatii o uani intra sodi uiene a restar braccia quattro. le mura delle quattro
@@ -2480,7 +2531,7 @@
                <pb n="53"/>
                <head>Pianta di palazzo quadro per particolar Signore o ricco gentilhuomo, di molto minore spesa, et ricetto dell'altre passate; pur di
                   due appartamenti, con le sue misure principali. Cap. VI. </head>
-               <p xml:id="CAT_PQLA_L4_L4C6_P1">Di assai minore spesa et ricetto di quel, che si è mostro sino hora, si potrà fare il palazzo quadro per particolar Signore o ricco
+               <p xml:id="CAT_PQLA_L4_L4C6_P1"><ptr type="intertextuality" target="#F100"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C5_P11"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C27_P1"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C10_P1"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P10"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P6"/><ptr type="intertextuality" target="#SCA_IAU_L3_L3C8_P20"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C12_P4"/>Di assai minore spesa et ricetto di quel, che si è mostro sino hora, si potrà fare il palazzo quadro per particolar Signore o ricco
                   gentilhuomo, di due appartamenti, con due principali entrate, incontro l'una a l'altra. et si potrà pigliare di spatio per ogni
                   uerso braccia novantacinque, dividendolo per diciennove tra'sodi o porte, così aperte come finte, o uani che dir gli uogliamo; tal
                   che ciascuno di essi serà braccia cinque. et se i sodi paressero di troppo spatio, considerato che i finestrati uengono assai
@@ -2502,7 +2553,7 @@
             <div2 type="chapitre" n="7" xml:id="L4C7">
                <pb n="53bis"/>
                <head>Pianta di casa per particolar persona, senza cortile, con le sue particolari misure. Cap. VII. </head>
-               <p xml:id="CAT_PQLA_L4_L4C7_P1">Passando hora alle case piu universali, et per persone particolari, ne formaremo una pianta senza cortile, come qui si uede; la
+               <p xml:id="CAT_PQLA_L4_L4C7_P1"><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C12_P13"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C22_P2"/>Passando hora alle case piu universali, et per persone particolari, ne formaremo una pianta senza cortile, come qui si uede; la
                   faccia della quale, et così la parte sua opposita serà braccia sessanta: et et da ciascuno de i duo fianchi è braccia uint'otto.
                   essi divisa la facciata sua in quindici parti, et i fianchi in parti sette; tal che ogni sodo et spatio per le porte finte, come
                   ancora per la sua aperta principale è braccia quattro. essi lassato dietro due porte aperte, di braccia tre larghe, da seruirsene
@@ -2538,7 +2589,7 @@
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="9" xml:id="L4C9">
                <head>Altra pianta di casa per particolar persona, con le sue misure. Cap. IX.</head>
-               <p xml:id="CAT_PQLA_L4_L4C9_P1"> Potrassi fare la casa in quest'altro modo. piglisi per la lunghezza braccia quarantatre; et partisi la sua facciata per quindici
+               <p xml:id="CAT_PQLA_L4_L4C9_P1"><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C12_P13"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C22_P2"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/> Potrassi fare la casa in quest'altro modo. piglisi per la lunghezza braccia quarantatre; et partisi la sua facciata per quindici
                   tra sodi, et uani, o porte così finte, come per la principale. i sodi delle cantonate si faranno braccia due e mezzo, e tutti gli
                   altri di tal faccia braccia due. ma i uani delle porte finte, et così l'apertura della sua porta principale seranno di braccia
                   quattro. i fianchi di tal casa sono braccia uintisette: che si sono compartiti egualmente in nove tra sodi et uani di braccia tre
@@ -2575,7 +2626,7 @@
             <div2 type="chapitre" n="11" xml:id="L4C11">
                <head>Che ne i palazzi, o casamenti si può procedere fuor delle figure rettangule, et come dalla pianta passata si possa fare il palazzo
                   ottangulo, con le sue particolari misure. Cap. XI.</head>
-               <p xml:id="CAT_PQLA_L4_L4C11_P1"> Potrassi ancor procedere ne i casamenti, o palazzi fuor delle figure rettangule, facendo il palazzo esagono, ottangulo, et di piu
+               <p xml:id="CAT_PQLA_L4_L4C11_P1"><ptr type="intertextuality" target="#BAR_DLDA_L9_L9C4_L9C4SC1_P11"/><ptr type="intertextuality" target="#I115"/><ptr type="intertextuality" target="#I93"/><ptr type="intertextuality" target="#I99"/><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P4"/><ptr type="intertextuality" target="#SCA_IAU_L1_L1C15_P19"/><ptr type="intertextuality" target="#SCA_IAU_L8_L8C12_P4"/><ptr type="intertextuality" target="#VIG_RDCOA_L2_P4"/> Potrassi ancor procedere ne i casamenti, o palazzi fuor delle figure rettangule, facendo il palazzo esagono, ottangulo, et di piu
                   anguli et lati, di uarie et diverse maniere, secondo il desiderio di chi edifica. ma noi per hora mostraremo, come dalla pianta
                   passata si possa causare il palazzo di otto anguli, o lati: quantunque le stanze non concordino in tutto nella distributione loro
                   con quelle della figura già mostra, per dimostrarsi questa di due sole entrate principali: benche questa ancora si potria fare di
@@ -2587,7 +2638,7 @@
                <figure type="schema"/></div2>
             <div2 type="chapitre" n="12" xml:id="L4C12">
                <head>Forma di palazzo rotonda fuor dell'uso ordinario. Cap. XII. </head>
-               <p xml:id="CAT_PQLA_L4_L4C12_P1">Non solo è conueniente tal uolta, per uariare, così ne'palazzi come nell'altre fabriche uscire delle figure contenute da anguli
+               <p xml:id="CAT_PQLA_L4_L4C12_P1"><ptr type="intertextuality" target="#MAR_AA_L7_L7C15_P13"/><ptr type="intertextuality" target="#SCA_IAU_L1_L1C15_P19"/><ptr type="intertextuality" target="#VAR_LM_lettre_P48"/>Non solo è conueniente tal uolta, per uariare, così ne'palazzi come nell'altre fabriche uscire delle figure contenute da anguli
                   retti; ma ancor tal uolta, per compiacere massime a i capricci de'Signori, è necessario procedere fuor delle figure rettelinee, et
                   fabricare il palazzo circolare, ovale, o di altre simili figure. ma noi ne formaremo una pianta di circolo perfetto: ancor ch'io non
                   creda, che hoggi si uegga, ne che nell'antico si sia uisto usata tal figura ne i palazzi o casamenti; ne ch'io approui che sia da

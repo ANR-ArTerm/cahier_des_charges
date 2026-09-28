@@ -4,22 +4,69 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="ita"> Title </title>
+            <title xml:lang="ita">Extraordinario Libro di architettura di Sebastiano Serlio, architetto del Re Christianissimo. Nel quale si dimostrano trenta porte di opera dilicata di diverse specie con la scrittura davanti, che narra il tutto</title>
+            <respStmt>
+               <name>Anaïs Mazoué</name>
+               <resp>Transcription</resp>
+            </respStmt>
+            <respStmt>
+               <name>ATIR</name>
+               <resp>Edition travaillée à partir de la transcription d'ATIR</resp>
+            </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
          <publicationStmt>
-            <p> Publication Information </p>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <publisher> ATIR </publisher>
+            <bibl source="https://bibliotheque-numerique.inha.fr/it/collection/item/32769-extraordinario-libro-di-architettura-di-sebastiano-serlio-livre-extraodinaire-de-architecture-de-sebastien-serlio">
+               <author>Serlio Sebastiano<idno type="ISNI">https://isni.org/isni/0000000114785177</idno>
+               </author>
+               <title xml:lang="ita">Extraordinario Libro di architettura di Sebastiano Serlio, architetto del Re Christianissimo. Nel quale si dimostrano trenta porte di opera dilicata di diverse specie con la scrittura davanti, che narra il tutto</title>
+               <publisher>Jean de Tournes</publisher>
+               <pubPlace>Lyon</pubPlace>
+               <date when="1551">1551</date>
+               <availability>
+                  <p>Licence Ouverte / Open Licence » Etalab</p>
+               </availability>
             </bibl>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
          </sourceDesc>
       </fileDesc>
-      <profileDesc><xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/></profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="low" method="silent">
+               <p>édition synthétique</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées automatiquement ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+            </normalization>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.</p>
+            </segmentation>
+            <hyphenation eol="none"/>
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
    </teiHeader>
    <text>
-      <front>
+      <linkGrp type="intertextuality"><link target="#BAR_A_L8_L8C9_P2 #SER_LEA_L1_L1C7_P1" n="0.8076"/><link target="#BAR_DLDA_L5_L5C11_P30 #SER_LEA_L1_L1C7_P1" n="0.8142"/><link target="#BAR_PP_L4_L4C7_P1 #SER_LEA_L1_L1C4_P1" n="0.8009"/><link target="#BAR_PP_L4_L4C7_P1 #SER_LEA_L1_L1C7_P1" n="0.8127"/><link target="#BAR_PP_L4_L4C7_P1 #SER_LEA_L2_L2C16_P1" n="0.8077"/><link target="#CAT_PQLA_L1_L1C10_P1 #SER_LEA_L1_L1C7_P1" n="0.8118"/><link target="#CAT_PQLA_L1_L1C9_P1 #SER_LEA_L1_L1C7_P1" n="0.8217"/><link target="#CAT_PQLA_L1_L1C9_P1 #SER_LEA_L2_L2C15_P1" n="0.8045"/><link target="#CAT_PQLA_L3_L3C10_P1 #SER_LEA_L1_L1C7_P1" n="0.8476"/><link target="#CAT_PQLA_L3_L3C2_P1 #SER_LEA_L1_L1C7_P1" n="0.8541"/><link target="#CAT_PQLA_L3_L3C2_P1 #SER_LEA_L2_L2C15_P1" n="0.8068"/><link target="#CAT_PQLA_L3_L3C3_P1 #SER_LEA_L1_L1C7_P1" n="0.8145"/><link target="#CAT_PQLA_L3_L3C6_P1 #SER_LEA_L1_L1C7_P1" n="0.8014"/><link target="#CAT_PQLA_L3_L3C7_P2 #SER_LEA_L1_L1C7_P1" n="0.82"/><link target="#CAT_PQLA_L3_L3C7_P2 #SER_LEA_L2_L2C15_P1" n="0.8126"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L1_L1C4_P1" n="0.8085"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L1_L1C7_P1" n="0.8207"/><link target="#CAT_PQLA_L3_L3C9_P2 #SER_LEA_L2_L2C15_P1" n="0.8114"/><link target="#I100 #SER_LEA_L1_L1C2_P1" n="0.8017"/><link target="#I100 #SER_LEA_L1_L1C7_P1" n="0.8221"/><link target="#I100 #SER_LEA_L2_L2C15_P1" n="0.8475"/><link target="#LOM_TP_L1_C26_P5 #SER_LEA_L1_L1C4_P1" n="0.8012"/><link target="#MAR_AA_L8_L8C5_P6 #SER_LEA_L1_L1C7_P1" n="0.807"/><link target="#PAL_ATF_L1_L1C16_P2 #SER_LEA_L1_L1C7_P1" n="0.8187"/><link target="#PAL_ATF_L1_L1C16_P8 #SER_LEA_L1_L1C7_P1" n="0.8296"/><link target="#PAL_ATF_L1_L1C17_P2 #SER_LEA_L1_L1C7_P1" n="0.8042"/><link target="#PAL_ATF_L1_L1C17_P2 #SER_LEA_L2_L2C16_P1" n="0.8199"/><link target="#PAL_ATF_L1_L1C26_P2 #SER_LEA_L1_L1C7_P1" n="0.8183"/><link target="#PAL_ATF_L1_L1C26_P6 #SER_LEA_L1_L1C7_P1" n="0.8039"/><link target="#PAL_ATF_L2_L2C14_P8 #SER_LEA_L1_L1C4_P1" n="0.8054"/><link target="#PAL_ATF_L2_L2C5_P1 #SER_LEA_L1_L1C4_P1" n="0.8063"/><link target="#PAL_ATF_L2_L2C5_P1 #SER_LEA_L1_L1C7_P1" n="0.816"/><link target="#PAL_QLA_L1_L1C15_P3 #SER_LEA_L1_L1C7_P1" n="0.8195"/><link target="#PAL_QLA_L1_L1C17_P9 #SER_LEA_L1_L1C7_P1" n="0.8325"/><link target="#PAL_QLA_L1_L1C18_P2 #SER_LEA_L1_L1C7_P1" n="0.8195"/><link target="#PAL_QLA_L1_L1C18_P2 #SER_LEA_L2_L2C16_P1" n="0.8077"/><link target="#PAL_QLA_L1_L1C27_P2 #SER_LEA_L1_L1C7_P1" n="0.8206"/><link target="#PAL_QLA_L1_L1C27_P7 #SER_LEA_L1_L1C7_P1" n="0.8028"/><link target="#PAL_QLA_L2_L2C17_P2 #SER_LEA_L1_L1C7_P1" n="0.814"/><link target="#PAL_QLA_L2_L2C17_P2 #SER_LEA_L2_L2C15_P1" n="0.8013"/><link target="#PAL_QLA_L2_L2C3_P6 #SER_LEA_L1_L1C4_P1" n="0.8073"/><link target="#PAL_QLA_L4_L4C27_P1 #SER_LEA_L1_L1C4_P1" n="0.8037"/></linkGrp><front>
          <titlePage>
             <titlePart>Extraordinario LIBRO DI ARCHITETTVRA DI SEBASTIANO SERLIO, ARCHITETTO DEL RE CHRISTIANISSIMO. NEL QUALE SI DIMOSTRANO. TRENTA PORTE DI OPERA RVSTICA MISTA CON DIVERSI ORDINI: ET VENTI DI OPERA DILICATA DI DIVERSE SPECIE CON LA SCRITTVRA DAVANTI, CHE NARRA IL TVTTO. In <placeName ref="#Venise">Venetia</placeName>, appresso Giovambattista, et Marchio Sessa fratelli. <date when="1558">1558</date>
             </titlePart>
@@ -44,7 +91,7 @@
             </div2>
             <div2 xml:id="L1C2" type="chapitre" n="2">
                <head>II </head>
-               <p xml:id="SER_LEA_L1_L1C2_P1">
+               <p xml:id="SER_LEA_L1_L1C2_P1"><ptr type="intertextuality" target="#I100"/>
                   <figure type="ornement"/> La presente porta è di opera <placeName ref="#Toscane">Toscana</placeName>, ma di basso rilevo di un'<persName ref="#GiovanniFrancescoRustici">Rustico</persName> dilicato: la larghezza della quale è piedi sei, et mezo imaginati. L'altezza sua sara piedi tredici. La fronte di una colonna sara un'piede. La pilastrata mezo piede. Fra le dua colonne vi è un'piede, et mezo. l'altezza del piedestale è piedi tre. l'altezza delle colonne è piedi dieci, e mezo, ne per ciò sono viciose, per essere di basso, et apresso l'una all'altra. l'Architrave, il Fregio, et la Cornice sara la quinta parte de l'altezza della colonna. La levation'di mezo sara tanto alta col remenato, quanto è larga la porta. La sua larghezza con le colonnelle è quanto contiene le pilastrate della porta. Et in essa levatione, se la porta sara a una casa privata, et che l'entrata sua habbia bisogno di luce, ella seruira per finestra. Et se anche non le accadera luce, si potra in essa mettere qualunque cosa si vorra.</p>
             </div2>
             <div2 xml:id="L1C3" type="chapitre" n="3">
@@ -54,7 +101,7 @@
             </div2>
             <div2 xml:id="L1C4" type="chapitre" n="4">
                <head>IIII </head>
-               <p xml:id="SER_LEA_L1_L1C4_P1">
+               <p xml:id="SER_LEA_L1_L1C4_P1"><ptr type="intertextuality" target="#BAR_PP_L4_L4C7_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C9_P2"/><ptr type="intertextuality" target="#LOM_TP_L1_C26_P5"/><ptr type="intertextuality" target="#PAL_ATF_L2_L2C14_P8"/><ptr type="intertextuality" target="#PAL_ATF_L2_L2C5_P1"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C3_P6"/><ptr type="intertextuality" target="#PAL_QLA_L4_L4C27_P1"/>
                   <figure type="ornement"/> La presente porta è tutta Dorica mista col <persName ref="#GiovanniFrancescoRustici">Rustico</persName>, et col tenero per Capriccio. Tenero è quel cussino sopra li capitelli fatto per una bizaria. Et a chi nostr piacera, faci correre la fascia, et sopra essa metta un cimatio. Et così la tabella, che rompe lo Fregio, chi non la vorra, la levi via, et lassi correre la Cornice. Et il medesimo fara di quei pezi rustichi fra le cornici del Frontespice, li quali vi furono posti per carestia di Cornice. Or'parliamo delle misure. La larghezza della porta è piedi otto: et è l'altezza sua piedi tredici, e mezo. la grossezza di una colonna è uno piede, e mezo: et è in altezza piedi dodeci, che sono otto grossezze. li Piedestali sono alti piedi dua, et mezo. le pilastrate dalli lati ciascuna è tre quarti di un'piede. l'Architrave, il Fregio, et la Cornice, sono la quarta parte de l'altezza della colonna. Dalla fascia <pb n=""/> in luogo di Architrave alla cima del Frontespice vi sono quatro piedi, et un'quarto. Li cunei saranno diecinove, facendo quel di mezo maggiore la quarta parte. </p>
             </div2>
             <div2 xml:id="L1C5" type="chapitre" n="5">
@@ -69,7 +116,7 @@
             </div2>
             <div2 xml:id="L1C7" type="chapitre" n="7">
                <head>VII </head>
-               <p xml:id="SER_LEA_L1_L1C7_P1">
+               <p xml:id="SER_LEA_L1_L1C7_P1"><ptr type="intertextuality" target="#BAR_A_L8_L8C9_P2"/><ptr type="intertextuality" target="#BAR_DLDA_L5_L5C11_P30"/><ptr type="intertextuality" target="#BAR_PP_L4_L4C7_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L1_L1C10_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L1_L1C9_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C10_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C2_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C3_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C6_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C7_P2"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C9_P2"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#MAR_AA_L8_L8C5_P6"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P2"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C16_P8"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C17_P2"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C26_P2"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C26_P6"/><ptr type="intertextuality" target="#PAL_ATF_L2_L2C5_P1"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C15_P3"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C17_P9"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C27_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C27_P7"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/>
                   <figure type="ornement"/> Io son pure su questa fantasia delle colonne imperfette, per variare daglialtri, et delle quali so ne farò uno arco trionphale. la largheza del quale sara piedi undici: et l'altezza sara ventidua. l'altezza de i piedestali sara piedi sette: et le porticelle saran'sei piedi in altezza, et larghe tre. la grossezza delle colonne è piedi dua: la sua altezza piedi diecinoui, et un terzo. la pilastrata del arco sara un'piede: fra le colonne vi è piedi cinque, un'quarto. l'altezza de l'Architrave, Fregio, et Cornice sara la quarta parte del'altezza della colonna. Et per che in uno arco ci acade scritture assai, imprese, et armi, ci ho voluto fare le tre tabelle oltra la forma ovale nella parte di sopra. la quale altezza con tutto il Frontespice sara piedi tredici, et mezo. li cunei saranno dieci sette: me quel'di mezo sara un quarto di piu de gli altri.</p>
             </div2>
             <div2 xml:id="L1C8" type="chapitre" n="8">
@@ -265,12 +312,12 @@
             </div2>
             <div2 xml:id="L2C15" type="chapitre" n="15">
                <head>XV </head>
-               <p xml:id="SER_LEA_L2_L2C15_P1">
+               <p xml:id="SER_LEA_L2_L2C15_P1"><ptr type="intertextuality" target="#CAT_PQLA_L1_L1C9_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C2_P1"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C7_P2"/><ptr type="intertextuality" target="#CAT_PQLA_L3_L3C9_P2"/><ptr type="intertextuality" target="#I100"/><ptr type="intertextuality" target="#PAL_QLA_L2_L2C17_P2"/>
                   <figure type="ornement"/> Acadera tal volta a L'architetto di voler fare una porta, la larghezza della quale sia piedi X. et l'altezza piedi XX. ma havera alcune colonne di menor altezza, che la metta della porta: volendosi seruire d'esse colonne potra fare l'imposta del arco sopra le colonne di tanta altezza, quanto la quinta parte di una colonna, et sia Cornice, Fregio puluinato, et Architrave, et sotto esse colonne mettera uno piedestale, che posi sul limine d'essa porta. l'altezza del piedestale sara piedi III. onze IX. laltezza della colonna sara piedi IX. onze III. l'Architrave, il Fregio, et la Cornice sopra le colonne sara piedi II. che sono in tutto piedi XV. mezo circolo, che saranno XX. piedi. Si mettera nel mezo del arco una mensola di un piede et diece onze, et sopra le colonne tonde si metteranno colonne piane. la sua altezza sara piedi VI. e onze dieci, ponendo sopra esse l'Architrave, Fregio, et Cornice. l'altezza del tutto sara la quarta parte menor di quella di sotto: et questa potra seruire per la porta di un Tempio, come l'altra qui a canto.</p>
             </div2>
             <div2 xml:id="L2C16" type="chapitre" n="16">
                <head>XVI </head>
-               <p xml:id="SER_LEA_L2_L2C16_P1">
+               <p xml:id="SER_LEA_L2_L2C16_P1"><ptr type="intertextuality" target="#BAR_PP_L4_L4C7_P1"/><ptr type="intertextuality" target="#PAL_ATF_L1_L1C17_P2"/><ptr type="intertextuality" target="#PAL_QLA_L1_L1C18_P2"/>
                   <figure type="ornement"/> Questa si potra dire <persName ref="#CallirrhoeDeSicyone">Corinthia</persName>, per esserui intagliato una gran parte delli suoi membri. l'altezza sua sara <pb n=""/> dua volte quanto è larga. La sua pilastrata sara l'ottava parte della sua larghezza. la fronte di una mensola sara quanto la pilastrata. lo spacio fra le due mensole sara quanto una mensola. l'altezza del Fregio sara la quarta parte piu della pilastrata, che sara il supercilio. l'altezza della Cornice sia quanto lo supercilio, et l'ottava parte di piu. li altri ornamenti sono fatti a beneplacito del huomo.</p>
             </div2>
             <div2 xml:id="L2C17" type="chapitre" n="17">

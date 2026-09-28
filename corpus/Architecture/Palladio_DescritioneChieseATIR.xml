@@ -4,22 +4,73 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="ita"> Title </title>
+            <title xml:lang="ita">Descritione de le Chiese, Stationi, Indulgenze &amp; Reliquie de Corpi Sancti, che sonno in la Citta de Roma. Brevemente raccolta da M. Andrea Palladio &amp; novamente posta in Luce</title>
+            <respStmt>
+               <name>Emma Bondoerffer</name>
+               <resp>Structuration</resp>
+            </respStmt>
+            <respStmt>
+               <name>Anaïs Mazoué</name>
+               <resp>Transcription</resp>
+            </respStmt>
+            <respStmt>
+               <name>ATIR</name>
+               <resp>Edition travaillée à partir de la transcription d'ATIR</resp>
+            </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+         </editionStmt>
          <publicationStmt>
-            <p> Publication Information </p>
+            <publisher>ArTerm</publisher>
+            <pubPlace>Paris</pubPlace>
+            <date when="2028">2028</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <publisher> ATIR </publisher>
+            <bibl source="https://dlib.biblhertz.it/view?item=dg4501501&amp;view=info&amp;canvas=1&amp;display=book">
+               <author>Andrea Palladio<idno type="ISNI">https://isni.org/isni/0000000121222209</idno>
+               </author>
+               <title xml:lang="ita">Descritione de le Chiese, Stationi, Indulgenze &amp; Reliquie de Corpi Sancti, che sonno in la Citta de Roma. Brevemente raccolta da M. Andrea Palladio &amp; novamente posta in Luce</title>
+               <publisher>Vincentio Lucrino</publisher>
+               <pubPlace>Rome</pubPlace>
+               <date when="1554">1554</date>
+               <availability>
+                  <p>CC - Provided by Bibliotheca Hertziana – Max Planck Institute for Art History, Rome</p>
+               </availability>
             </bibl>
+            <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
          </sourceDesc>
       </fileDesc>
-      <profileDesc><xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
-         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/></profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction status="low" method="silent">
+               <p>édition synthétique</p>
+            </correction>
+            <normalization method="silent">
+               <p>Les ambiguïtés entre i, j, u, v ont été corrigées automatiquement ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+            </normalization>
+            <segmentation>
+               <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4.</p>
+            </segmentation>
+            <hyphenation eol="none"/>
+            <stdVals>
+               <p>Norme ISO-8601 pour les dates</p>
+            </stdVals>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+         <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+      </profileDesc>
    </teiHeader>
    <text>
-      <front>
+      <linkGrp type="intertextuality"><link target="#BAG_V_L3_L3C1_P4 #PAL_DC_L1_L1C5_P51" n="0.8151"/><link target="#BAG_V_L4_L4C1_P7 #PAL_DC_L1_L1C6_P25" n="0.8181"/><link target="#BOR_R_L4_P91 #PAL_DC_L1_L1C3_P7" n="0.8186"/><link target="#PAL_DC_L1_L1C3_P7 #VAS_V1568M_L3_L3C80_P2" n="0.822"/><link target="#PAL_DC_L1_L1C5_P1 #VAS_V1568M_L2_L2C30_P2" n="0.8095"/><link target="#PAL_DC_L1_L1C5_P51 #VAS_V1568M_L2_L2C51_P5" n="0.8055"/></linkGrp><front>
          <titlePage>
             <titlePart> DESCRITIONE DE LE CHIESE, Stationi, Indulgenze et Reliquie de Corpi Sancti, che sonno in la Citta de <placeName ref="#Rome">Roma</placeName>. BREVEMENTE RACCOLTA da M. Andrea <persName ref="#AndreaPalladio">Palladio</persName> et novamente posta in Luce , Con gratia et Privilegio per anni diece. </titlePart>
             <byline> FORTES, FORTUNA, ADIVVAT' </byline>
@@ -71,7 +122,7 @@
                <p xml:id="PAL_DC_L1_L1C3_P4"> S. Grisogono: questa chiesa è anchor lei in Trastevere, et è titolo di Cardinale, et vi è statione il lunedi dopo la 5. Domenica di quaresima, et vi sono l'infrascritte reliquie: un brazzo di S. Giacobo maggiore, una spalla di S. Andrea, il capo et una mano di san Grisogono, del legno de la Croce, et de li capilli di <persName ref="#Jesus">Christo</persName>: una costa di S. Stefano, de le reliquie di S. Sebastiano di S. Cosmo è Damiano, di S. Giuliano martire, di <persName ref="#SaintPierre">S. Pietro</persName>, di S. Paolo, et di S. Mattheo apostoli: di S. Vrbano Papa: di san Lorenzo, di san Primo, et Feliciano, di san Giorgio, di S. Cecilia, di S. Prisca, di S. Ninfa, et di S. <persName ref="#Bacchus">Dionisio</persName>, del sepolcro di <persName ref="#Jesus">Christo</persName>, del Monte Sion, et della Terra santa di Gierusalem. </p>
                <p xml:id="PAL_DC_L1_L1C3_P5"> Santo Francesco, nel giorno de la sua festivita et per tutta la ottava, vi è la plenaria remissione <pb n=""/> de peccati, et nela detta chiesa vi è una capella dove è sepolto el corpo della beata Ludouica Romana quale fa miracoli. </p>
                <p xml:id="PAL_DC_L1_L1C3_P6"> S. Cosmate e posta dove era la Naumachia de <persName ref="#JulesCesar">Cesare</persName> è uno monastero de venerande donne Romane renchiuse de l'ordine de <persName ref="#SaintFrancois">S. Francesco</persName> oseruante, vie molta Indulgenza è perdonanza per li peccati. </p>
-               <p xml:id="PAL_DC_L1_L1C3_P7">
+               <p xml:id="PAL_DC_L1_L1C3_P7"><ptr type="intertextuality" target="#BOR_R_L4_P91"/><ptr type="intertextuality" target="#VAS_V1568M_L3_L3C80_P2"/>
                   <persName ref="#SaintPierre">S. Pietro</persName> Montorio: questa chiesa è nel Ianicolo, et fu restaurata da Ferdinando Re di <placeName ref="#Espagne">Spagna</placeName>, et Clemente 7. essendo Cardinale, vi fece fare la palla de l'altare grande, et il Tabernacolo. Et a mano drita entrando da la porta grande, vi è una imagine di <persName ref="#Jesus">Christo</persName> a la colonna di pinto da fiate Sebastiano Venetiano pittore eccellentiss. Et dove è quella capella rotonda fuori di detta chiesa è il luogo dove fu posto in croce <persName ref="#SaintPierre">S. Pietro</persName> apostolo: et Paolo. 3. vi concesse molte indulgentie, come appare in un marmo sopra la porta per andare a detta capella. Et hora vi è una bellissima sepoltura fabricata dalla Santita de papa Iulio terzo al zio Cardinal d'Monte. </p>
                <p xml:id="PAL_DC_L1_L1C3_P8"> S. Pancratio. questa chiesa è fuori de la porta Aurea, ne la via Aurelia, et fu edificata da Honorio. 1. et è ornata di bellissimi porfidi, et è titolo di Cardinale, et vi è statione la Domenica de li Apostoli: Et vi sono li corpi di S. Pancratio Vescovo et martire, et di san Pancratio cavalier è martire, di san Vettore, Malco, Madiano, et di <pb n=""/> Gotteria. Et nel cimiterio di S. Calipodio prete, et martire, ilquale e sotto la detta chiesa vi è un numero infinito di martiri, liquali si possono toccare, et vedere, ma non portarli via senza licentia del Pontefice sotto pena di escommunicatione maggiore. </p>
                <p xml:id="PAL_DC_L1_L1C3_P9"> S. Honofrio, questa chiesa sta fra la porta Setignana è S. Spirito sopra del colle ameno, vi sono molte reliquie è perdonanza per li peccati. </p>
@@ -92,7 +143,7 @@
             </div2>
             <div2 xml:id="L1C5" type="chapitre" n="5">
                <head> DALLA PORTA FLAMINIA fora del Populo sino alle radici del <placeName ref="#Capitole">Campidoglio</placeName>.</head>
-               <p xml:id="PAL_DC_L1_L1C5_P1">S. Andrea fuori della porta del Popolo nella via flaminia: e una Capella ritonda con grande arte e bellezza fabricata per la S. di N. Sig. papa <pb n=""/> Iulio Terzo il quale ci ha concesso Indulgentia plenaria per li vivi e per li morti, il di de S. Andrea al'ultimo di Novembre. Et in quel di si fa una solenne processione de tutte le compagnie, et fraternita, di <placeName ref="#Rome">Roma</placeName> da santo Lorenzo in Damaso a san Pietro in <placeName ref="#Vatican">Vaticano</placeName>. <persName ref="#Marie">S. Maria</persName> del Popolo. Dove è l'altar maggiore di detta chiesa sotto un arbore di Noce vi erano sepolte l'ossa di <persName ref="#Neron">Nerone</persName> Imp. custodite da i demonii, liquali infestavano ogniuno che passava per detto luogo, et Pascale papa, per rivelatione della beasissima <persName ref="#Marie">Vergine</persName>, le cauò, et gettò nel Tevere, et fondò un altare, et Sisto 4. da fondamenti la rinouò. Et da mezza quaresima insino per tutta l'ottava di Pasqua sono ogni giorno anni mille, et altre tante quarentene, d'Indulgentia. Et nel di dela Natività, Purificatione, Annonciatione, Visitatione, Assontione, et Concettione di Maria vergine, sue ottave, et tutti li sabbati di quaresima vi e la plenaria remissione de peccati. Et vi sono molte reliquie, et una de le imagini di nostra Donna, che dipinse <persName ref="#SaintLuc">S. Luca</persName>. </p>
+               <p xml:id="PAL_DC_L1_L1C5_P1"><ptr type="intertextuality" target="#VAS_V1568M_L2_L2C30_P2"/>S. Andrea fuori della porta del Popolo nella via flaminia: e una Capella ritonda con grande arte e bellezza fabricata per la S. di N. Sig. papa <pb n=""/> Iulio Terzo il quale ci ha concesso Indulgentia plenaria per li vivi e per li morti, il di de S. Andrea al'ultimo di Novembre. Et in quel di si fa una solenne processione de tutte le compagnie, et fraternita, di <placeName ref="#Rome">Roma</placeName> da santo Lorenzo in Damaso a san Pietro in <placeName ref="#Vatican">Vaticano</placeName>. <persName ref="#Marie">S. Maria</persName> del Popolo. Dove è l'altar maggiore di detta chiesa sotto un arbore di Noce vi erano sepolte l'ossa di <persName ref="#Neron">Nerone</persName> Imp. custodite da i demonii, liquali infestavano ogniuno che passava per detto luogo, et Pascale papa, per rivelatione della beasissima <persName ref="#Marie">Vergine</persName>, le cauò, et gettò nel Tevere, et fondò un altare, et Sisto 4. da fondamenti la rinouò. Et da mezza quaresima insino per tutta l'ottava di Pasqua sono ogni giorno anni mille, et altre tante quarentene, d'Indulgentia. Et nel di dela Natività, Purificatione, Annonciatione, Visitatione, Assontione, et Concettione di Maria vergine, sue ottave, et tutti li sabbati di quaresima vi e la plenaria remissione de peccati. Et vi sono molte reliquie, et una de le imagini di nostra Donna, che dipinse <persName ref="#SaintLuc">S. Luca</persName>. </p>
                <p xml:id="PAL_DC_L1_L1C5_P2"> Santa Maria de miracoli, acanto le mure dela porta del popolo, e una chiesa molto frequentata, et divota de molti miracoli, ci e plenaria Indulgentia et remissrone deli peccati. </p>
                <p xml:id="PAL_DC_L1_L1C5_P3"> La Trinita: questa chiesa è nel monte Pincio, et fu fabricata a prieghiere di san Francesco di Paula, da Lodouico. xi. Re di Franza. <pb n=""/>
                </p>
@@ -152,7 +203,7 @@
                <p xml:id="PAL_DC_L1_L1C5_P48"> S. Catherina de li funari in questa chiesa vi è il monasterio de le citelle miserabili, le quali qui si nutriscano con santa vita et buoni costumi sino al tempo che sono in essere di maritarsi et si maritano overo si fano monache in questo luoco ogni giorno vi è perdonanza et il giorno di. s. Andrea ui è iubileo plenario conceso dala .s. di N. S. Papa Iulio Terzo. </p>
                <p xml:id="PAL_DC_L1_L1C5_P49"> S. Angelo. Questa chiesa è in pescaria, et fu gia il tempio di <persName ref="#Junon">Giunone</persName>, et è titolo di Cardinale, et vi sono li corpi di. s. Sinforiano, et di suoi compagni, et molte altre reliquie, et il Senatore ogni anno vi offerisce un calice. </p>
                <p xml:id="PAL_DC_L1_L1C5_P50"> S. Nicolao in carcere. Dove è questa chiesa, furno le prigioni antiche, et essendo consuli C. Quintio, et M. Attilio ivi fu fatto il Tempio de la Pieta, percioché essendo stato condennato a morire uno di fame in prigione, una sua figlivola ogni giorno, sotto colore d'andarlo a visitare, li dava il latte, et accorgendosi li guardiani, <pb n=""/> lo rifferirno al senato, et il senato per un tal atto di pieta, perdonò al padre, e ad ambedue li diedero il vitto per tutta la vita loro. Questa chiesa è titolo di cardinale, vi è statione il Sabbato dopo la. 4. Domenica di quaresima, et nel giorno di .s. Nicolao è la plenaria remissio. de peccati. Et vi sono una costa di .s. Matteo Apostolo, una mano di. s. Nicolao, et un brazzo di san Alessio. </p>
-               <p xml:id="PAL_DC_L1_L1C5_P51">
+               <p xml:id="PAL_DC_L1_L1C5_P51"><ptr type="intertextuality" target="#BAG_V_L3_L3C1_P4"/><ptr type="intertextuality" target="#VAS_V1568M_L2_L2C51_P5"/>
                   <persName ref="#Marie">S. Maria</persName> Ara celi. Questa chiesa è nel monte Capitolino, et è ornata di belle colonne, et varij marmi, et fu edificata sopra le ruine del Tempio di <persName ref="#Jupiter">Giove</persName> Feretrio, et del palazzo di <persName ref="#Auguste">Augusto</persName>, et nel giorno di .s. Antonio di <placeName ref="#Padoue">Padova</placeName>, di s. Bernardino, de l'Assontione Nativita, et Concettione di Maria vergine di. s. Lodouico vescovo, et de la Nativita del nostro Saluatore vi è la plenaria remissione de peccati, et vi sono li corpi di. s. Artemio, Abondio, et Abondantio, et dinanzi al choro vi è una pietra rotonda cancellata di ferro, ne la quale vi rimasero le vestigie de i piedi d'un Angelo quando Gregorio Papa la consecro, et una imagine di Maria vergine dipinta da .s. Luca in quella maniera che lei stette a la croce di <persName ref="#Jesus">Christo</persName>. Et a la salita di detta chiesa vi è una largiss. scala di marmo di cento e venti otto scalini, liquali furno fatti de li ornamenti del Tempio di <persName ref="#Quirinus">Quirino</persName>, che era nel monte Cavallo. <pb n=""/>
                </p>
             </div2>
@@ -189,7 +240,7 @@
                <p xml:id="PAL_DC_L1_L1C6_P22"> S. Costanza. Questa chiesa e fuori de la porta di. s. Agnese et e di forma rotonda, et fu anticamente il Tempio di <persName ref="#Bacchus">Bacco</persName>, et <persName ref="#AlexandreLeGrand">Alessandro</persName>. 4. il dedicò a. s. Costanza vergine figlivola del Magno <persName ref="#Constantin">Costantino</persName>, laquale e sepolta in detta chiesa in un belliss. sepolcro di porfido. Vi e anchora in detto luogo la chiesa di .s. Agnese edificata da la detta. s. Costanza in honore di .s. Agnese, perché lei la liberò da la lepra et ha le porte di rame: et ornata di varie pietre et vi e un Anello mandato dal cielo a. s. Agnese. </p>
                <p xml:id="PAL_DC_L1_L1C6_P23"> DAL CAMPIDOGLIO a mano dritta. <persName ref="#Marie">S. Maria</persName> Liberatrice. Questa chiesa e anchor lei nel foro Romano, et .s. Siluestro la consecrò dopo haver ligata la bocca a un Dracone che ivi era in una profondiss. grotta ilquale con il suo fiato corrompeva laria di <placeName ref="#Rome">Roma</placeName> et sigillatali la <pb n=""/> Bocca con limpressione de la santiss. Croce mai piu fece nocumento alcuno: et ui concesse ogni giorno anni undeci mille de indulgentia. <persName ref="#Marie">S. Maria</persName> de la consolatione. in questa chiesa vi e una imagine di Maria vergine che fa molte grati e et nella. ij. Domenica di Giugno dal primo al secondo vespro, vi e la plenaria remissio. de peccati, concessa da Sisto. 4. Et ne la capella di. s. Maria di gratia ui e una imagine di quelle che dipinse. s. Luca et ui e un hospitale nel quale si fa molte elemosine, et di continuo si ricevono tutti l'infermi che vi vanno. </p>
                <p xml:id="PAL_DC_L1_L1C6_P24"> S. Anastasia. Questa chiesa è titolo di Cardinale, et fu il titolo di. s. Girolamo, et vi è statio ne il marte di dopo la. i. Domenica di quaresima nel giorno de la Nativita del Signore a l'Aurora, et il martedi fra l'ottava de le pentecoste. Et vi è il calice di .s. Girolamo, et molte altre reli. </p>
-               <p xml:id="PAL_DC_L1_L1C6_P25">
+               <p xml:id="PAL_DC_L1_L1C6_P25"><ptr type="intertextuality" target="#BAG_V_L4_L4C1_P7"/>
                   <persName ref="#Marie">S. Maria</persName> in portico. Questa chiesa è titolo di Cardinale, et fu gia la casa di Galla figlivola di Simaco patricio Romano, donna di santa vita, a la quale nel pontificato di Giovanni. i. desinando fu portata da li Angeli sopra la sua credenza un zafiro di mirabil splendore, nel quale è impressa l'imagine di Maria vergine con il Saluatore in braccio, Et Gregorio. 7. mosso da questo miracolo vi consecrò questa chiesa, et vi collocò sopra l'altare grande in un Tabernacolo cancellato di ferro la detta imagine, laquale vi si vede <pb n=""/> anchora hoggi di. Et quel Tempio rotondo che è al ponte di. s. Maria fu anticamente il Tempio de la Pudicitia. </p>
                <p xml:id="PAL_DC_L1_L1C6_P26"> S. Gregorio. Questa chiesa fu la casa paterna di. s. Gregorio Papa, laquale l'anno secondo del suo pontificato la consecro a .s. Andrea Apostolo, et pregò l'omnipotente <persName ref="#Dieu">Iddio</persName> che qualunque persona eleggera in questo luogo la sua sepoltura, essendo fedel christiano, li vogli concedere vita eterna, et finita c'hebbe l'oratione li apparue un Angelo, et li disse, O Gregorio, la oratione tua e stata essaudita. Et il di de la commemoratione de i morti, et per tutta l'ottava, vi è la plenaria remissione de peccati, et chi celebrara, o fara celebrare in quella capella che e appresso la sacristia, liberara una anima da le pene del purgatorio, et vi e un brazzo di. s. Gregorio, et una gamba di. s. Pantaleone. </p>
                <p xml:id="PAL_DC_L1_L1C6_P27">

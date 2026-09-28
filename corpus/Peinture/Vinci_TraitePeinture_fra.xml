@@ -4,13 +4,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
+        <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
         <respStmt>
-          <name>Julia Castiglione</name>
+          <name>Youssouf Diawara</name>
           <resp>Transcription, Structuration [Flora Belin, Maxine Schoehuys-Kreiss]</resp>
         </respStmt>
         <respStmt>
-          <name>Irene Calcagno</name>
+          <name>Anna Sconza</name>
           <resp>Correction</resp>
         </respStmt>
       </titleStmt>
@@ -26,23 +26,23 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2<author ref="https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3">10/0302024<idno type="ISNI">Léonard</idno>
-          </author>
-          <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
-          <publisher>Paris</publisher>
-          <pubPlace>Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</pubPlace>
-          <date when="Jacques Langlois">Jacques Langlois</date>
+        <bibl source="https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2">Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11912491s">Léonard De Vinci<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3</idno>
+        </author>
+          <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
+          <publisher>Jacques Langlois</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1651">1651</date>
         </bibl>
         <msDesc>
           <msIdentifier>
-            <country>Bibliothèque nationale de France</country>
-            <settlement ref="#France">France</settlement>
-            <institution>https://catalogue.bnf.fr/ark:/12148/cb31588107n</institution>
-            <repository />
-            <idno type="USTC">1651</idno>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository/>
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb31588107n</idno>
           </msIdentifier>
         </msDesc>
-        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -60,397 +60,22 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre) + body (365 chapitres)</p>
         </segmentation>
-        <hyphenation eol="none" />
+        <hyphenation eol="none"/>
         <stdVals>
           <p>Norme ISO-8601 pour les dates</p>
         </stdVals>
       </editorialDecl>
-      <p />
+      <p/>
     </encodingDesc>
     <profileDesc>
-      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
-      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
     </profileDesc>
   </teiHeader>
   <text>
-    <linkGrp type="intertextuality">
-      <link target="#VIN_TP_C1_P1 #VIN_TPITA_L1_C1_P1"/>
-      <link target="#VIN_TP_C2_P1 #VIN_TPITA_L1_C2_P1"/>
-      <link target="#VIN_TP_C3_P1 #VIN_TPITA_L1_C3_P1"/>
-      <link target="#VIN_TP_C4_P1 #VIN_TPITA_L1_C4_P1"/>
-      <link target="#VIN_TP_C5_P1 #VIN_TPITA_L1_C5_P1"/>
-      <link target="#VIN_TP_C6_P1 #VIN_TPITA_L1_C6_P1"/>
-      <link target="#VIN_TP_C7_P1 #VIN_TPITA_L1_C7_P1"/>
-      <link target="#VIN_TP_C8_P1 #VIN_TPITA_L1_C8_P1"/>
-      <link target="#VIN_TP_C9_P1 #VIN_TP_C9_P2 #VIN_TPITA_L1_C9_P1"/>
-      <link target="#VIN_TP_C10_P1 #VIN_TPITA_L1_C10_P1"/>
-      <link target="#VIN_TP_C11_P1 #VIN_TPITA_L1_C11_P1"/>
-      <link target="#VIN_TP_C12_P1 #VIN_TPITA_L1_C12_P1"/>
-      <link target="#VIN_TP_C13_P1 #VIN_TPITA_L1_C13_P1"/>
-      <link target="#VIN_TP_C14_P1 #VIN_TPITA_L1_C14_P1"/>
-      <link target="#VIN_TP_C15_P1 #VIN_TPITA_L1_C15_P1"/>
-      <link target="#VIN_TP_C21_P1 #VIN_TPITA_L1_C21_P1"/>
-      <link target="#VIN_TP_C22_P1 #VIN_TPITA_L1_C22_P1"/>
-      <link target="#VIN_TP_C23_P1 #VIN_TPITA_L1_C23_P1"/>
-      <link target="#VIN_TP_C24_P1 #VIN_TPITA_L1_C24_P1"/>
-      <link target="#VIN_TP_C25_P1 #VIN_TPITA_L1_C25_P1"/>
-      <link target="#VIN_TP_C26_P1 #VIN_TPITA_L1_C26_P1"/>
-      <link target="#VIN_TP_C27_P1 #VIN_TPITA_L1_C27_P1 #VIN_TPITA_L1_C27_P2"/>
-      <link target="#VIN_TP_C28_P1 #VIN_TPITA_L1_C28_P1"/>
-      <link target="#VIN_TP_C29_P1 #VIN_TPITA_L1_C29_P1"/>
-      <link target="#VIN_TP_C30_P1 #VIN_TPITA_L1_C30_P1"/>
-      <link target="#VIN_TP_C31_P1 #VIN_TPITA_L1_C31_P1"/>
-      <link target="#VIN_TP_C32_P1 #VIN_TPITA_L1_C32_P1"/>
-      <link target="#VIN_TP_C33_P1 #VIN_TPITA_L1_C33_P1"/>
-      <link target="#VIN_TP_C34_P1 #VIN_TPITA_L1_C34_P1"/>
-      <link target="#VIN_TP_C35_P1 #VIN_TPITA_L1_C35_P1"/>
-      <link target="#VIN_TP_C36_P1 #VIN_TPITA_L1_C36_P1"/>
-      <link target="#VIN_TP_C37_P1 #VIN_TPITA_L1_C37_P1"/>
-      <link target="#VIN_TP_C38_P1 #VIN_TPITA_L1_C38_P1"/>
-      <link target="#VIN_TP_C39_P1 #VIN_TPITA_L1_C39_P1"/>
-      <link target="#VIN_TP_C40_P1 #VIN_TPITA_L1_C40_P1"/>
-      <link target="#VIN_TP_C41_P1 #VIN_TPITA_L1_C41_P1"/>
-      <link target="#VIN_TP_C42_P1 #VIN_TPITA_L1_C42_P1"/>
-      <link target="#VIN_TP_C43_P1 #VIN_TPITA_L1_C43_P1"/>
-      <link target="#VIN_TP_C44_P1 #VIN_TPITA_L1_C44_P1"/>
-      <link target="#VIN_TP_C45_P1 #VIN_TPITA_L1_C45_P1"/>
-      <link target="#VIN_TP_C46_P1 #VIN_TPITA_L1_C46_P1"/>
-      <link target="#VIN_TP_C47_P1 #VIN_TPITA_L1_C47_P1"/>
-      <link target="#VIN_TP_C48_P1 #VIN_TPITA_L1_C48_P1"/>
-      <link target="#VIN_TP_C49_P1 #VIN_TPITA_L1_C49_P1"/>
-      <link target="#VIN_TP_C50_P1 #VIN_TPITA_L1_C50_P1"/>
-      <link target="#VIN_TP_C51_P1 #VIN_TPITA_L1_C51_P1"/>
-      <link target="#VIN_TP_C52_P1 #VIN_TPITA_L1_C52_P1"/>
-      <link target="#VIN_TP_C53_P1 #VIN_TPITA_L1_C53_P1"/>
-      <link target="#VIN_TP_C54_P1 #VIN_TPITA_L1_C54_P1"/>
-      <link target="#VIN_TP_C55_P1 #VIN_TPITA_L1_C55_P1"/>
-      <link target="#VIN_TP_C56_P1 #VIN_TPITA_L1_C56_P1"/>
-      <link target="#VIN_TP_C57_P1 #VIN_TPITA_L1_C57_P1"/>
-      <link target="#VIN_TP_C58_P1 #VIN_TPITA_L1_C58_P1"/>
-      <link target="#VIN_TP_C59_P1 #VIN_TPITA_L1_C59_P1"/>
-      <link target="#VIN_TP_C60_P1 #VIN_TPITA_L1_C60_P1"/>
-      <link target="#VIN_TP_C61_P1 #VIN_TPITA_L1_C61_P1"/>
-      <link target="#VIN_TP_C62_P1 #VIN_TPITA_L1_C62_P1"/>
-      <link target="#VIN_TP_C63_P1 #VIN_TPITA_L1_C63_P1"/>
-      <link target="#VIN_TP_C64_P1 #VIN_TPITA_L1_C64_P1"/>
-      <link target="#VIN_TP_C65_P1 #VIN_TPITA_L1_C65_P1"/>
-      <link target="#VIN_TP_C66_P1 #VIN_TPITA_L1_C66_P1"/>
-      <link target="#VIN_TP_C67_P1 #VIN_TPITA_L1_C67_P1"/>
-      <link target="#VIN_TP_C68_P1 #VIN_TPITA_L1_C68_P1"/>
-      <link target="#VIN_TP_C69_P1 #VIN_TPITA_L1_C69_P1"/>
-      <link target="#VIN_TP_C70_P1 #VIN_TPITA_L1_C70_P1"/>
-      <link target="#VIN_TP_C71_P1 #VIN_TPITA_L1_C71_P1"/>
-      <link target="#VIN_TP_C72_P1 #VIN_TPITA_L1_C72_P1"/>
-      <link target="#VIN_TP_C73_P1 #VIN_TPITA_L1_C73_P1"/>
-      <link target="#VIN_TP_C74_P1 #VIN_TPITA_L1_C74_P1"/>
-      <link target="#VIN_TP_C75_P1 #VIN_TPITA_L1_C75_P1"/>
-      <link target="#VIN_TP_C76_P1 #VIN_TPITA_L1_C76_P1"/>
-      <link target="#VIN_TP_C77_P1 #VIN_TPITA_L1_C77_P1"/>
-      <link target="#VIN_TP_C78_P1 #VIN_TPITA_L1_C78_P1"/>
-      <link target="#VIN_TP_C79_P1 #VIN_TPITA_L1_C79_P1"/>
-      <link target="#VIN_TP_C80_P1 #VIN_TPITA_L1_C80_P1"/>
-      <link target="#VIN_TP_C81_P1 #VIN_TPITA_L1_C81_P1"/>
-      <link target="#VIN_TP_C82_P1 #VIN_TPITA_L1_C82_P1"/>
-      <link target="#VIN_TP_C83_P1 #VIN_TPITA_L1_C83_P1"/>
-      <link target="#VIN_TP_C84_P1 #VIN_TPITA_L1_C84_P1"/>
-      <link target="#VIN_TP_C85_P1 #VIN_TPITA_L1_C85_P1"/>
-      <link target="#VIN_TP_C86_P1 #VIN_TPITA_L1_C86_P1"/>
-      <link target="#VIN_TP_C86_P2 #VIN_TPITA_L1_C86_P2"/>
-      <link target="#VIN_TP_C86_P3 #VIN_TPITA_L1_C86_P3"/>
-      <link target="#VIN_TP_C86_P4 #VIN_TPITA_L1_C86_P4"/>
-      <link target="#VIN_TP_C86_P5 #VIN_TPITA_L1_C86_P5"/>
-      <link target="#VIN_TP_C86_P6 #VIN_TPITA_L1_C86_P6"/>
-      <link target="#VIN_TP_C86_P7 #VIN_TPITA_L1_C86_P7"/>
-      <link target="#VIN_TP_C87_P1 #VIN_TPITA_L1_C87_P1"/>
-      <link target="#VIN_TP_C88_P1 #VIN_TPITA_L1_C88_P1"/>
-      <link target="#VIN_TP_C89_P1 #VIN_TPITA_L1_C89_P1"/>
-      <link target="#VIN_TP_C90_P1 #VIN_TPITA_L1_C90_P1"/>
-      <link target="#VIN_TP_C91_P1 #VIN_TPITA_L1_C91_P1"/>
-      <link target="#VIN_TP_C92_P1 #VIN_TPITA_L1_C92_P1"/>
-      <link target="#VIN_TP_C93_P1 #VIN_TPITA_L1_C93_P1"/>
-      <link target="#VIN_TP_C94_P1 #VIN_TPITA_L1_C94_P1"/>
-      <link target="#VIN_TP_C95_P1 #VIN_TPITA_L1_C95_P1"/>
-      <link target="#VIN_TP_C96_P1 #VIN_TPITA_L1_C96_P1"/>
-      <link target="#VIN_TP_C97_P1 #VIN_TPITA_L1_C97_P1"/>
-      <link target="#VIN_TP_C98_P1 #VIN_TPITA_L1_C98_P1"/>
-      <link target="#VIN_TP_C99_P1 #VIN_TPITA_L1_C99_P1 #VIN_TPITA_L1_C99_P2"/>
-      <link target="#VIN_TP_C100_P1 #VIN_TPITA_L1_C100_P1"/>
-      <link target="#VIN_TP_C101_P1 #VIN_TPITA_L1_C101_P1"/>
-      <link target="#VIN_TP_C102_P1 #VIN_TPITA_L1_C102_P1"/>
-      <link target="#VIN_TP_C103_P1 #VIN_TPITA_L1_C103_P1"/>
-      <link target="#VIN_TP_C104_P1 #VIN_TPITA_L1_C104_P1"/>
-      <link target="#VIN_TP_C105_P1 #VIN_TPITA_L1_C105_P1"/>
-      <link target="#VIN_TP_C106_P1 #VIN_TPITA_L1_C106_P1 #VIN_TPITA_L1_C106_P2"/>
-      <link target="#VIN_TP_C107_P1 #VIN_TP_C107_P2 #VIN_TPITA_L1_C107_P1"/>
-      <link target="#VIN_TP_C108_P1 #VIN_TPITA_L1_C108_P1"/>
-      <link target="#VIN_TP_C109_P1 #VIN_TPITA_L1_C109_P1"/>
-      <link target="#VIN_TP_C110_P1 #VIN_TPITA_L1_C110_P1"/>
-      <link target="#VIN_TP_C111_P1 #VIN_TPITA_L1_C111_P1"/>
-      <link target="#VIN_TP_C112_P1 #VIN_TPITA_L1_C112_P1"/>
-      <link target="#VIN_TP_C113_P1 #VIN_TPITA_L1_C113_P1"/>
-      <link target="#VIN_TP_C114_P1 #VIN_TPITA_L1_C114_P1"/>
-      <link target="#VIN_TP_C115_P1 #VIN_TPITA_L1_C115_P1"/>
-      <link target="#VIN_TP_C116_P1 #VIN_TPITA_L1_C116_P1"/>
-      <link target="#VIN_TP_C117_P1 #VIN_TPITA_L1_C117_P1"/>
-      <link target="#VIN_TP_C118_P1 #VIN_TPITA_L1_C118_P1"/>
-      <link target="#VIN_TP_C119_P1 #VIN_TPITA_L1_C119_P1"/>
-      <link target="#VIN_TP_C120_P1 #VIN_TPITA_L1_C120_P1"/>
-      <link target="#VIN_TP_C121_P1 #VIN_TPITA_L1_C121_P1"/>
-      <link target="#VIN_TP_C122_P1 #VIN_TPITA_L1_C122_P1"/>
-      <link target="#VIN_TP_C123_P1 #VIN_TPITA_L1_C123_P1"/>
-      <link target="#VIN_TP_C124_P1 #VIN_TPITA_L1_C124_P1"/>
-      <link target="#VIN_TP_C125_P1 #VIN_TPITA_L1_C125_P1"/>
-      <link target="#VIN_TP_C126_P1 #VIN_TPITA_L1_C126_P1"/>
-      <link target="#VIN_TP_C127_P1 #VIN_TPITA_L1_C127_P1"/>
-      <link target="#VIN_TP_C128_P1 #VIN_TPITA_L1_C128_P1"/>
-      <link target="#VIN_TP_C129_P1 #VIN_TPITA_L1_C129_P1"/>
-      <link target="#VIN_TP_C130_P1 #VIN_TPITA_L1_C130_P1"/>
-      <link target="#VIN_TP_C131_P1 #VIN_TPITA_L1_C131_P1"/>
-      <link target="#VIN_TP_C132_P1 #VIN_TPITA_L1_C132_P1"/>
-      <link target="#VIN_TP_C133_P1 #VIN_TPITA_L1_C133_P1"/>
-      <link target="#VIN_TP_C134_P1 #VIN_TPITA_L1_C134_P1"/>
-      <link target="#VIN_TP_C135_P1 #VIN_TPITA_L1_C135_P1"/>
-      <link target="#VIN_TP_C136_P1 #VIN_TPITA_L1_C136_P1"/>
-      <link target="#VIN_TP_C137_P1 #VIN_TPITA_L1_C137_P1"/>
-      <link target="#VIN_TP_C138_P1 #VIN_TPITA_L1_C138_P1"/>
-      <link target="#VIN_TP_C139_P1 #VIN_TPITA_L1_C139_P1"/>
-      <link target="#VIN_TP_C140_P1 #VIN_TPITA_L1_C140_P1"/>
-      <link target="#VIN_TP_C141_P1 #VIN_TPITA_L1_C141_P1"/>
-      <link target="#VIN_TP_C142_P1 #VIN_TPITA_L1_C142_P1"/>
-      <link target="#VIN_TP_C143_P1 #VIN_TPITA_L1_C143_P1"/>
-      <link target="#VIN_TP_C144_P1 #VIN_TPITA_L1_C144_P1"/>
-      <link target="#VIN_TP_C145_P1 #VIN_TPITA_L1_C145_P1"/>
-      <link target="#VIN_TP_C146_P1 #VIN_TPITA_L1_C146_P1"/>
-      <link target="#VIN_TP_C147_P1 #VIN_TPITA_L1_C147_P1"/>
-      <link target="#VIN_TP_C148_P1 #VIN_TPITA_L1_C148_P1"/>
-      <link target="#VIN_TP_C149_P1 #VIN_TPITA_L1_C149_P1"/>
-      <link target="#VIN_TP_C150_P1 #VIN_TPITA_L1_C150_P1"/>
-      <link target="#VIN_TP_C151_P1 #VIN_TPITA_L1_C151_P1"/>
-      <link target="#VIN_TP_C152_P1 #VIN_TPITA_L1_C152_P1"/>
-      <link target="#VIN_TP_C153_P1 #VIN_TPITA_L1_C153_P1"/>
-      <link target="#VIN_TP_C154_P1 #VIN_TPITA_L1_C154_P1"/>
-      <link target="#VIN_TP_C155_P1 #VIN_TPITA_L1_C155_P1"/>
-      <link target="#VIN_TP_C156_P1 #VIN_TPITA_L1_C156_P1"/>
-      <link target="#VIN_TP_C157_P1 #VIN_TPITA_L1_C157_P1"/>
-      <link target="#VIN_TP_C158_P1 #VIN_TPITA_L1_C158_P1"/>
-      <link target="#VIN_TP_C159_P1 #VIN_TPITA_L1_C159_P1"/>
-      <link target="#VIN_TP_C160_P1 #VIN_TPITA_L1_C160_P1"/>
-      <link target="#VIN_TP_C161_P1 #VIN_TPITA_L1_C161_P1"/>
-      <link target="#VIN_TP_C162_P1 #VIN_TPITA_L1_C162_P1"/>
-      <link target="#VIN_TP_C163_P1 #VIN_TPITA_L1_C163_P1"/>
-      <link target="#VIN_TP_C164_P1 #VIN_TPITA_L1_C164_P1"/>
-      <link target="#VIN_TP_C165_P1 #VIN_TPITA_L1_C165_P1"/>
-      <link target="#VIN_TP_C166_P1 #VIN_TPITA_L1_C166_P1"/>
-      <link target="#VIN_TP_C167_P1 #VIN_TPITA_L1_C167_P1"/>
-      <link target="#VIN_TP_C168_P1 #VIN_TP_C168_P2 #VIN_TPITA_L1_C168_P1"/>
-      <link target="#VIN_TP_C169_P1 #VIN_TPITA_L1_C169_P1"/>
-      <link target="#VIN_TP_C170_P1 #VIN_TPITA_L1_C170_P1"/>
-      <link target="#VIN_TP_C171_P1 #VIN_TPITA_L1_C171_P1"/>
-      <link target="#VIN_TP_C172_P1 #VIN_TPITA_L1_C172_P1"/>
-      <link target="#VIN_TP_C173_P1 #VIN_TPITA_L1_C173_P1"/>
-      <link target="#VIN_TP_C174_P1 #VIN_TPITA_L1_C174_P1"/>
-      <link target="#VIN_TP_C175_P1 #VIN_TPITA_L1_C175_P1"/>
-      <link target="#VIN_TP_C176_P1 #VIN_TPITA_L1_C176_P1"/>
-      <link target="#VIN_TP_C177_P1 #VIN_TPITA_L1_C177_P1"/>
-      <link target="#VIN_TP_C178_P1 #VIN_TPITA_L1_C178_P1"/>
-      <link target="#VIN_TP_C179_P1 #VIN_TPITA_L1_C179_P1"/>
-      <link target="#VIN_TP_C180_P1 #VIN_TPITA_L1_C180_P1"/>
-      <link target="#VIN_TP_C181_P1 #VIN_TP_C181_P2 #VIN_TPITA_L1_C181_P1"/>
-      <link target="#VIN_TP_C182_P1 #VIN_TPITA_L1_C182_P1"/>
-      <link target="#VIN_TP_C182_P2 #VIN_TPITA_L1_C182_P2"/>
-      <link target="#VIN_TP_C183_P1 #VIN_TPITA_L1_C183_P1"/>
-      <link target="#VIN_TP_C184_P1 #VIN_TPITA_L1_C184_P1"/>
-      <link target="#VIN_TP_C185_P1 #VIN_TPITA_L1_C185_P1"/>
-      <link target="#VIN_TP_C186_P1 #VIN_TPITA_L1_C186_P1"/>
-      <link target="#VIN_TP_C187_P1 #VIN_TP_C187_P2 #VIN_TPITA_L1_C187_P1"/>
-      <link target="#VIN_TP_C188_P1 #VIN_TPITA_L1_C188_P1"/>
-      <link target="#VIN_TP_C189_P1 #VIN_TPITA_L1_C189_P1"/>
-      <link target="#VIN_TP_C190_P1 #VIN_TPITA_L1_C190_P1"/>
-      <link target="#VIN_TP_C191_P1 #VIN_TPITA_L1_C191_P1"/>
-      <link target="#VIN_TP_C192_P1 #VIN_TPITA_L1_C192_P1"/>
-      <link target="#VIN_TP_C193_P1 #VIN_TPITA_L1_C193_P1"/>
-      <link target="#VIN_TP_C194_P1 #VIN_TPITA_L1_C194_P1"/>
-      <link target="#VIN_TP_C195_P1 #VIN_TPITA_L1_C195_P1"/>
-      <link target="#VIN_TP_C196_P1 #VIN_TPITA_L1_C196_P1"/>
-      <link target="#VIN_TP_C197_P1 #VIN_TPITA_L1_C197_P1"/>
-      <link target="#VIN_TP_C198_P1 #VIN_TPITA_L1_C198_P1"/>
-      <link target="#VIN_TP_C199_P1 #VIN_TPITA_L1_C199_P1"/>
-      <link target="#VIN_TP_C200_P1 #VIN_TPITA_L1_C200_P1"/>
-      <link target="#VIN_TP_C201_P1 #VIN_TPITA_L1_C201_P1"/>
-      <link target="#VIN_TP_C202_P1 #VIN_TPITA_L1_C202_P1"/>
-      <link target="#VIN_TP_C203_P1 #VIN_TPITA_L1_C203_P1"/>
-      <link target="#VIN_TP_C204_P1 #VIN_TPITA_L1_C204_P1"/>
-      <link target="#VIN_TP_C205_P1 #VIN_TPITA_L1_C205_P1"/>
-      <link target="#VIN_TP_C206_P1 #VIN_TPITA_L1_C206_P1"/>
-      <link target="#VIN_TP_C207_P1 #VIN_TPITA_L1_C207_P1 #VIN_TPITA_L1_C207_P2"/>
-      <link target="#VIN_TP_C208_P1 #VIN_TPITA_L1_C208_P1"/>
-      <link target="#VIN_TP_C209_P1 #VIN_TPITA_L1_C209_P1"/>
-      <link target="#VIN_TP_C210_P1 #VIN_TPITA_L1_C210_P1 #VIN_TPITA_L1_C210_P2"/>
-      <link target="#VIN_TP_C211_P1 #VIN_TPITA_L1_C211_P1"/>
-      <link target="#VIN_TP_C212_P1 #VIN_TPITA_L1_C212_P1"/>
-      <link target="#VIN_TP_C213_P1 #VIN_TPITA_L1_C213_P1"/>
-      <link target="#VIN_TP_C214_P1 #VIN_TPITA_L1_C214_P1"/>
-      <link target="#VIN_TP_C215_P1 #VIN_TPITA_L1_C215_P1"/>
-      <link target="#VIN_TP_C216_P1 #VIN_TPITA_L1_C216_P1"/>
-      <link target="#VIN_TP_C217_P1 #VIN_TPITA_L1_C217_P1"/>
-      <link target="#VIN_TP_C218_P1 #VIN_TPITA_L1_C218_P1"/>
-      <link target="#VIN_TP_C219_P1 #VIN_TPITA_L1_C219_P1"/>
-      <link target="#VIN_TP_C220_P1 #VIN_TPITA_L1_C220_P1"/>
-      <link target="#VIN_TP_C221_P1 #VIN_TPITA_L1_C221_P1"/>
-      <link target="#VIN_TP_C222_P1 #VIN_TPITA_L1_C222_P1"/>
-      <link target="#VIN_TP_C223_P1 #VIN_TPITA_L1_C223_P1"/>
-      <link target="#VIN_TP_C224_P1 #VIN_TPITA_L1_C224_P1"/>
-      <link target="#VIN_TP_C225_P1 #VIN_TPITA_L1_C225_P1"/>
-      <link target="#VIN_TP_C226_P1 #VIN_TPITA_L1_C226_P1"/>
-      <link target="#VIN_TP_C227_P1 #VIN_TPITA_L1_C227_P1"/>
-      <link target="#VIN_TP_C228_P1 #VIN_TPITA_L1_C228_P1"/>
-      <link target="#VIN_TP_C229_P1 #VIN_TPITA_L1_C229_P1"/>
-      <link target="#VIN_TP_C230_P1 #VIN_TPITA_L1_C230_P1"/>
-      <link target="#VIN_TP_C231_P1 #VIN_TPITA_L1_C231_P1"/>
-      <link target="#VIN_TP_C232_P1 #VIN_TPITA_L1_C232_P1"/>
-      <link target="#VIN_TP_C233_P1 #VIN_TPITA_L1_C233_P1"/>
-      <link target="#VIN_TP_C234_P1 #VIN_TPITA_L1_C234_P1 #VIN_TPITA_L1_C234_P2"/>
-      <link target="#VIN_TP_C235_P1 #VIN_TPITA_L1_C235_P1"/>
-      <link target="#VIN_TP_C236_P1 #VIN_TPITA_L1_C236_P1"/>
-      <link target="#VIN_TP_C237_P1 #VIN_TPITA_L1_C237_P1"/>
-      <link target="#VIN_TP_C238_P1 #VIN_TPITA_L1_C238_P1"/>
-      <link target="#VIN_TP_C239_P1 #VIN_TPITA_L1_C239_P1"/>
-      <link target="#VIN_TP_C240_P1 #VIN_TPITA_L1_C240_P1"/>
-      <link target="#VIN_TP_C241_P1 #VIN_TPITA_L1_C241_P1"/>
-      <link target="#VIN_TP_C242_P1 #VIN_TPITA_L1_C242_P1"/>
-      <link target="#VIN_TP_C243_P1 #VIN_TPITA_L1_C243_P1"/>
-      <link target="#VIN_TP_C244_P1 #VIN_TPITA_L1_C244_P1"/>
-      <link target="#VIN_TP_C245_P1 #VIN_TPITA_L1_C245_P1"/>
-      <link target="#VIN_TP_C246_P1 #VIN_TPITA_L1_C246_P1"/>
-      <link target="#VIN_TP_C247_P1 #VIN_TPITA_L1_C247_P1"/>
-      <link target="#VIN_TP_C248_P1 #VIN_TPITA_L1_C248_P1"/>
-      <link target="#VIN_TP_C249_P1 #VIN_TPITA_L1_C249_P1"/>
-      <link target="#VIN_TP_C250_P1 #VIN_TPITA_L1_C250_P1"/>
-      <link target="#VIN_TP_C251_P1 #VIN_TPITA_L1_C251_P1"/>
-      <link target="#VIN_TP_C252_P1 #VIN_TPITA_L1_C252_P1"/>
-      <link target="#VIN_TP_C253_P1 #VIN_TPITA_L1_C253_P1"/>
-      <link target="#VIN_TP_C254_P1 #VIN_TPITA_L1_C254_P1"/>
-      <link target="#VIN_TP_C255_P1 #VIN_TPITA_L1_C255_P1"/>
-      <link target="#VIN_TP_C256_P1 #VIN_TPITA_L1_C256_P1"/>
-      <link target="#VIN_TP_C257_P1 #VIN_TPITA_L1_C257_P1"/>
-      <link target="#VIN_TP_C258_P1 #VIN_TPITA_L1_C258_P1"/>
-      <link target="#VIN_TP_C259_P1 #VIN_TPITA_L1_C259_P1"/>
-      <link target="#VIN_TP_C260_P1 #VIN_TPITA_L1_C260_P1"/>
-      <link target="#VIN_TP_C261_P1 #VIN_TPITA_L1_C261_P1"/>
-      <link target="#VIN_TP_C262_P1 #VIN_TPITA_L1_C262_P1"/>
-      <link target="#VIN_TP_C263_P1 #VIN_TPITA_L1_C263_P1 #VIN_TPITA_L1_C263_P2"/>
-      <link target="#VIN_TP_C264_P1 #VIN_TPITA_L1_C264_P1"/>
-      <link target="#VIN_TP_C265_P1 #VIN_TPITA_L1_C265_P1"/>
-      <link target="#VIN_TP_C266_P1 #VIN_TPITA_L1_C266_P1"/>
-      <link target="#VIN_TP_C267_P1 #VIN_TPITA_L1_C267_P1"/>
-      <link target="#VIN_TP_C268_P1 #VIN_TPITA_L1_C268_P1"/>
-      <link target="#VIN_TP_C269_P1 #VIN_TPITA_L1_C269_P1"/>
-      <link target="#VIN_TP_C270_P1 #VIN_TPITA_L1_C270_P1"/>
-      <link target="#VIN_TP_C271_P1 #VIN_TPITA_L1_C271_P1"/>
-      <link target="#VIN_TP_C272_P1 #VIN_TPITA_L1_C272_P1"/>
-      <link target="#VIN_TP_C273_P1 #VIN_TPITA_L1_C273_P1"/>
-      <link target="#VIN_TP_C274_P1 #VIN_TPITA_L1_C274_P1"/>
-      <link target="#VIN_TP_C275_P1 #VIN_TPITA_L1_C275_P1"/>
-      <link target="#VIN_TP_C276_P1 #VIN_TPITA_L1_C276_P1"/>
-      <link target="#VIN_TP_C277_P1 #VIN_TPITA_L1_C277_P1"/>
-      <link target="#VIN_TP_C278_P1 #VIN_TPITA_L1_C278_P1"/>
-      <link target="#VIN_TP_C279_P1 #VIN_TPITA_L1_C279_P1"/>
-      <link target="#VIN_TP_C280_P1 #VIN_TPITA_L1_C280_P1"/>
-      <link target="#VIN_TP_C281_P1 #VIN_TPITA_L1_C281_P1"/>
-      <link target="#VIN_TP_C282_P1 #VIN_TPITA_L1_C282_P1"/>
-      <link target="#VIN_TP_C283_P1 #VIN_TPITA_L1_C283_P1"/>
-      <link target="#VIN_TP_C284_P1 #VIN_TPITA_L1_C284_P1"/>
-      <link target="#VIN_TP_C285_P1 #VIN_TPITA_L1_C285_P1"/>
-      <link target="#VIN_TP_C286_P1 #VIN_TPITA_L1_C286_P1"/>
-      <link target="#VIN_TP_C287_P1 #VIN_TPITA_L1_C287_P1"/>
-      <link target="#VIN_TP_C287_P2 #VIN_TPITA_L1_C287_P2"/>
-      <link target="#VIN_TP_C288_P1 #VIN_TPITA_L1_C288_P1"/>
-      <link target="#VIN_TP_C289_P1 #VIN_TPITA_L1_C289_P1"/>
-      <link target="#VIN_TP_C290_P1 #VIN_TPITA_L1_C290_P1"/>
-      <link target="#VIN_TP_C291_P1 #VIN_TPITA_L1_C291_P1"/>
-      <link target="#VIN_TP_C292_P1 #VIN_TPITA_L1_C292_P1"/>
-      <link target="#VIN_TP_C293_P1 #VIN_TPITA_L1_C293_P1"/>
-      <link target="#VIN_TP_C294_P1 #VIN_TPITA_L1_C294_P1"/>
-      <link target="#VIN_TP_C295_P1 #VIN_TPITA_L1_C295_P1"/>
-      <link target="#VIN_TP_C296_P1 #VIN_TPITA_L1_C296_P1"/>
-      <link target="#VIN_TP_C297_P1 #VIN_TPITA_L1_C297_P1"/>
-      <link target="#VIN_TP_C298_P1 #VIN_TPITA_L1_C298_P1"/>
-      <link target="#VIN_TP_C299_P1 #VIN_TPITA_L1_C299_P1 #VIN_TPITA_L1_C299_P2"/>
-      <link target="#VIN_TP_C300_P1 #VIN_TPITA_L1_C300_P1"/>
-      <link target="#VIN_TP_C301_P1 #VIN_TPITA_L1_C301_P1"/>
-      <link target="#VIN_TP_C302_P1 #VIN_TPITA_L1_C302_P1"/>
-      <link target="#VIN_TP_C303_P1 #VIN_TPITA_L1_C303_P1"/>
-      <link target="#VIN_TP_C304_P1 #VIN_TPITA_L1_C304_P1"/>
-      <link target="#VIN_TP_C305_P1 #VIN_TPITA_L1_C305_P1"/>
-      <link target="#VIN_TP_C306_P1 #VIN_TPITA_L1_C306_P1 #VIN_TPITA_L1_C306_P2"/>
-      <link target="#VIN_TP_C307_P1 #VIN_TPITA_L1_C307_P1"/>
-      <link target="#VIN_TP_C308_P1 #VIN_TPITA_L1_C308_P1"/>
-      <link target="#VIN_TP_C309_P1 #VIN_TPITA_L1_C309_P1"/>
-      <link target="#VIN_TP_C310_P1 #VIN_TPITA_L1_C310_P1"/>
-      <link target="#VIN_TP_C311_P1 #VIN_TPITA_L1_C311_P1"/>
-      <link target="#VIN_TP_C312_P1 #VIN_TPITA_L1_C312_P1"/>
-      <link target="#VIN_TP_C313_P1 #VIN_TPITA_L1_C313_P1"/>
-      <link target="#VIN_TP_C314_P1 #VIN_TPITA_L1_C314_P1"/>
-      <link target="#VIN_TP_C315_P1 #VIN_TPITA_L1_C315_P1"/>
-      <link target="#VIN_TP_C316_P1 #VIN_TPITA_L1_C316_P1"/>
-      <link target="#VIN_TP_C317_P1 #VIN_TPITA_L1_C317_P1"/>
-      <link target="#VIN_TP_C318_P1 #VIN_TPITA_L1_C318_P1"/>
-      <link target="#VIN_TP_C319_P1 #VIN_TPITA_L1_C319_P1"/>
-      <link target="#VIN_TP_C320_P1 #VIN_TPITA_L1_C320_P1"/>
-      <link target="#VIN_TP_C321_P1 #VIN_TPITA_L1_C321_P1"/>
-      <link target="#VIN_TP_C322_P1 #VIN_TPITA_L1_C322_P1"/>
-      <link target="#VIN_TP_C323_P1 #VIN_TPITA_L1_C323_P1"/>
-      <link target="#VIN_TP_C324_P1 #VIN_TPITA_L1_C324_P1"/>
-      <link target="#VIN_TP_C325_P1 #VIN_TPITA_L1_C325_P1"/>
-      <link target="#VIN_TP_C326_P1 #VIN_TPITA_L1_C326_P1"/>
-      <link target="#VIN_TP_C327_P1 #VIN_TPITA_L1_C327_P1"/>
-      <link target="#VIN_TP_C328_P1 #VIN_TPITA_L1_C328_P1"/>
-      <link target="#VIN_TP_C329_P1 #VIN_TPITA_L1_C329_P1"/>
-      <link target="#VIN_TP_C330_P1 #VIN_TPITA_L1_C330_P1"/>
-      <link target="#VIN_TP_C331_P1 #VIN_TPITA_L1_C331_P1"/>
-      <link target="#VIN_TP_C332_P1 #VIN_TPITA_L1_C332_P1"/>
-      <link target="#VIN_TP_C332_P2 #VIN_TPITA_L1_C332_P2"/>
-      <link target="#VIN_TP_C332_P3 #VIN_TPITA_L1_C332_P3"/>
-      <link target="#VIN_TP_C332_P4 #VIN_TPITA_L1_C332_P4"/>
-      <link target="#VIN_TP_C332_P5 #VIN_TPITA_L1_C332_P5"/>
-      <link target="#VIN_TP_C332_P6 #VIN_TPITA_L1_C332_P6"/>
-      <link target="#VIN_TP_C333_P1 #VIN_TPITA_L1_C333_P1"/>
-      <link target="#VIN_TP_C334_P1 #VIN_TPITA_L1_C334_P1"/>
-      <link target="#VIN_TP_C335_P1 #VIN_TPITA_L1_C335_P1"/>
-      <link target="#VIN_TP_C336_P1 #VIN_TPITA_L1_C336_P1"/>
-      <link target="#VIN_TP_C337_P1 #VIN_TPITA_L1_C337_P1"/>
-      <link target="#VIN_TP_C338_P1 #VIN_TPITA_L1_C338_P1"/>
-      <link target="#VIN_TP_C339_P1 #VIN_TPITA_L1_C339_P1"/>
-      <link target="#VIN_TP_C340_P1 #VIN_TPITA_L1_C340_P1"/>
-      <link target="#VIN_TP_C341_P1 #VIN_TPITA_L1_C341_P1"/>
-      <link target="#VIN_TP_C342_P1 #VIN_TPITA_L1_C342_P1"/>
-      <link target="#VIN_TP_C343_P1 #VIN_TPITA_L1_C343_P1"/>
-      <link target="#VIN_TP_C344_P1 #VIN_TPITA_L1_C344_P1"/>
-      <link target="#VIN_TP_C345_P1 #VIN_TPITA_L1_C345_P1"/>
-      <link target="#VIN_TP_C346_P1 #VIN_TPITA_L1_C346_P1"/>
-      <link target="#VIN_TP_C347_P1 #VIN_TPITA_L1_C347_P1"/>
-      <link target="#VIN_TP_C348_P1 #VIN_TPITA_L1_C348_P1"/>
-      <link target="#VIN_TP_C349_P1 #VIN_TPITA_L1_C349_P1"/>
-      <link target="#VIN_TP_C350_P1 #VIN_TPITA_L1_C350_P1"/>
-      <link target="#VIN_TP_C351_P1 #VIN_TPITA_L1_C351_P1"/>
-      <link target="#VIN_TP_C352_P1 #VIN_TP_C352_P2 #VIN_TPITA_L1_C352_P1"/>
-      <link target="#VIN_TP_C353_P1 #VIN_TPITA_L1_C353_P1 #VIN_TPITA_L1_C353_P2"/>
-      <link target="#VIN_TP_C354_P1 #VIN_TPITA_L1_C354_P1 #VIN_TPITA_L1_C354_P2"/>
-      <link target="#VIN_TP_C355_P1 #VIN_TPITA_L1_C355_P1 #VIN_TPITA_L1_C355_P2"/>
-      <link target="#VIN_TP_C356_P1 #VIN_TPITA_L1_C356_P1"/>
-      <link target="#VIN_TP_C357_P1 #VIN_TPITA_L1_C357_P1 #VIN_TPITA_L1_C357_P2"/>
-      <link target="#VIN_TP_C358_P1 #VIN_TPITA_L1_C358_P1"/>
-      <link target="#VIN_TP_C359_P1 #VIN_TPITA_L1_C359_P1"/>
-      <link target="#VIN_TP_C360_P1 #VIN_TPITA_L1_C360_P1"/>
-      <link target="#VIN_TP_C361_P1 #VIN_TPITA_L1_C361_P1"/>
-      <link target="#VIN_TP_C362_P1 #VIN_TPITA_L1_C362_P1"/>
-      <link target="#VIN_TP_C363_P1 #VIN_TPITA_L1_C363_P1"/>
-      <link target="#VIN_TP_C364_P1 #VIN_TPITA_L1_C364_P1 #VIN_TPITA_L1_C364_P2"/>
-      <link target="#VIN_TP_C365_P1 #VIN_TP_C365_P2 #VIN_TPITA_L1_C365_P1"/>
-    </linkGrp>
-    <front>
+    <linkGrp type="intertextuality"><link target="#ACC_IOP_L3_L3C15_P1 #VIN_TP_C80_P1" n="0.8066"/><link target="#ACC_IOP_L3_L3C22_P2 #VIN_TP_C28_P1" n="0.804"/><link target="#ACC_IOP_L3_L3C5_P2 #VIN_TP_C80_P1" n="0.8222"/><link target="#ACC_IOP_L3_L3S3_P13 #VIN_TP_C45_P1" n="0.8095"/><link target="#ACC_IOP_L3_L3S3_P15 #VIN_TP_C174_P1" n="0.8067"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C200_P1" n="0.8233"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C206_P1" n="0.8647"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C209_P1" n="0.8288"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C211_P1" n="0.8286"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C265_P1" n="0.8771"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C350_P1" n="0.817"/><link target="#ACC_IOP_L3_L3S3_P18 #VIN_TP_C89_P1" n="0.8116"/><link target="#BAR_PP_L1_L1C8_P1 #VIN_TP_C308_P1" n="0.8027"/><link target="#BOS_TPG_C12_C12S_P4 #VIN_TP_C334_P1" n="0.8038"/><link target="#BOS_TPG_C12_S32_P4 #VIN_TP_C159_P1" n="0.8273"/><link target="#BOS_TPG_C12_S32_P4 #VIN_TP_C28_P1" n="0.82"/><link target="#BOS_TPG_C12_S32_P4 #VIN_TP_C347_P1" n="0.8034"/><link target="#BOS_TPG_C9_P13 #VIN_TP_C173_P1" n="0.8037"/><link target="#BOS_TPG_section_P35 #VIN_TP_C28_P1" n="0.8081"/><link target="#CON_C7_C7SC2_C7SC2S1_P3 #VIN_TP_C332_P5" n="0.8452"/><link target="#CON_C7_C7SC2_C7SC2S1_P5 #VIN_TP_C110_P1" n="0.818"/><link target="#CON_C7_C7SC2_C7SC2S1_P5 #VIN_TP_C342_P1" n="0.8024"/><link target="#DUB_PP_L5_L5C24_P1 #VIN_TP_C157_P1" n="0.8233"/><link target="#DUB_PP_L5_L5C4_P2 #VIN_TP_C308_P1" n="0.8012"/><link target="#DUP_TP_L3_L3C1_P22 #VIN_TP_C28_P1" n="0.8339"/><link target="#DUP_TP_L3_L3C1_P22 #VIN_TP_C302_P1" n="0.8047"/><link target="#FEL_E2_L2_E4_P206 #VIN_TP_C211_P1" n="0.8142"/><link target="#FEL_E2_L2_E4_P206 #VIN_TP_C214_P1" n="0.8107"/><link target="#FEL_E2_L2_E4_P206 #VIN_TP_C265_P1" n="0.8242"/><link target="#FEL_E2_L2_E4_P209 #VIN_TP_C200_P1" n="0.8043"/><link target="#FEL_E2_L2_E4_P267 #VIN_TP_C339_P1" n="0.8198"/><link target="#FEL_E3_L3_E5_P33 #VIN_TP_C106_P1" n="0.8038"/><link target="#FEL_E3_L3_E5_P33 #VIN_TP_C108_P1" n="0.8073"/><link target="#FEL_E3_L3_E5_P43 #VIN_TP_C334_P1" n="0.8"/><link target="#FEL_E3_L3_E5_P48 #VIN_TP_C28_P1" n="0.8144"/><link target="#FEL_E3_L3_E5_P48 #VIN_TP_C55_P1" n="0.8105"/><link target="#FEL_E3_L3_E5_P59 #VIN_TP_C28_P1" n="0.8157"/><link target="#FEL_E3_L3_E5_P59 #VIN_TP_C303_P1" n="0.8014"/><link target="#FEL_E3_L3_E5_P59 #VIN_TP_C308_P1" n="0.8045"/><link target="#FEL_E3_L3_E5_P59 #VIN_TP_C342_P1" n="0.8104"/><link target="#FEL_E3_L3_E5_P7 #VIN_TP_C161_P1" n="0.8198"/><link target="#FEL_PASP_principes_L1_L1C21_L1C21S1_P26 #VIN_TP_C353_P1" n="0.811"/><link target="#HUR_OPP_L1_L1C111_P1 #VIN_TP_C28_P1" n="0.8092"/><link target="#HUR_OPP_L1_L1C111_P3 #VIN_TP_C28_P1" n="0.8013"/><link target="#HUR_OPP_L1_L1C93_P1 #VIN_TP_C159_P1" n="0.8167"/><link target="#HUR_OPP_L1_L1C93_P1 #VIN_TP_C28_P1" n="0.8187"/><link target="#HUR_OPP_L1_L1S2_P2 #VIN_TP_C68_P1" n="0.8046"/><link target="#LOM_TP_L1_C1_P4 #VIN_TP_C334_P1" n="0.801"/><link target="#LOM_T_L4_L4C18_P1 #VIN_TP_C65_P1" n="0.8156"/><link target="#LOM_T_L4_L4C1_P1 #VIN_TP_C277_P1" n="0.8067"/><link target="#LOM_T_L4_L4C1_P1 #VIN_TP_C342_P1" n="0.8078"/><link target="#LOM_T_L4_L4C23_P1 #VIN_TP_C110_P1" n="0.8033"/><link target="#LOM_T_L4_L4C23_P1 #VIN_TP_C302_P1" n="0.8096"/><link target="#LOM_T_L6_L6C10_P1 #VIN_TP_C65_P1" n="0.8051"/><link target="#SCA_IAU_L1_L1C15_P10 #VIN_TP_C167_P1" n="0.8561"/><link target="#SCA_IAU_L1_L1C15_P10 #VIN_TP_C232_P1" n="0.8056"/><link target="#VIG_RPP_L1_L1C2_L1C2SC6_P5 #VIN_TP_C308_P1" n="0.8021"/></linkGrp><front>
       <pb facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f11/full/full/0/native.jpg"/>
       <figure type="portrait"/>
       <pb type="blankpage" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f12/full/full/0/native.jpg"/>
@@ -690,7 +315,7 @@
           <hi rend="it"> Quelle sorte de lumiere on doit choisir pour desseigner aprés des figures de relief. </hi>
           <hi rend="capitals">CHAP. XXVIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C28_P1"><hi rend="capitals">LES</hi> figures de quelque corps que ce soit nous obligent de leur donner des lumieres convenables à la qualité du jour où on les feint estre ; c'est à dire, si vous les peignés comme en un air de campagne, le soleil estant couvert, elles doivent estre environnées d'une lumiere presque universelle : mais si le soleil les esclaire, il faut que leurs ombres soient fort obscures au respect des autres parties qui recevront le jour, et toutes les ombres, tant primitives que derivatives, auront leurs extremitez expedites et tranchées, et ces ombres doivent estre accompagnées de peu de lumiere, parce que d'un costé l'azur de l'air refleschit et donne sa teinte à la partie qu'il regarde ; ce qui se void manifestement aux choses blanches, dont la partie qui est esclairée par le soleil monstre qu'elle participe de la couleur du soleil, et cela paroist tres-fort lors que le soleil se baisse vers le couchant, entre des nuages allumez de ses rayons, et tous enflammez de rouge, parce qu'à lors ces nuages teignent et colorent de leur rougeur tout ce qui prend sa lumiere d'eux : et l'autre partie du corps qui n'est point veuë de cette rougeur demeurant teinte de l'azur de l'air, celuy qui void cét objet ainsi diversement esclairé pense qu'il doit estre de deux couleurs, si bien que vous ne pouvez faillir en voyant la cause de ces ombres et de ces lumieres, de les faire participantes de leur origine, sans quoy vostre imitation seroit vaine et fausse. Et si la figure est dans une chambre obscure, et que vous la voyiez de dehors, cette figure aura des ombres fort douces, si vous estes sur la ligne par où vient le jour, et cette figure monstrera beaucoup de grace, et fera honneur au peintre qui l'aura bien imitée, en ce qu'elle portera un grand relief, quoy que les ombres en soient fort douces et sfumées, principalement en la partie où l'obscurité de la chambre sera moindre, parce que là toutes les ombres sont presque insensibles. Cy-apres nous en dirons la raison. </p>
+        <p xml:id="VIN_TP_C28_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3C22_P2"/><ptr type="intertextuality" target="#BOS_TPG_C12_S32_P4"/><ptr type="intertextuality" target="#BOS_TPG_section_P35"/><ptr type="intertextuality" target="#DUP_TP_L3_L3C1_P22"/><ptr type="intertextuality" target="#FEL_E3_L3_E5_P48"/><ptr type="intertextuality" target="#FEL_E3_L3_E5_P59"/><ptr type="intertextuality" target="#HUR_OPP_L1_L1C111_P1"/><ptr type="intertextuality" target="#HUR_OPP_L1_L1C111_P3"/><ptr type="intertextuality" target="#HUR_OPP_L1_L1C93_P1"/><hi rend="capitals">LES</hi> figures de quelque corps que ce soit nous obligent de leur donner des lumieres convenables à la qualité du jour où on les feint estre ; c'est à dire, si vous les peignés comme en un air de campagne, le soleil estant couvert, elles doivent estre environnées d'une lumiere presque universelle : mais si le soleil les esclaire, il faut que leurs ombres soient fort obscures au respect des autres parties qui recevront le jour, et toutes les ombres, tant primitives que derivatives, auront leurs extremitez expedites et tranchées, et ces ombres doivent estre accompagnées de peu de lumiere, parce que d'un costé l'azur de l'air refleschit et donne sa teinte à la partie qu'il regarde ; ce qui se void manifestement aux choses blanches, dont la partie qui est esclairée par le soleil monstre qu'elle participe de la couleur du soleil, et cela paroist tres-fort lors que le soleil se baisse vers le couchant, entre des nuages allumez de ses rayons, et tous enflammez de rouge, parce qu'à lors ces nuages teignent et colorent de leur rougeur tout ce qui prend sa lumiere d'eux : et l'autre partie du corps qui n'est point veuë de cette rougeur demeurant teinte de l'azur de l'air, celuy qui void cét objet ainsi diversement esclairé pense qu'il doit estre de deux couleurs, si bien que vous ne pouvez faillir en voyant la cause de ces ombres et de ces lumieres, de les faire participantes de leur origine, sans quoy vostre imitation seroit vaine et fausse. Et si la figure est dans une chambre obscure, et que vous la voyiez de dehors, cette figure aura des ombres fort douces, si vous estes sur la ligne par où vient le jour, et cette figure monstrera beaucoup de grace, et fera honneur au peintre qui l'aura bien imitée, en ce qu'elle portera un grand relief, quoy que les ombres en soient fort douces et sfumées, principalement en la partie où l'obscurité de la chambre sera moindre, parce que là toutes les ombres sont presque insensibles. Cy-apres nous en dirons la raison. </p>
       </div1>
       <pb n="8" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f38/full/full/0/native.jpg"/>
       <div1 n="29" type="chapitre" xml:id="C29" xml:lang="fra">
@@ -813,7 +438,7 @@
           <hi rend="it"> Precepte pour empescher que le peintre ne s'abuse au chois qu'il fera d'une figure pour luy servir de modele. </hi>
           <hi rend="capitals">CHAP. XLV.</hi>
         </head>
-        <p xml:id="VIN_TP_C45_P1"><hi rend="capitals">IL</hi> faut que le peintre desseigne premierement sa figure sur le modele d'un corps naturel, dont la proportion soit generalement reconnuë pour belle, puis aprés il se fera mesurer luy-mesme pour voir en quelle partie de sa personne il se trouvera different de son modele, ou peu ou beaucoup ; ce qu'ayant bien remarqué, il doit se garder par une estude et un soin particulier de commettre dans les figures qu'il desseignera les mesmes deffaults qui se rencontrent en sa personne ; c'est à cela principalement qu'il doit prendre garde, parce que ces mesmes deffauts sont nez aussi, et comme imprimez en son jugement ; car l'ame qui est maistresse de vostre corps n'est proprement qu'une mesme chose avec vostre jugement, et elle se plaist à ce qui ressemble à son ouvrage qui est la composition et la formation du corps qu'elle anime, et de là vient qu'il n'y a point de si laide femme, ny si disgraciée en sa personne qui ne trouve quelque serviteur qui l'aime, à moins qu'elle fust entierement monstrueuse ; et cela merite que l'on y fasse une tres-grande consideration. </p>
+        <p xml:id="VIN_TP_C45_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P13"/><hi rend="capitals">IL</hi> faut que le peintre desseigne premierement sa figure sur le modele d'un corps naturel, dont la proportion soit generalement reconnuë pour belle, puis aprés il se fera mesurer luy-mesme pour voir en quelle partie de sa personne il se trouvera different de son modele, ou peu ou beaucoup ; ce qu'ayant bien remarqué, il doit se garder par une estude et un soin particulier de commettre dans les figures qu'il desseignera les mesmes deffaults qui se rencontrent en sa personne ; c'est à cela principalement qu'il doit prendre garde, parce que ces mesmes deffauts sont nez aussi, et comme imprimez en son jugement ; car l'ame qui est maistresse de vostre corps n'est proprement qu'une mesme chose avec vostre jugement, et elle se plaist à ce qui ressemble à son ouvrage qui est la composition et la formation du corps qu'elle anime, et de là vient qu'il n'y a point de si laide femme, ny si disgraciée en sa personne qui ne trouve quelque serviteur qui l'aime, à moins qu'elle fust entierement monstrueuse ; et cela merite que l'on y fasse une tres-grande consideration. </p>
       </div1>
       <div1 n="46" type="chapitre" xml:id="C46" xml:lang="fra">
         <head>
@@ -886,7 +511,7 @@
           <hi rend="it"> De quelle lumiere un peintre se doit servir pour donner à ses figures un plus grand relief . </hi>
           <hi rend="capitals"> CHAP. LV.</hi>
         </head>
-        <p xml:id="VIN_TP_C55_P1"><hi rend="capitals">LES</hi> figures qui prennent leur jour de quelque lumiere particuliere, monstrent un plus grand relief que celles qui sont esclairées de la lumiere universelle, parce que le jour estant reserré en un lieu clos, produit des reflects <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f45/full/full/0/native.jpg"/> qui détachent les figures du champ du tableau, lesquels reflects naissent des lumieres d'une figure et rejalissent sur les ombres de son opposite, et luy donnent comme une demie lumiere : mais une figure qui est posée au devant de la lumiere particuliere en quelque lieu vaste et obscur, ne reçoit aucun reflect, tellement qu'on n'en peut voir que la partie qui est esclairée : aussi cela se pratique seulement dans les histoires de nuict à une lumiere particuliere et petite. </p>
+        <p xml:id="VIN_TP_C55_P1"><ptr type="intertextuality" target="#FEL_E3_L3_E5_P48"/><hi rend="capitals">LES</hi> figures qui prennent leur jour de quelque lumiere particuliere, monstrent un plus grand relief que celles qui sont esclairées de la lumiere universelle, parce que le jour estant reserré en un lieu clos, produit des reflects <pb n="15" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f45/full/full/0/native.jpg"/> qui détachent les figures du champ du tableau, lesquels reflects naissent des lumieres d'une figure et rejalissent sur les ombres de son opposite, et luy donnent comme une demie lumiere : mais une figure qui est posée au devant de la lumiere particuliere en quelque lieu vaste et obscur, ne reçoit aucun reflect, tellement qu'on n'en peut voir que la partie qui est esclairée : aussi cela se pratique seulement dans les histoires de nuict à une lumiere particuliere et petite. </p>
       </div1>
       <div1 n="56" type="chapitre" xml:id="C56" xml:lang="fra">
         <head>
@@ -957,7 +582,7 @@
           <hi rend="it"> Comme on doit représenter une nuict. </hi>
           <hi rend="capitals">CHAP. LXV.</hi>
         </head>
-        <p xml:id="VIN_TP_C65_P1"><hi rend="capitals">UNE</hi> chose laquelle est entierement privée de lumiere, n'est rien que tenebres. Or la nuict estant de cette nature, si vous y voulez representer une histoire, il faut faire en sorte que s'y rencontrant quelque grand feu, les choses qui se trouveront en estre plus proches tiennent davantage de sa couleur, parce que plus une chose est voisine d'un object, d'autant plus elle en participe et se rend conforme à sa nature ; et comme le feu respand une couleur rouge, il faudra que toutes les choses qui en seront esclairées, ayant une teinte aussi rougeastre, et qu'à mesure qu'elles en seront plus esloignées elles aillent à proportion se décolorant et tirant sur le noir qui fait la nuict. Les figures qui sont posées en deçà du feu, semblent n'en estre point esclairées, car du costé que vous les voyez elles n'ont que la teinte obscure de la nuict sans recevoir aucune clarté du feu ; et celles qui sont aux deux costez doivent estre d'une teinte demy rouge et demy obscure : mais les autres qu'on pourra voir au delà de l'estenduë de la flamme, seront toutes esclairées d'une lumiere rougeastre <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f47/full/full/0/native.jpg"/> sur un fond noir. Quant aux actions et à l'expression de mouvemens, vous ferez que les figures plus proches du feu se portent les mains sur le visage, et se couvrent avec leurs manteaux, pour se garantir du trop grand esclat du feu et de sa chaleur, et tournent la face de l'autre costé, monstrant de vouloir fuir des autres plus esloignez : vous ferez aussi que la plus part, comme esbloüis de la flamme, se tiennent les mains sur les yeux pour se parer de la trop grande lumiere. </p>
+        <p xml:id="VIN_TP_C65_P1"><ptr type="intertextuality" target="#LOM_T_L4_L4C18_P1"/><ptr type="intertextuality" target="#LOM_T_L6_L6C10_P1"/><hi rend="capitals">UNE</hi> chose laquelle est entierement privée de lumiere, n'est rien que tenebres. Or la nuict estant de cette nature, si vous y voulez representer une histoire, il faut faire en sorte que s'y rencontrant quelque grand feu, les choses qui se trouveront en estre plus proches tiennent davantage de sa couleur, parce que plus une chose est voisine d'un object, d'autant plus elle en participe et se rend conforme à sa nature ; et comme le feu respand une couleur rouge, il faudra que toutes les choses qui en seront esclairées, ayant une teinte aussi rougeastre, et qu'à mesure qu'elles en seront plus esloignées elles aillent à proportion se décolorant et tirant sur le noir qui fait la nuict. Les figures qui sont posées en deçà du feu, semblent n'en estre point esclairées, car du costé que vous les voyez elles n'ont que la teinte obscure de la nuict sans recevoir aucune clarté du feu ; et celles qui sont aux deux costez doivent estre d'une teinte demy rouge et demy obscure : mais les autres qu'on pourra voir au delà de l'estenduë de la flamme, seront toutes esclairées d'une lumiere rougeastre <pb n="17" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f47/full/full/0/native.jpg"/> sur un fond noir. Quant aux actions et à l'expression de mouvemens, vous ferez que les figures plus proches du feu se portent les mains sur le visage, et se couvrent avec leurs manteaux, pour se garantir du trop grand esclat du feu et de sa chaleur, et tournent la face de l'autre costé, monstrant de vouloir fuir des autres plus esloignez : vous ferez aussi que la plus part, comme esbloüis de la flamme, se tiennent les mains sur les yeux pour se parer de la trop grande lumiere. </p>
       </div1>
       <div1 n="66" type="chapitre" xml:id="C66" xml:lang="fra">
         <head>
@@ -978,7 +603,7 @@
           <hi rend="it"> Comme il faut peindre un lontain. </hi>
           <hi rend="capitals">CHAP. LXVIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C68_P1"><hi rend="capitals">C'EST</hi> une chose evidente que l'air est en quelque endroit plus grossier et plus espais qu'il n'est en d'autres, principalement quand il est plus proche de terre, et à mesure qu'il s'esleve en haut il se subtilise et devient plus transparent. Les choses hautes et grandes desquelles vous vous trouvez esloigné se verront moins vers les parties basses, parce que le rayon de l'œil qui les void passe au travers d'une longue suitte d'un air obscur, et on prouve que vers le sommet de sa hauteur elle est veuë par une ligne, laquelle bien que du costé de l'œil elle tire son principe d'un air grossier, neantmoins comme elle se va terminant au plus haut sommet de son object, elle vient à confiner en un air beaucoup plus subtil que n'est celuy des parties basses; et ainsi plus cette ligne ou rayon visuel s'esloigne de l'œil successivement de poinct en poinct, il se subtilise tousjours passant d'un air pur en un autre qui l'est davantage ; de sorte qu'un peintre qui a des montagnes à représenter en un païsage, doit observer que de colline en colline le bas en paroistra tousjours plus clair que le haut ; et quand la distance de l'une à l'autre sera plus grande, il faut que le bas s'en monstre plus clair à proportion ; et plus elles seront haut eslevées on en remarquera mieux la forme et la couleur. </p>
+        <p xml:id="VIN_TP_C68_P1"><ptr type="intertextuality" target="#HUR_OPP_L1_L1S2_P2"/><hi rend="capitals">C'EST</hi> une chose evidente que l'air est en quelque endroit plus grossier et plus espais qu'il n'est en d'autres, principalement quand il est plus proche de terre, et à mesure qu'il s'esleve en haut il se subtilise et devient plus transparent. Les choses hautes et grandes desquelles vous vous trouvez esloigné se verront moins vers les parties basses, parce que le rayon de l'œil qui les void passe au travers d'une longue suitte d'un air obscur, et on prouve que vers le sommet de sa hauteur elle est veuë par une ligne, laquelle bien que du costé de l'œil elle tire son principe d'un air grossier, neantmoins comme elle se va terminant au plus haut sommet de son object, elle vient à confiner en un air beaucoup plus subtil que n'est celuy des parties basses; et ainsi plus cette ligne ou rayon visuel s'esloigne de l'œil successivement de poinct en poinct, il se subtilise tousjours passant d'un air pur en un autre qui l'est davantage ; de sorte qu'un peintre qui a des montagnes à représenter en un païsage, doit observer que de colline en colline le bas en paroistra tousjours plus clair que le haut ; et quand la distance de l'une à l'autre sera plus grande, il faut que le bas s'en monstre plus clair à proportion ; et plus elles seront haut eslevées on en remarquera mieux la forme et la couleur. </p>
       </div1>
       <pb n="20" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f50/full/full/0/native.jpg"/>
       <div1 n="69" type="chapitre" xml:id="C69" xml:lang="fra">
@@ -1064,7 +689,7 @@
           <hi rend="it"> Quelle partie du reflect doit estre plus claire. </hi>
           <hi rend="capitals">CHAP. LXXX.</hi>
         </head>
-        <p xml:id="VIN_TP_C80_P1"><hi rend="capitals">LE</hi> reflect sera plus clair et plus vif dans la partie qui recevra sa lumiere entre des angles plus égaux : par exemple, soit le centre de la lumiere N. et que A.B. soit la partie esclairée du corps A.B.C.F.E.D. laquelle se refleschist tout à l'entour de la concavité opposite du mesme corps, laquelle est ombreuse. Posons aussi que cette lumiere qui se refleschist en F. soit portée entre des angles esgaux, le reflect de E. n'aura point les angles esgaux sur la base, comme l'angle E.A.B. nous monstre, qui est plus ouvert que l'angle E.B.A., mais l'angle A.F.B., bien qu'il ait ses angles sur la base d'une moindre qualité que l'angle E. et que la base B.A. soit commune à tous les deux, laquelle au respect de F. a ses angles plus esgaux qu'à l'esgard de E., pourtant le reflect sera plus clair en F. qu'en E., d'abondant encore il se fera davantage par la raison qu'il est plus proche de la chose qui l'esclaire selon la 6e. proportion qui dit, que la partie du corps ombreux sera plus vivement esclairée à proportion qu'elle sera plus voisine du corps lumineux. </p>
+        <p xml:id="VIN_TP_C80_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3C15_P1"/><ptr type="intertextuality" target="#ACC_IOP_L3_L3C5_P2"/><hi rend="capitals">LE</hi> reflect sera plus clair et plus vif dans la partie qui recevra sa lumiere entre des angles plus égaux : par exemple, soit le centre de la lumiere N. et que A.B. soit la partie esclairée du corps A.B.C.F.E.D. laquelle se refleschist tout à l'entour de la concavité opposite du mesme corps, laquelle est ombreuse. Posons aussi que cette lumiere qui se refleschist en F. soit portée entre des angles esgaux, le reflect de E. n'aura point les angles esgaux sur la base, comme l'angle E.A.B. nous monstre, qui est plus ouvert que l'angle E.B.A., mais l'angle A.F.B., bien qu'il ait ses angles sur la base d'une moindre qualité que l'angle E. et que la base B.A. soit commune à tous les deux, laquelle au respect de F. a ses angles plus esgaux qu'à l'esgard de E., pourtant le reflect sera plus clair en F. qu'en E., d'abondant encore il se fera davantage par la raison qu'il est plus proche de la chose qui l'esclaire selon la 6e. proportion qui dit, que la partie du corps ombreux sera plus vivement esclairée à proportion qu'elle sera plus voisine du corps lumineux. </p>
         <pb n="24" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f54/full/full/0/native.jpg"/>
         <figure type="schema"/>
       </div1>
@@ -1140,7 +765,7 @@
           <hi rend="it"> De la position des figures. </hi>
           <hi rend="capitals">CHAP. LXXXIX.</hi>
         </head>
-        <p xml:id="VIN_TP_C89_P1"><hi rend="capitals">TOUT</hi> autant que la partie de cette figure D.A. se diminuë par l'effet de sa position, autant aussi l'autre partie opposite augmente et s'accroist ; c'est <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f58/full/full/0/native.jpg"/> à dire, qu'à mesure que D.A. (qui est la partie depuis l'espaule jusques à la ceinture) décroist de sa hauteur naturelle, l'autre partie opposée s'augmente à la mesme proportion ; et le nombril, ou la partie du milieu du corps demeurent tousjours en leur hauteur. Or ce penchement procede de ce que la figure estant plantée sur un pied, ce pied se fait centre de tout le corps, ce qu'estant ainsi, le milieu des deux espaules (ou la clavicule) se jette dessus, quittant sa ligne centrale, laquelle passe perpendiculairement par les milieux de la superficie du corps : et plus cette ligne vient à s'escarter et porter sa plus haute extremité sur le pied qui pose, et plus aussi toutes les lignes traversales estant contreintes de quitter leurs angles droits, vont baisser un de leurs bouts vers la partie qui soustient le corps, comme on le void en la figure A.B.C. </p>
+        <p xml:id="VIN_TP_C89_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><hi rend="capitals">TOUT</hi> autant que la partie de cette figure D.A. se diminuë par l'effet de sa position, autant aussi l'autre partie opposite augmente et s'accroist ; c'est <pb n="28" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f58/full/full/0/native.jpg"/> à dire, qu'à mesure que D.A. (qui est la partie depuis l'espaule jusques à la ceinture) décroist de sa hauteur naturelle, l'autre partie opposée s'augmente à la mesme proportion ; et le nombril, ou la partie du milieu du corps demeurent tousjours en leur hauteur. Or ce penchement procede de ce que la figure estant plantée sur un pied, ce pied se fait centre de tout le corps, ce qu'estant ainsi, le milieu des deux espaules (ou la clavicule) se jette dessus, quittant sa ligne centrale, laquelle passe perpendiculairement par les milieux de la superficie du corps : et plus cette ligne vient à s'escarter et porter sa plus haute extremité sur le pied qui pose, et plus aussi toutes les lignes traversales estant contreintes de quitter leurs angles droits, vont baisser un de leurs bouts vers la partie qui soustient le corps, comme on le void en la figure A.B.C. </p>
         <figure type="gravure"/>
       </div1>
       <div1 n="90" type="chapitre" xml:id="C90" xml:lang="fra">
@@ -1261,7 +886,7 @@
           <hi rend="it"> De la couleur qui ne monstre point de varieté (c'est à dire, qui paroist tousjours de mesme force sans alteration) quoy que placée en un air plus ou moins espais, ou en diverses distances. </hi>
           <hi rend="capitals">CHAP. CVI.</hi>
         </head>
-        <p xml:id="VIN_TP_C106_P1"><hi rend="capitals">IL</hi> se peut faire que quelquesfois la mesme couleur ne recevra <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f64/full/full/0/native.jpg"/> aucun changement, quoy qu'elle soit veuë en des distances diverses ; et cecy arrivera quand la qualité de l'air et les distances d'où les couleurs seront veuës, auront une mesme proportion, mais converse; on le prouve ainsi : A. soit l'œil, et H. telle couleur que l'on voudra, esloignée de l'œil à un degré de distance en un air espais de quatre degrez : mais d'autant que le second degré de dessus A.M.N.L. est de la moitié plus subtil, l'air portant tousjours en soy la mesme couleur ; il faut necessairement que cette couleur soit deux fois plus loin de l'œil qu'elle ne l'estoit auparavant ; si bien que nous la mettons aux deux degrez de distance A.F. et F.G. plus loin de l'œil, et elle sera la couleur G. laquelle estant eslevée de suitte au degré d'air qui est deux fois plus subtil à la seconde hauteur A.M.N.L. qui sera dans le degré O.M.P.N., il est necessaire de la transporter à la hauteur E. et elle sera distante de l'œil toute l'estenduë de la ligne A.E. que l'on prouve estre equivalente en grosseur d'air à la distance A.G. et on le demonstre ainsi. Si dans une mesme qualité d'air, la distance A.G. interposée entre l'œil et la couleur en occupe deux degrez, et que A.E. en occupe deux et demy ; cette distance suffit pour faire que la couleur G. portée à la hauteur E. ne reçoive point d'alteration en sa faculté, parce que les deux degrez A.C. et A.F., estans dans la mesme qualité d'air, sont semblables et esgaux, et le degré d'air C.D. bien qu'il soit esgal en longueur au degré F.G. il ne luy est pas semblable en qualité, d'autant qu'il se trouve parmy l'air qui est deux fois plus espais que l'air de dessus, duquel un demy degré d'esloignement occupe autant de la teinte de la couleur, comme feroit un degré entier de l'air de dessus, qui est deux fois plus subtil que l'air de dessous, avec lequel il va confiner : tellement qu'en calculant premierement la grosseur de l'air, et puis les distances, vous trouverez les couleurs changées de place, sans qu'elles ayent receu d'alteration en la beauté de leur teinte; et voicy comment. Pour le calcul de la qualité ou grosseur de l'air : la couleur H. est placée en un air espais de quatre degrez : la couleur G. est dans un air de deux degrez, et la couleur E. est dans un air d'un degré. Voyons maintenant si les distances auront une proportion esgalement reciproque, mais converse : la couleur E. se rencontre à deux degrez et demi esloignée de l'œil, la couleur G. est à deux degrez et la couleur H. à un degré, mais cette distance ne quadrant pas proportionément avec l'espaisseur de l'air, il faut par necessité faire un troisiesme calcul, et on pourra l'ajuster en cette maniere : le degré A.C., comme on a presuposé cy-devant, est tout semblable et esgal au degré A.F. et le demy degré C.B. est semblable, mais non esgal au degré A.F. parce que c'est seulement un demy degré en longueur, lequel vaut autant qu'un degré entier de la qualité de l'air de dessus : si bien que par le calcul on satisfait à ce qui avoit esté proposé, car A.C. vaut deux degrez d'espaisseur de l'air de dessus, et le demy degré C.B. en vaut un entier de ce mesme air de dessus, et un qui se trouve encore entre B.E. lequel est le quatriesme. Tout de mesme A.H. a quatre degrez d'espaisseur d'air : A.G. en a aussi quatre, c'est à dire, A.F. qui en vaut deux et F.G. qui en vaut encore deux, lesquels assemblez font <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f65/full/full/0/native.jpg"/> quatre : A.E. en a aussi quatre, parce que A.C. en contient deux et C.B. en contient un, qui est la moitié de A.C. et dans le mesme air ; et il y en a dessus un tout entier dans l'air subtil, lesquels ensemble font quatre : de sorte que si la distance A.E. ne se trouve double de la distance A.G. ny quadruple de la distance A.H. elle est restaurée d'ailleurs par C.B., demy degré d'air espais, qui vaut un degré entier de l'air subtil qui est au dessus ; et ainsi nous concluons ce qui estoit proposé; c'est à dire, que la couleur H.G.E. ne reçoit aucune alteration dans ces diverses distances. </p>
+        <p xml:id="VIN_TP_C106_P1"><ptr type="intertextuality" target="#FEL_E3_L3_E5_P33"/><hi rend="capitals">IL</hi> se peut faire que quelquesfois la mesme couleur ne recevra <pb n="34" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f64/full/full/0/native.jpg"/> aucun changement, quoy qu'elle soit veuë en des distances diverses ; et cecy arrivera quand la qualité de l'air et les distances d'où les couleurs seront veuës, auront une mesme proportion, mais converse; on le prouve ainsi : A. soit l'œil, et H. telle couleur que l'on voudra, esloignée de l'œil à un degré de distance en un air espais de quatre degrez : mais d'autant que le second degré de dessus A.M.N.L. est de la moitié plus subtil, l'air portant tousjours en soy la mesme couleur ; il faut necessairement que cette couleur soit deux fois plus loin de l'œil qu'elle ne l'estoit auparavant ; si bien que nous la mettons aux deux degrez de distance A.F. et F.G. plus loin de l'œil, et elle sera la couleur G. laquelle estant eslevée de suitte au degré d'air qui est deux fois plus subtil à la seconde hauteur A.M.N.L. qui sera dans le degré O.M.P.N., il est necessaire de la transporter à la hauteur E. et elle sera distante de l'œil toute l'estenduë de la ligne A.E. que l'on prouve estre equivalente en grosseur d'air à la distance A.G. et on le demonstre ainsi. Si dans une mesme qualité d'air, la distance A.G. interposée entre l'œil et la couleur en occupe deux degrez, et que A.E. en occupe deux et demy ; cette distance suffit pour faire que la couleur G. portée à la hauteur E. ne reçoive point d'alteration en sa faculté, parce que les deux degrez A.C. et A.F., estans dans la mesme qualité d'air, sont semblables et esgaux, et le degré d'air C.D. bien qu'il soit esgal en longueur au degré F.G. il ne luy est pas semblable en qualité, d'autant qu'il se trouve parmy l'air qui est deux fois plus espais que l'air de dessus, duquel un demy degré d'esloignement occupe autant de la teinte de la couleur, comme feroit un degré entier de l'air de dessus, qui est deux fois plus subtil que l'air de dessous, avec lequel il va confiner : tellement qu'en calculant premierement la grosseur de l'air, et puis les distances, vous trouverez les couleurs changées de place, sans qu'elles ayent receu d'alteration en la beauté de leur teinte; et voicy comment. Pour le calcul de la qualité ou grosseur de l'air : la couleur H. est placée en un air espais de quatre degrez : la couleur G. est dans un air de deux degrez, et la couleur E. est dans un air d'un degré. Voyons maintenant si les distances auront une proportion esgalement reciproque, mais converse : la couleur E. se rencontre à deux degrez et demi esloignée de l'œil, la couleur G. est à deux degrez et la couleur H. à un degré, mais cette distance ne quadrant pas proportionément avec l'espaisseur de l'air, il faut par necessité faire un troisiesme calcul, et on pourra l'ajuster en cette maniere : le degré A.C., comme on a presuposé cy-devant, est tout semblable et esgal au degré A.F. et le demy degré C.B. est semblable, mais non esgal au degré A.F. parce que c'est seulement un demy degré en longueur, lequel vaut autant qu'un degré entier de la qualité de l'air de dessus : si bien que par le calcul on satisfait à ce qui avoit esté proposé, car A.C. vaut deux degrez d'espaisseur de l'air de dessus, et le demy degré C.B. en vaut un entier de ce mesme air de dessus, et un qui se trouve encore entre B.E. lequel est le quatriesme. Tout de mesme A.H. a quatre degrez d'espaisseur d'air : A.G. en a aussi quatre, c'est à dire, A.F. qui en vaut deux et F.G. qui en vaut encore deux, lesquels assemblez font <pb n="35" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f65/full/full/0/native.jpg"/> quatre : A.E. en a aussi quatre, parce que A.C. en contient deux et C.B. en contient un, qui est la moitié de A.C. et dans le mesme air ; et il y en a dessus un tout entier dans l'air subtil, lesquels ensemble font quatre : de sorte que si la distance A.E. ne se trouve double de la distance A.G. ny quadruple de la distance A.H. elle est restaurée d'ailleurs par C.B., demy degré d'air espais, qui vaut un degré entier de l'air subtil qui est au dessus ; et ainsi nous concluons ce qui estoit proposé; c'est à dire, que la couleur H.G.E. ne reçoit aucune alteration dans ces diverses distances. </p>
         <figure type="schema"/>
       </div1>
       <div1 n="107" type="chapitre" xml:id="C107" xml:lang="fra">
@@ -1278,7 +903,7 @@
           <hi rend="it"> Comment il se pourra faire qu'une couleur ne reçoive aucune alteration, estant placée en divers lieux où l'air sera different. </hi>
           <hi rend="capitals">CHAP. CVIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C108_P1"><hi rend="capitals">UNE</hi> couleur ne changera point, quoy que transportée en divers lieux de different air, quand la distance et la qualité de l'air seront reciproquement proportionnées, c'est à dire, qu'autant que l'une s'affoiblira par l'esloignement de l'œil, elle soit refortifiée par la pureté de l'air : en voici la preuve. Si on suppose que le premier air (ou le plus bas) ait quatre degrez de densité ou espaisseur, et que la couleur soit esloignée un degré de l'œil, et que le second air plus haut ait trois degrez de densité seulement, en ayant perdu un degré, redonnez à la couleur un degré sur la distance : et quand l'air plus haut aura perdu deux degrez de sa densité, et que la couleur aura gaigné deux degrez sur la distance, alors vostre premiere couleur sera telle que la troisiesme ; et pour le dire en un mot, si la couleur est portée si haut que l'air y soit espuré de trois degrez de sa densité ou espaisseur, et que la couleur soit escartée à trois degrez de distance, lors vous pouvez vous asseurer que la couleur haut eslevée aura receu un pareil affoiblissement de teinte que celle d'embas qui est plus voisine, parce que si l'air d'enhaut a perdu deux quarts de la densité de l'air qui est au bas, la couleur en se haussant a acquis trois quarts sur la distance de l'esloignement entier par lequel elle se trouve reculée de l'œil : et c'est ce que nous avons dessein de prouver. </p>
+        <p xml:id="VIN_TP_C108_P1"><ptr type="intertextuality" target="#FEL_E3_L3_E5_P33"/><hi rend="capitals">UNE</hi> couleur ne changera point, quoy que transportée en divers lieux de different air, quand la distance et la qualité de l'air seront reciproquement proportionnées, c'est à dire, qu'autant que l'une s'affoiblira par l'esloignement de l'œil, elle soit refortifiée par la pureté de l'air : en voici la preuve. Si on suppose que le premier air (ou le plus bas) ait quatre degrez de densité ou espaisseur, et que la couleur soit esloignée un degré de l'œil, et que le second air plus haut ait trois degrez de densité seulement, en ayant perdu un degré, redonnez à la couleur un degré sur la distance : et quand l'air plus haut aura perdu deux degrez de sa densité, et que la couleur aura gaigné deux degrez sur la distance, alors vostre premiere couleur sera telle que la troisiesme ; et pour le dire en un mot, si la couleur est portée si haut que l'air y soit espuré de trois degrez de sa densité ou espaisseur, et que la couleur soit escartée à trois degrez de distance, lors vous pouvez vous asseurer que la couleur haut eslevée aura receu un pareil affoiblissement de teinte que celle d'embas qui est plus voisine, parce que si l'air d'enhaut a perdu deux quarts de la densité de l'air qui est au bas, la couleur en se haussant a acquis trois quarts sur la distance de l'esloignement entier par lequel elle se trouve reculée de l'œil : et c'est ce que nous avons dessein de prouver. </p>
       </div1>
       <div1 n="109" type="chapitre" xml:id="C109" xml:lang="fra">
         <head>
@@ -1292,7 +917,7 @@
           <hi rend="it"> De la cause de l'offusquement des couleurs et de la forme des corps provenant des ombres qui semblent estre, et neantmoins ne le sont pas. </hi>
           <hi rend="capitals">CHAP. CX.</hi>
         </head>
-        <p xml:id="VIN_TP_C110_P1"><hi rend="capitals">IL</hi> y a plusieurs endroits lumineux et clairs en soy, lesquels paroissent remplis de tenebres, et où les choses qui s'y rencontrent demeurent privées entierement et de couleur et de forme : la cause de cét effet se doit rapporter à la lumiere de l'air venant d'un grand jour, laquelle fait comme un obstacle entre l'œil et son object, ce qui se remarque sensiblement aux fenestres qui sont loin de l'œil, au dedans desquelles on ne peut rien discerner qu'une obscurité esgale et fort tenebreuse : puis aprés si vous entrez dans le logis vous y verrez tout bien esclairé, et pourrez incontinent reconnoistre jusques à la moindre des choses qui sont en cette fenestre ; et cela arrive par la foiblesse de l'œil, qui ne pouvant supporter le trop grand esclat de la lumiere de l'air, reserre beaucoup la grandeur de sa prunelle ; et par ce deffaut, il vient à perdre notablement de sa force, mais au contraire dans les lieux sombres la mesme prunelle s'eslargist, et acquiert autant de force qu'elle s'est accreuë; ce que j'ay prouvé dans mon 2e. ‹livre› de la perspective. </p>
+        <p xml:id="VIN_TP_C110_P1"><ptr type="intertextuality" target="#CON_C7_C7SC2_C7SC2S1_P5"/><ptr type="intertextuality" target="#LOM_T_L4_L4C23_P1"/><hi rend="capitals">IL</hi> y a plusieurs endroits lumineux et clairs en soy, lesquels paroissent remplis de tenebres, et où les choses qui s'y rencontrent demeurent privées entierement et de couleur et de forme : la cause de cét effet se doit rapporter à la lumiere de l'air venant d'un grand jour, laquelle fait comme un obstacle entre l'œil et son object, ce qui se remarque sensiblement aux fenestres qui sont loin de l'œil, au dedans desquelles on ne peut rien discerner qu'une obscurité esgale et fort tenebreuse : puis aprés si vous entrez dans le logis vous y verrez tout bien esclairé, et pourrez incontinent reconnoistre jusques à la moindre des choses qui sont en cette fenestre ; et cela arrive par la foiblesse de l'œil, qui ne pouvant supporter le trop grand esclat de la lumiere de l'air, reserre beaucoup la grandeur de sa prunelle ; et par ce deffaut, il vient à perdre notablement de sa force, mais au contraire dans les lieux sombres la mesme prunelle s'eslargist, et acquiert autant de force qu'elle s'est accreuë; ce que j'ay prouvé dans mon 2e. ‹livre› de la perspective. </p>
       </div1>
       <div1 n="111" type="chapitre" xml:id="C111" xml:lang="fra">
         <head>
@@ -1632,7 +1257,7 @@
           <hi rend="it"> Des couleurs des lumieres incidentes et refleschies. </hi>
           <hi rend="capitals">CHAP. CLVII.</hi>
         </head>
-        <p xml:id="VIN_TP_C157_P1"><hi rend="capitals"> QUAND </hi> un corps ombreux se trouve entre deux lumieres, elles ne peuvent estre diverses qu'en deux manieres, c'est à sçavoir, où elles seront esgales en force, ou bien inesgales, c'est à dire, en faisant comparaison de ces lumieres entr'elles ; que si elles sont esgales en force leur clarté pourra estre encore diversifiée en deux sortes, c'est à sçavoir, par l'égalité, ou par l'inégalité de leur esclat ; il sera esgal lors que leur distance sera esgale, et inesgal leurs distances estant inégales : en des distances esgales elles se diversifieront encore en deux autres sortes, sçavoir est, lors que du costé du jour l'object sera plus foiblement esclairé par des lumieres esgalement esclatantes et esloignées, que du costé opposite par des lumieres refleschies, aussi esgalement vives et esgalement distantes : l'object placé a une distance esgale entre deux lumieres esgales et en couleur et en esclat, peut estre esclairé par ces lumieres en deux sortes, c'est à sçavoir, ou esgalement de chaque costé, ou bien inesgalement : il sera esgalement esclairé par ces deux lumieres, lors que l'espace qui reste à l'entour de ces lumieres sera de couleur esgale, et en ombre et en clarté, et elles seront inesgales quand les espaces d'alentour de ces deux lumieres se trouveront dans l'obscurité. </p>
+        <p xml:id="VIN_TP_C157_P1"><ptr type="intertextuality" target="#DUB_PP_L5_L5C24_P1"/><hi rend="capitals"> QUAND </hi> un corps ombreux se trouve entre deux lumieres, elles ne peuvent estre diverses qu'en deux manieres, c'est à sçavoir, où elles seront esgales en force, ou bien inesgales, c'est à dire, en faisant comparaison de ces lumieres entr'elles ; que si elles sont esgales en force leur clarté pourra estre encore diversifiée en deux sortes, c'est à sçavoir, par l'égalité, ou par l'inégalité de leur esclat ; il sera esgal lors que leur distance sera esgale, et inesgal leurs distances estant inégales : en des distances esgales elles se diversifieront encore en deux autres sortes, sçavoir est, lors que du costé du jour l'object sera plus foiblement esclairé par des lumieres esgalement esclatantes et esloignées, que du costé opposite par des lumieres refleschies, aussi esgalement vives et esgalement distantes : l'object placé a une distance esgale entre deux lumieres esgales et en couleur et en esclat, peut estre esclairé par ces lumieres en deux sortes, c'est à sçavoir, ou esgalement de chaque costé, ou bien inesgalement : il sera esgalement esclairé par ces deux lumieres, lors que l'espace qui reste à l'entour de ces lumieres sera de couleur esgale, et en ombre et en clarté, et elles seront inesgales quand les espaces d'alentour de ces deux lumieres se trouveront dans l'obscurité. </p>
       </div1>
       <div1 n="158" type="chapitre" xml:id="C158" xml:lang="fra">
         <head>
@@ -1651,7 +1276,7 @@
           <hi rend="it"> Des choses peintes en un champ clair, et en quelles occasions cela fait bien en peinture. </hi>
           <hi rend="capitals">CHAP. CLIX.</hi>
         </head>
-        <p xml:id="VIN_TP_C159_P1"><hi rend="capitals"> QUAND </hi> un corps ombreux se terminera sur un fond clair et illuminé, alors necessairement il paroistra de relief et détaché de ce fond, cela provient de ce que les corps d'une superficie courbe, s'obscurcissent par necessité vers cette partie opposite, où il ne sont point esclairez des rayons du jour, cét endroit restant privé de lumiere, tellement qu'il est extremement different du fond qui luy sert de champ, et la partie de ce mesme corps qui est esclairée, ne doit jamais terminer sur un champ clair par les parties esclairée de son plus grand jour, mais entre le champ et la principale lumiere du corps esclairé, il faut qu'il se trouve un terme ombré d'une demy-teinte qui soit moyenne respectivement entre la couleur du champ et la lumiere du corps esclairé. </p>
+        <p xml:id="VIN_TP_C159_P1"><ptr type="intertextuality" target="#BOS_TPG_C12_S32_P4"/><ptr type="intertextuality" target="#HUR_OPP_L1_L1C93_P1"/><hi rend="capitals"> QUAND </hi> un corps ombreux se terminera sur un fond clair et illuminé, alors necessairement il paroistra de relief et détaché de ce fond, cela provient de ce que les corps d'une superficie courbe, s'obscurcissent par necessité vers cette partie opposite, où il ne sont point esclairez des rayons du jour, cét endroit restant privé de lumiere, tellement qu'il est extremement different du fond qui luy sert de champ, et la partie de ce mesme corps qui est esclairée, ne doit jamais terminer sur un champ clair par les parties esclairée de son plus grand jour, mais entre le champ et la principale lumiere du corps esclairé, il faut qu'il se trouve un terme ombré d'une demy-teinte qui soit moyenne respectivement entre la couleur du champ et la lumiere du corps esclairé. </p>
       </div1>
       <div1 n="160" type="chapitre" xml:id="C160" xml:lang="fra">
         <head>
@@ -1665,7 +1290,7 @@
           <hi rend="it"> Des couleurs qui seront produites par le meslange des autres couleurs, lesquelles se nomment la seconde espece. </hi>
           <hi rend="capitals">CHAP. CLXI.</hi>
         </head>
-        <p xml:id="VIN_TP_C161_P1"><hi rend="capitals"> DES </hi> couleurs simples, la premiere de toutes est le blanc, bien qu'entre les <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f81/full/full/0/native.jpg"/> Philosophes le blanc et le noir ne soient point contez parmy les couleurs, parce que l'un n'est que la cause productrice des couleurs, et l'autre leur privation; neantmoins parce que le peintre ne peut s'en passer, nous les admettrons au nombre des autres ; et donnerons la premiere place au blanc entre les simples en cét ordre : le jaune aura la seconde, le verd la troisiesme, l'azur la quatriesme, la rouge aura la cinquiesme, et la sixiesme et derniere sera pour le noir : nous establirons le blanc comme la lumiere, sans laquelle nulle couleur ne peut estre veuë ; le jaune sera pour representer la terre ; le verd pour l'eau, l'azur pour l'air, et le rouge pour le feu, et le noir pour les tenebres qui sont par dessus l'élement du feu, parce que là il n'y a plus de matiere ou densité, dans laquelle les rayons du soleil puissent penetrer et s'arrester, ny par consequent illuminer. Si vous voulez voir bien tost la varieté de toutes les couleurs composées, prenez des quarreaux de verre peints, et au travers de ces verres considerez toutes les couleurs de la campagne : car par ce moyen vous connoistrez que la couleur de chaque chose qui se trouvera derriere ce verre sera toute falsifiée et meslée avec la teinte qui est sur le verre, et vous pourrez remarquer quelles seront les couleurs qui en recevront une plus avantageuse ou plus nuisible composition : par exemple si le verre est teint en jaune, je dis que l'espece des objects qu'on void au travers peut aussi tost se gaster comme se perfectionner, et les couleurs qui en recevront plus d'alteration, sont particulierement entre les autres l'azur, le noir et le blanc, et celles qui en tireront quelque advantage pour leur perfection seront principalement le jaune et le verd, et ainsi l'on ira parcourant de l'œil le meslange de ces couleurs, qui sera presque infiny, si bien que de cette maniere vous ferez choix des couleurs, la composition desquelles vous semblera plus plaisante et plus nouvelle : vous pourrez faire le mesme avec deux verres de diverses teintes, et ainsi de suitte avec trois et davantage en continuant la mesme methode. </p>
+        <p xml:id="VIN_TP_C161_P1"><ptr type="intertextuality" target="#FEL_E3_L3_E5_P7"/><hi rend="capitals"> DES </hi> couleurs simples, la premiere de toutes est le blanc, bien qu'entre les <pb n="51" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f81/full/full/0/native.jpg"/> Philosophes le blanc et le noir ne soient point contez parmy les couleurs, parce que l'un n'est que la cause productrice des couleurs, et l'autre leur privation; neantmoins parce que le peintre ne peut s'en passer, nous les admettrons au nombre des autres ; et donnerons la premiere place au blanc entre les simples en cét ordre : le jaune aura la seconde, le verd la troisiesme, l'azur la quatriesme, la rouge aura la cinquiesme, et la sixiesme et derniere sera pour le noir : nous establirons le blanc comme la lumiere, sans laquelle nulle couleur ne peut estre veuë ; le jaune sera pour representer la terre ; le verd pour l'eau, l'azur pour l'air, et le rouge pour le feu, et le noir pour les tenebres qui sont par dessus l'élement du feu, parce que là il n'y a plus de matiere ou densité, dans laquelle les rayons du soleil puissent penetrer et s'arrester, ny par consequent illuminer. Si vous voulez voir bien tost la varieté de toutes les couleurs composées, prenez des quarreaux de verre peints, et au travers de ces verres considerez toutes les couleurs de la campagne : car par ce moyen vous connoistrez que la couleur de chaque chose qui se trouvera derriere ce verre sera toute falsifiée et meslée avec la teinte qui est sur le verre, et vous pourrez remarquer quelles seront les couleurs qui en recevront une plus avantageuse ou plus nuisible composition : par exemple si le verre est teint en jaune, je dis que l'espece des objects qu'on void au travers peut aussi tost se gaster comme se perfectionner, et les couleurs qui en recevront plus d'alteration, sont particulierement entre les autres l'azur, le noir et le blanc, et celles qui en tireront quelque advantage pour leur perfection seront principalement le jaune et le verd, et ainsi l'on ira parcourant de l'œil le meslange de ces couleurs, qui sera presque infiny, si bien que de cette maniere vous ferez choix des couleurs, la composition desquelles vous semblera plus plaisante et plus nouvelle : vous pourrez faire le mesme avec deux verres de diverses teintes, et ainsi de suitte avec trois et davantage en continuant la mesme methode. </p>
       </div1>
       <div1 n="162" type="chapitre" xml:id="C162" xml:lang="fra">
         <head>
@@ -1710,7 +1335,7 @@
           <hi rend="it"> Des changemens de mesures qui arrivent au corps de l'homme depuis sa naissance jusques à ce qu'il soit parvenu à son dernier croistre. </hi>
           <hi rend="capitals">CHAP. CLXVII.</hi>
         </head>
-        <p xml:id="VIN_TP_C167_P1"><hi rend="capitals">L'HOMME</hi> en sa premiere enfance a la largeur des espaules esgale à la longueur du visage, et à l'espace du bras qui est depuis l'espaule jusques au coude, lors que le bras est plié : elle est encore pareille à l'espace depuis le gros doigt de la main jusqu'au ply du coude, et pareille encore à l'intervalle depuis le haut de la verge jusques au milieu du genoüil ; et de mesme encore que de la jointure du genoüil à celle du pied : mais quand l'homme est parvenu à sa derniere hauteur, toutes ces mesures doublent en longueur, hormis le visage, lequel avec la grandeur de toute la teste reçoit peu de varieté : et ainsi l'homme, qui aprés estre arrivé à son dernier croistre est devenu d'une taille bien proportionné‹e›, doit estre haut de dix faces, et la largeur des espaules a deux de ces mesmes faces, et ainsi toutes les autres susdites largeurs sont pareillement de deux faces ; pour le reste nous en traiterons parlant des mesures universelles du corps de l'homme. </p>
+        <p xml:id="VIN_TP_C167_P1"><ptr type="intertextuality" target="#SCA_IAU_L1_L1C15_P10"/><hi rend="capitals">L'HOMME</hi> en sa premiere enfance a la largeur des espaules esgale à la longueur du visage, et à l'espace du bras qui est depuis l'espaule jusques au coude, lors que le bras est plié : elle est encore pareille à l'espace depuis le gros doigt de la main jusqu'au ply du coude, et pareille encore à l'intervalle depuis le haut de la verge jusques au milieu du genoüil ; et de mesme encore que de la jointure du genoüil à celle du pied : mais quand l'homme est parvenu à sa derniere hauteur, toutes ces mesures doublent en longueur, hormis le visage, lequel avec la grandeur de toute la teste reçoit peu de varieté : et ainsi l'homme, qui aprés estre arrivé à son dernier croistre est devenu d'une taille bien proportionné‹e›, doit estre haut de dix faces, et la largeur des espaules a deux de ces mesmes faces, et ainsi toutes les autres susdites largeurs sont pareillement de deux faces ; pour le reste nous en traiterons parlant des mesures universelles du corps de l'homme. </p>
       </div1>
       <div1 n="168" type="chapitre" xml:id="C168" xml:lang="fra">
         <head>
@@ -1753,14 +1378,14 @@
           <hi rend="it"> Des mesures universelles des corps. </hi>
           <hi rend="capitals">CHAP. CLXXIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C173_P1"><hi rend="capitals"> JE </hi> dis que les mesures universelles des corps doivent s'observer dans les longueurs des figures seulement et non aux largeurs, parce que c'est une chose loüable et merveilleuse dans la nature, que de toutes ses productions on n'en void aucune de quelque espece que ce soit, laquelle considerée en particulier, soit precisément semblable à un autre ; c'est pourquoy vous qui estes imitateur de cette nature, prenez garde et considerez la varieté de ces contours : neantmoins je suis bien d'avis que vous évitiez les choses qui paroissent monstrueuses, comme des jambes trop longues, des corps trop courts, des poitrines estroittes, et des bras longs : observez donc les mesures des jointures, et les grosseurs dans lesquelles la nature se plaist à diversifier, pour faire de mesme à son exemple. </p>
+        <p xml:id="VIN_TP_C173_P1"><ptr type="intertextuality" target="#BOS_TPG_C9_P13"/><hi rend="capitals"> JE </hi> dis que les mesures universelles des corps doivent s'observer dans les longueurs des figures seulement et non aux largeurs, parce que c'est une chose loüable et merveilleuse dans la nature, que de toutes ses productions on n'en void aucune de quelque espece que ce soit, laquelle considerée en particulier, soit precisément semblable à un autre ; c'est pourquoy vous qui estes imitateur de cette nature, prenez garde et considerez la varieté de ces contours : neantmoins je suis bien d'avis que vous évitiez les choses qui paroissent monstrueuses, comme des jambes trop longues, des corps trop courts, des poitrines estroittes, et des bras longs : observez donc les mesures des jointures, et les grosseurs dans lesquelles la nature se plaist à diversifier, pour faire de mesme à son exemple. </p>
       </div1>
       <div1 n="174" type="chapitre" xml:id="C174" xml:lang="fra">
         <head>
           <hi rend="it"> Des mesures du corps humain et des plis des membres. </hi>
           <hi rend="capitals">CHAP. CLXXIV.</hi>
         </head>
-        <p xml:id="VIN_TP_C174_P1"><hi rend="capitals"> LA </hi> necessité oblige le peintre d'avoir connoissance de l'ossature du corps, laquelle sert de soustien et d'armement à la chair dont elle est couverte, et des jointures qui font que les membres croissent et diminuent dans leurs flexions ; d'où vient que la mesure du bras estendu ne se trouve pas esgale à celle du mesme bras retiré, car il croist ou il décroist par la difference de sa plus grande flexion, d'une huictiesme partie de sa longeur : l'accroissement et decroissement du bras par l'effect de l'os qui sort de son emboiture est tel que vous le voyez representé en cette figure A.B. son accroissement se fait dans la partie qui vient de l'espaule au coude, l'angle du coude estant plus aigu qu'un angle droit, et l'accroissement s'augmente à mesure que cét angle se diminuë ; comme au contraire la longueur se diminuë selon que l'angle susdit devient plus ouvert : l'espace d'entre l'espaule et le coude s'accroist d'au <pb n="57" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f87/full/full/0/native.jpg"/> tant plus que l'angle du ply du coude se fait plus petit qu'un angle droict, et décroist à proportion que l'angle est plus grand qu'un droict. </p>
+        <p xml:id="VIN_TP_C174_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P15"/><hi rend="capitals"> LA </hi> necessité oblige le peintre d'avoir connoissance de l'ossature du corps, laquelle sert de soustien et d'armement à la chair dont elle est couverte, et des jointures qui font que les membres croissent et diminuent dans leurs flexions ; d'où vient que la mesure du bras estendu ne se trouve pas esgale à celle du mesme bras retiré, car il croist ou il décroist par la difference de sa plus grande flexion, d'une huictiesme partie de sa longeur : l'accroissement et decroissement du bras par l'effect de l'os qui sort de son emboiture est tel que vous le voyez representé en cette figure A.B. son accroissement se fait dans la partie qui vient de l'espaule au coude, l'angle du coude estant plus aigu qu'un angle droit, et l'accroissement s'augmente à mesure que cét angle se diminuë ; comme au contraire la longueur se diminuë selon que l'angle susdit devient plus ouvert : l'espace d'entre l'espaule et le coude s'accroist d'au <pb n="57" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f87/full/full/0/native.jpg"/> tant plus que l'angle du ply du coude se fait plus petit qu'un angle droict, et décroist à proportion que l'angle est plus grand qu'un droict. </p>
         <figure type="gravure"/>
       </div1>
       <div1 n="175" type="chapitre" xml:id="C175" xml:lang="fra">
@@ -1953,7 +1578,7 @@
           <hi rend="it"> De l'homme qui porte un fardeau sur ses espaules. </hi>
           <hi rend="capitals">CHAP. CC.</hi>
         </head>
-        <p xml:id="VIN_TP_C200_P1"><hi rend="capitals"> TOUSJOURS </hi> l'espaule de l'homme qui porte un fardeau est plus haute <pb n="66" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f96/full/full/0/native.jpg"/> que l'autre espaule qui n'est point chargée ; et cela se void en la figure suivante, par laquelle passe la ligne centrale de toute la pesanteur du corps de l'homme et de son fardeau, lequel meslange et composition de pesanteur, si ce n'est qu'il se partage avec une esgale ponderation sur le centre de la jambe qui soustient le fais, il faudroit necessairement que tout s'en allast par terre : mais la nature en cette necessité pourvoit à faire qu'une pareille partie de la pesanteur du corps de l'homme, se jette de l'autre costé opposite à ce fardeau estranger, pour luy donner l'equilibre et le contrepoids, et cela ne se peut faire sans que l'homme vienne à se courber du costé le plus leger, jusques à ce que par cette courbeure il le fasse participer à ce poids accidental dont il est chargé ; et cela encore ne se peut faire si l'espaule qui soustient le fais ne se hausse, et que l'espaule legere et sans charge ne s'abbaisse, et c'est l'expedient dont l'industrieuse necessité se sert en un tel rencontre.* </p>
+        <p xml:id="VIN_TP_C200_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><ptr type="intertextuality" target="#FEL_E2_L2_E4_P209"/><hi rend="capitals"> TOUSJOURS </hi> l'espaule de l'homme qui porte un fardeau est plus haute <pb n="66" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f96/full/full/0/native.jpg"/> que l'autre espaule qui n'est point chargée ; et cela se void en la figure suivante, par laquelle passe la ligne centrale de toute la pesanteur du corps de l'homme et de son fardeau, lequel meslange et composition de pesanteur, si ce n'est qu'il se partage avec une esgale ponderation sur le centre de la jambe qui soustient le fais, il faudroit necessairement que tout s'en allast par terre : mais la nature en cette necessité pourvoit à faire qu'une pareille partie de la pesanteur du corps de l'homme, se jette de l'autre costé opposite à ce fardeau estranger, pour luy donner l'equilibre et le contrepoids, et cela ne se peut faire sans que l'homme vienne à se courber du costé le plus leger, jusques à ce que par cette courbeure il le fasse participer à ce poids accidental dont il est chargé ; et cela encore ne se peut faire si l'espaule qui soustient le fais ne se hausse, et que l'espaule legere et sans charge ne s'abbaisse, et c'est l'expedient dont l'industrieuse necessité se sert en un tel rencontre.* </p>
       </div1>
       <div1 n="201" type="chapitre" xml:id="C201" xml:lang="fra">
         <head>
@@ -2000,7 +1625,7 @@
           <hi rend="it"> De l'esgale ponderation ou contrepoids. </hi>
           <hi rend="capitals">CHAP. CCVI.</hi>
         </head>
-        <p xml:id="VIN_TP_C206_P1"><hi rend="capitals"> TOUSJOURS </hi> la figure qui soustient le poids sur soy et sur la ligne centrale de la masse de son corps, doit jetter autant du poids naturel ou accidental de l'autre costé opposite, qu'il en faudra pour parfaire le balancement du poids égal autour de la ligne centrale qui part du centre de la partie du pied qui porte la charge, et laquelle passe au travers de la masse entiere du poids, et tombe sur cette partie des pieds qui pose à terre. On void ordinairement qu'un homme qui leve un fardeau avec un des bras, estend naturellement au delà de soy son autre bras, et si cela ne suffit à faire le contrepoids, il y met encore de son propre poids en courbant le corps autant qu'il faut pour estre bastant à soutenir le fardeau dont il est chargé : on void encore que celuy qui s'en va tomber à la renverse estend tousjours l'un de ses bras, et le porte vers la partie opposite. </p>
+        <p xml:id="VIN_TP_C206_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><hi rend="capitals"> TOUSJOURS </hi> la figure qui soustient le poids sur soy et sur la ligne centrale de la masse de son corps, doit jetter autant du poids naturel ou accidental de l'autre costé opposite, qu'il en faudra pour parfaire le balancement du poids égal autour de la ligne centrale qui part du centre de la partie du pied qui porte la charge, et laquelle passe au travers de la masse entiere du poids, et tombe sur cette partie des pieds qui pose à terre. On void ordinairement qu'un homme qui leve un fardeau avec un des bras, estend naturellement au delà de soy son autre bras, et si cela ne suffit à faire le contrepoids, il y met encore de son propre poids en courbant le corps autant qu'il faut pour estre bastant à soutenir le fardeau dont il est chargé : on void encore que celuy qui s'en va tomber à la renverse estend tousjours l'un de ses bras, et le porte vers la partie opposite. </p>
       </div1>
       <div1 n="207" type="chapitre" xml:id="C207" xml:lang="fra">
         <head>
@@ -2022,7 +1647,7 @@
           <hi rend="it"> De l'equilibre des figures. </hi>
           <hi rend="capitals">CHAP. CCIX.</hi>
         </head>
-        <p xml:id="VIN_TP_C209_P1"><hi rend="capitals"> SI </hi> la figure se porte sur un de ses pieds, l'espaule de ce mesme costé-là sera tousjours plus basse que l'autre, et la fontanelle ou clavicule de la gorge sera perpendiculairement sur le milieu de la jambe qui soustient le corps : il en arrivera de mesme en toute autre ligne, où nous verrons cette figure, estant sans avoir le bras en saillie beaucoup en dehors, ou sans quelque charge sur le dos, ou dans la main, ou sur l'espaule, ou sans escarter la jambe qui ne pose pas, ou en devant ou en arriere. </p>
+        <p xml:id="VIN_TP_C209_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><hi rend="capitals"> SI </hi> la figure se porte sur un de ses pieds, l'espaule de ce mesme costé-là sera tousjours plus basse que l'autre, et la fontanelle ou clavicule de la gorge sera perpendiculairement sur le milieu de la jambe qui soustient le corps : il en arrivera de mesme en toute autre ligne, où nous verrons cette figure, estant sans avoir le bras en saillie beaucoup en dehors, ou sans quelque charge sur le dos, ou dans la main, ou sur l'espaule, ou sans escarter la jambe qui ne pose pas, ou en devant ou en arriere. </p>
         <figure type="gravure"/>
       </div1>
       <div1 n="210" type="chapitre" xml:id="C210" xml:lang="fra">
@@ -2037,7 +1662,7 @@
           <hi rend="it"> De la commodité des membres. </hi>
           <hi rend="capitals"> CHAP. CCXI.</hi>
         </head>
-        <p xml:id="VIN_TP_C211_P1"><hi rend="capitals"> POUR </hi> ce qui concerne la commodité de ces mesmes membres, il faudra considerer qu'ayant à representer quelqu'un, qui par accident soit obligé de se tourner en arriere, ou de costé, que vous ne luy fassiez point porter les pieds et tous les membres vers le mesme endroit où il tournera la teste, mais il sera mieux de partager cette action avec quelque sorte de contraste et diversité aux quatre jointures, sçavoir est celles du pied, du genoüil, du flanc, et du col ; et si la figure estoit plantée sur la jambe droitte, le genoüil gauche sera plié et retiré en arriere, et son pied un peu eslevé en dehors, et l'espaule gauche un peu plus haute que la droitte, et la nucque se rencontrera au mesme lieu, où la cheville exterieure du pied gauche sera tournée, et l'espaule gauche sur la poincte du pied droict en ligne perpendiculaire ; et tenez pour une maxime generalle que du costé où la teste de vos figures regardera, la poictrine n'y soit point tournée, puisque la nature a fait pour nostre commodité que le col se tourne facilement de plusieurs costez pour servir à l'œil lors qu'il veut voir en divers endroits : il en est encore ainsi en quelque façon du service des autres jointures; et si vous faites un homme assis, lequel ait besoin de travailler de ses bras à quelque chose qui soit à costé de luy, il doit avoir l'estomac tourné sur la jointure du flanc. </p>
+        <p xml:id="VIN_TP_C211_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><ptr type="intertextuality" target="#FEL_E2_L2_E4_P206"/><hi rend="capitals"> POUR </hi> ce qui concerne la commodité de ces mesmes membres, il faudra considerer qu'ayant à representer quelqu'un, qui par accident soit obligé de se tourner en arriere, ou de costé, que vous ne luy fassiez point porter les pieds et tous les membres vers le mesme endroit où il tournera la teste, mais il sera mieux de partager cette action avec quelque sorte de contraste et diversité aux quatre jointures, sçavoir est celles du pied, du genoüil, du flanc, et du col ; et si la figure estoit plantée sur la jambe droitte, le genoüil gauche sera plié et retiré en arriere, et son pied un peu eslevé en dehors, et l'espaule gauche un peu plus haute que la droitte, et la nucque se rencontrera au mesme lieu, où la cheville exterieure du pied gauche sera tournée, et l'espaule gauche sur la poincte du pied droict en ligne perpendiculaire ; et tenez pour une maxime generalle que du costé où la teste de vos figures regardera, la poictrine n'y soit point tournée, puisque la nature a fait pour nostre commodité que le col se tourne facilement de plusieurs costez pour servir à l'œil lors qu'il veut voir en divers endroits : il en est encore ainsi en quelque façon du service des autres jointures; et si vous faites un homme assis, lequel ait besoin de travailler de ses bras à quelque chose qui soit à costé de luy, il doit avoir l'estomac tourné sur la jointure du flanc. </p>
       </div1>
       <div1 n="212" type="chapitre" xml:id="C212" xml:lang="fra">
         <head>
@@ -2058,7 +1683,7 @@
           <hi rend="it"> Que l'equilibre d'un poids doit se trouver sur le centre, ou plustost autour du centre de la gravité des corps. </hi>
           <hi rend="capitals">CHAP. CCXIV.</hi>
         </head>
-        <p xml:id="VIN_TP_C214_P1"><hi rend="capitals"> LA </hi> figure qui demeure ferme sur ses pieds sans se mouvoir, fera une esgale ponderation de tous ses membres autour de la ligne centralle, sur laquelle elle se soustient ; c'est à dire, que si la figure stable et sans mouvement, estant plantée sur ses pieds, vient à jetter en devant un de ses bras, elle doit porter en mesme temps vers le costé opposite un autre membre, ou une partie de son poids qui soit esgale à ce qu'elle en a jetté en devant : et cela se doit entrendre generalement de chaque partie qui saillira hors de son Tout contre l'ordinaire. </p>
+        <p xml:id="VIN_TP_C214_P1"><ptr type="intertextuality" target="#FEL_E2_L2_E4_P206"/><hi rend="capitals"> LA </hi> figure qui demeure ferme sur ses pieds sans se mouvoir, fera une esgale ponderation de tous ses membres autour de la ligne centralle, sur laquelle elle se soustient ; c'est à dire, que si la figure stable et sans mouvement, estant plantée sur ses pieds, vient à jetter en devant un de ses bras, elle doit porter en mesme temps vers le costé opposite un autre membre, ou une partie de son poids qui soit esgale à ce qu'elle en a jetté en devant : et cela se doit entrendre generalement de chaque partie qui saillira hors de son Tout contre l'ordinaire. </p>
       </div1>
       <div1 n="215" type="chapitre" xml:id="C215" xml:lang="fra">
         <head>
@@ -2187,7 +1812,7 @@
           <hi rend="it"> Combien un bras se peut approcher de l'autre bras derriere le dos. </hi>
           <hi rend="capitals">CHAP. CCXXXII.</hi>
         </head>
-        <p xml:id="VIN_TP_C232_P1"><hi rend="capitals"> DES </hi> bras qu'on porte derriere le dos, les coudes ne peuvent jamais s'approcher plus prés que de la longueur depuis le coude jusqu'au bout des plus longs doigts ; c'est à dire, que la plus grande proximité que peuvent avoir les deux coudes en cét estat-là, ne sçauroit estre que de l'estenduë depuis le coude à l'extremité du plus grand doigt de la main : et les bras ainsi placez forment un quarré parfait, et la plus grande extension du bras dessus l'estomac est de pouvoir arriver jusques au milieu de l'estomac, et son coude avec les espaules et les deux parties du bras forment tous ensemble un triangle equilateral. <pb n="76" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f106/full/full/0/native.jpg"/>
+        <p xml:id="VIN_TP_C232_P1"><ptr type="intertextuality" target="#SCA_IAU_L1_L1C15_P10"/><hi rend="capitals"> DES </hi> bras qu'on porte derriere le dos, les coudes ne peuvent jamais s'approcher plus prés que de la longueur depuis le coude jusqu'au bout des plus longs doigts ; c'est à dire, que la plus grande proximité que peuvent avoir les deux coudes en cét estat-là, ne sçauroit estre que de l'estenduë depuis le coude à l'extremité du plus grand doigt de la main : et les bras ainsi placez forment un quarré parfait, et la plus grande extension du bras dessus l'estomac est de pouvoir arriver jusques au milieu de l'estomac, et son coude avec les espaules et les deux parties du bras forment tous ensemble un triangle equilateral. <pb n="76" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f106/full/full/0/native.jpg"/>
             </p>
         <figure type="gravure"/>
       </div1>
@@ -2426,7 +2051,7 @@
           <hi rend="it"> De la position ou campement des figures. </hi>
           <hi rend="capitals">CHAP. CCLXV.</hi>
         </head>
-        <p xml:id="VIN_TP_C265_P1"><hi rend="capitals"> TOUJOURS </hi> les figures qui sont posées en une attitude stable, doivent <pb n="87" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f117/full/full/0/native.jpg"/> monstrer quelque varieté en leurs membres, et faire un contraste ; c'est à dire, que si un des bras se porte en avant, il faut que l'autre demeure ferme, ou se retire en arriere ; et si la figure est plantée sur une jambe, que l'espaule qui pose sur cette jambe soit plus basse que l'autre espaule ; et cela s'observe par les personnes de jugement, qui ont tousjours soin de donner le contrepoids naturel à la figure qui est sur ses pieds, de peur qu'elle ne vienne à tomber, parce que posant sur un des pieds, la jambe opposte estant plyée, ne soustient point l'homme, et demeure comme morte en soy, tellement qu'il faut necessairement que le poids d'enhaut qui se rencontre sur cette jambe, envoye le centre de sa pesanteur sur la jointure de l'autre jambe qui porte le corps. </p>
+        <p xml:id="VIN_TP_C265_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><ptr type="intertextuality" target="#FEL_E2_L2_E4_P206"/><hi rend="capitals"> TOUJOURS </hi> les figures qui sont posées en une attitude stable, doivent <pb n="87" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f117/full/full/0/native.jpg"/> monstrer quelque varieté en leurs membres, et faire un contraste ; c'est à dire, que si un des bras se porte en avant, il faut que l'autre demeure ferme, ou se retire en arriere ; et si la figure est plantée sur une jambe, que l'espaule qui pose sur cette jambe soit plus basse que l'autre espaule ; et cela s'observe par les personnes de jugement, qui ont tousjours soin de donner le contrepoids naturel à la figure qui est sur ses pieds, de peur qu'elle ne vienne à tomber, parce que posant sur un des pieds, la jambe opposte estant plyée, ne soustient point l'homme, et demeure comme morte en soy, tellement qu'il faut necessairement que le poids d'enhaut qui se rencontre sur cette jambe, envoye le centre de sa pesanteur sur la jointure de l'autre jambe qui porte le corps. </p>
       </div1>
       <div1 n="266" type="chapitre" xml:id="C266" xml:lang="fra">
         <head>
@@ -2513,7 +2138,7 @@
           <hi rend="it"> Quel doit estre le premier object et la principale intention du peintre. </hi>
           <hi rend="capitals">CHAP. CCLXXVII.</hi>
         </head>
-        <p xml:id="VIN_TP_C277_P1"><hi rend="capitals"> LA </hi> premiere intention du peintre est de faire que sur la superficie plane de son tableau, il paroisse un corps relevé et détaché de son fond : et celuy qui en ce poinct surpasse les autres, il merite d'estre estimé le plus grand maistre de la profession. Or cette recherche, ou plustost cette perfection et couronnement de l'art, provient de la juste et naturelle dispensation des ombres et des lumieres, ce qu'on appelle le clair et l'obscur ; de sorte que si un peintre espargne les ombres où elles sont necessaires, il se deshonore, et rend son ouvrage mesprisable aux bons esprits, pour s'acquerir une fausse estime parmy le vulgaire et les ignorants, qui ne considerent en un tableau que la politesse et le fard du coloris, sans prendre garde au relief. </p>
+        <p xml:id="VIN_TP_C277_P1"><ptr type="intertextuality" target="#LOM_T_L4_L4C1_P1"/><hi rend="capitals"> LA </hi> premiere intention du peintre est de faire que sur la superficie plane de son tableau, il paroisse un corps relevé et détaché de son fond : et celuy qui en ce poinct surpasse les autres, il merite d'estre estimé le plus grand maistre de la profession. Or cette recherche, ou plustost cette perfection et couronnement de l'art, provient de la juste et naturelle dispensation des ombres et des lumieres, ce qu'on appelle le clair et l'obscur ; de sorte que si un peintre espargne les ombres où elles sont necessaires, il se deshonore, et rend son ouvrage mesprisable aux bons esprits, pour s'acquerir une fausse estime parmy le vulgaire et les ignorants, qui ne considerent en un tableau que la politesse et le fard du coloris, sans prendre garde au relief. </p>
       </div1>
       <div1 n="278" type="chapitre" xml:id="C278" xml:lang="fra">
         <head>
@@ -2701,14 +2326,14 @@
           <hi rend="it"> Advertissement touchant les lumieres et les ombres. </hi>
           <hi rend="capitals">CHAP. CCCII.</hi>
         </head>
-        <p xml:id="VIN_TP_C302_P1"><hi rend="capitals"> PRENEZ </hi> garde que tousjours dans le finiment des ombres il y paroist un‹e› penombre, c'est à dire, un meslange de lumiere et d'ombre ; et l'ombre derivative s'unist d'autant plus avec la lumiere, qu'elle est plus distante du corps ombreux, mais la couleur ne s'en verra jamais simple ; cela se prouve par la 9e. ‹proposition› qui dit : La superficie de tout corps participe de la couleur de son object, encore bien qu'elle soit la superficie d'un corps transparent, comme l'air, l'eau, et d'autres semblables ; parce que l'air reçoit sa lumiere du soleil, et les tenebres de la privation du mesme soleil; donc il se colore en autant de diverses teintes qu'il se trouve de couleurs entre lesquelles il s'interpose <pb n="102" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f132/full/full/0/native.jpg"/> entre l'œil et elles, parce que l'air n'a de soy aucune couleur non plus que l'eau : mais l'humide qui se vient mesler avec luy depuis la moyenne region en bas, est ce qui le rend espais, et ayant fait corps de cette espaisseur, les rayons solaires venant à battre dessus, luy impriment leur lumiere, et l'air qui est au dessus de la moyenne region demeure obscur ; et parce que de la lumiere et de l'ombre l'azur se compose, qui est la propre couleur de l'air, de là vient qu'il a plus ou moins d'obscurité, selon qu'il est plus ou moins espais et meslé d'humide. </p>
+        <p xml:id="VIN_TP_C302_P1"><ptr type="intertextuality" target="#DUP_TP_L3_L3C1_P22"/><ptr type="intertextuality" target="#LOM_T_L4_L4C23_P1"/><hi rend="capitals"> PRENEZ </hi> garde que tousjours dans le finiment des ombres il y paroist un‹e› penombre, c'est à dire, un meslange de lumiere et d'ombre ; et l'ombre derivative s'unist d'autant plus avec la lumiere, qu'elle est plus distante du corps ombreux, mais la couleur ne s'en verra jamais simple ; cela se prouve par la 9e. ‹proposition› qui dit : La superficie de tout corps participe de la couleur de son object, encore bien qu'elle soit la superficie d'un corps transparent, comme l'air, l'eau, et d'autres semblables ; parce que l'air reçoit sa lumiere du soleil, et les tenebres de la privation du mesme soleil; donc il se colore en autant de diverses teintes qu'il se trouve de couleurs entre lesquelles il s'interpose <pb n="102" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f132/full/full/0/native.jpg"/> entre l'œil et elles, parce que l'air n'a de soy aucune couleur non plus que l'eau : mais l'humide qui se vient mesler avec luy depuis la moyenne region en bas, est ce qui le rend espais, et ayant fait corps de cette espaisseur, les rayons solaires venant à battre dessus, luy impriment leur lumiere, et l'air qui est au dessus de la moyenne region demeure obscur ; et parce que de la lumiere et de l'ombre l'azur se compose, qui est la propre couleur de l'air, de là vient qu'il a plus ou moins d'obscurité, selon qu'il est plus ou moins espais et meslé d'humide. </p>
       </div1>
       <div1 n="303" type="chapitre" xml:id="C303" xml:lang="fra">
         <head>
           <hi rend="it"> Explication touchant la lumiere universelle dans la peinture. </hi>
           <hi rend="capitals">CHAP. CCCIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C303_P1"><hi rend="capitals"> AYEZ </hi> esgard à faire tousjours aux compositions de plusieurs figures d'hommes ou d'animaux, que les membres ou autres parties des corps, soient plus obscures à proportion qu'elles sont plus basses, ou qu'elles sont plus voisines du milieu de la multitude, bien que de soy elles fussent de mesme couleur : et cela est necessaire parce que le ciel qui est la source de la lumiere de tous les corps, esclairant sur les lieux bas et sur les espaces resserrées entre ces figures d'animaux, la portion d'arc de son hemisphere dont il les void, est d'une moindre estenduë que celle dont il esclaire les parties superieures et plus eslevées des mesmes espaces : ce qui se prouve par la figure suivante ou A.B.C.D. represente l'arc du ciel, qui donne le jour universel à tous les corps inferieurs, M.N. sont les corps qui bornent l'espace S.T.R.H. contenu entr'eux, dans lequel espace on void manifestement que le lieu F., lequel estant seulement esclairé de la portion C.D., est illuminé d'un plus petite portion de l'arc du ciel, que n'est le lieu E., lequel est veu de toute la portion d'arc A.B. laquelle est plus grande que l'arc D.C. si bien qu'il sera plus esclairé en E. qu'en F. </p>
+        <p xml:id="VIN_TP_C303_P1"><ptr type="intertextuality" target="#FEL_E3_L3_E5_P59"/><hi rend="capitals"> AYEZ </hi> esgard à faire tousjours aux compositions de plusieurs figures d'hommes ou d'animaux, que les membres ou autres parties des corps, soient plus obscures à proportion qu'elles sont plus basses, ou qu'elles sont plus voisines du milieu de la multitude, bien que de soy elles fussent de mesme couleur : et cela est necessaire parce que le ciel qui est la source de la lumiere de tous les corps, esclairant sur les lieux bas et sur les espaces resserrées entre ces figures d'animaux, la portion d'arc de son hemisphere dont il les void, est d'une moindre estenduë que celle dont il esclaire les parties superieures et plus eslevées des mesmes espaces : ce qui se prouve par la figure suivante ou A.B.C.D. represente l'arc du ciel, qui donne le jour universel à tous les corps inferieurs, M.N. sont les corps qui bornent l'espace S.T.R.H. contenu entr'eux, dans lequel espace on void manifestement que le lieu F., lequel estant seulement esclairé de la portion C.D., est illuminé d'un plus petite portion de l'arc du ciel, que n'est le lieu E., lequel est veu de toute la portion d'arc A.B. laquelle est plus grande que l'arc D.C. si bien qu'il sera plus esclairé en E. qu'en F. </p>
         <figure type="schema"/>
       </div1>
       <div1 n="304" type="chapitre" xml:id="C304" xml:lang="fra">
@@ -2745,7 +2370,7 @@
           <hi rend="it"> Diverses observations sur la peinture. </hi>
           <hi rend="capitals">CHAP. CCCVIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C308_P1"><hi rend="capitals">ENTRE</hi> les choses d'une esgale obscurité, de mesme grandeur de figure, et en pareille distance de l'œil, celle-là se monstrera plus petite qui sera veuë dans un lieu plus esclairé ou plus blanc : l'experience nous en est monstrée par le soleil, lequel estant veu au travers d'un arbre sans fueilles, fait paroistre tous les rameaux qui sont à son opposite, si diminuez, qu'ils demeurent presque invisibles ; le mesme effect se verra tenant une picque droitte entre l'œil et le corps solaire. Les corps paralleles plantez droict estant veus dans un broüillard, se doivent monstrer plus gros par le haut que par le pied : on le prouve par la 9e. ‹proposition› qui dit : le broüillard ou l'air espais estant penetré par les rayons du soleil, se monstrera d'autant plus blanc qu'il sera plus bas ; les figures qu'on void de loin paroissent disproportionnées ; et cela vient de ce que la partie plus claire envoye à l'œil son image avec des rayons plus forts que ne fait la partie qui est obscure : et j'ay observé voyant une femme habillée de noir, laquelle avoit sur la teste un linge blanc, que la teste luy paroissoit deux fois plus grosse que les espaules qui estoient vestuës de noir. </p>
+        <p xml:id="VIN_TP_C308_P1"><ptr type="intertextuality" target="#BAR_PP_L1_L1C8_P1"/><ptr type="intertextuality" target="#DUB_PP_L5_L5C4_P2"/><ptr type="intertextuality" target="#FEL_E3_L3_E5_P59"/><ptr type="intertextuality" target="#VIG_RPP_L1_L1C2_L1C2SC6_P5"/><hi rend="capitals">ENTRE</hi> les choses d'une esgale obscurité, de mesme grandeur de figure, et en pareille distance de l'œil, celle-là se monstrera plus petite qui sera veuë dans un lieu plus esclairé ou plus blanc : l'experience nous en est monstrée par le soleil, lequel estant veu au travers d'un arbre sans fueilles, fait paroistre tous les rameaux qui sont à son opposite, si diminuez, qu'ils demeurent presque invisibles ; le mesme effect se verra tenant une picque droitte entre l'œil et le corps solaire. Les corps paralleles plantez droict estant veus dans un broüillard, se doivent monstrer plus gros par le haut que par le pied : on le prouve par la 9e. ‹proposition› qui dit : le broüillard ou l'air espais estant penetré par les rayons du soleil, se monstrera d'autant plus blanc qu'il sera plus bas ; les figures qu'on void de loin paroissent disproportionnées ; et cela vient de ce que la partie plus claire envoye à l'œil son image avec des rayons plus forts que ne fait la partie qui est obscure : et j'ay observé voyant une femme habillée de noir, laquelle avoit sur la teste un linge blanc, que la teste luy paroissoit deux fois plus grosse que les espaules qui estoient vestuës de noir. </p>
       </div1>
       <div1 n="309" type="chapitre" xml:id="C309" xml:lang="fra">
         <head>
@@ -2924,7 +2549,7 @@
         <p xml:id="VIN_TP_C332_P2"><hi rend="capitals"> BIEN </hi> que les longues distances fassent perdre le discernement de beaucoup de choses, neantmoins celles qui seront esclairées du soleil garderont tousjours quelque sorte de sensation, et les autres demeureront enveloppées confusément dans les ombres ; et parce qu'en chaque degré de bassesse, l'air contracte aussi quelque qualité d'espaisseur, les choses donc qui seront plus basses <pb n="114" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f144/full/full/0/native.jpg"/> se montreront plus confuses : et ainsi pour le contraire. Quand le soleil colore de rouge les nuages sur l'horizon, les corps qui par leur distance paroissent de couleur d'azur, participeront de cette rougeur ; de sorte qu'il se fera un meslange entre l'azur et le rouge, qui rendra toute la campagne fort agreable et riante, et toutes les choses denses, lesquelles seront esclairées de cette rougeur, paroistront fort vives à l'œil, et tireront sur le rouge, et l'air qui est transparent de soy, sera tout remply et allumé de cette rougeur, en sorte qu'il semblera de couleur de fleurs de lys jaunes. Tousjours l'air qui est entre la terre et le soleil quand il se leve ou se couche, offusquera plus les corps qui se trouvent dans ce costé-là qu'aucune autre sorte d'air, et cela vient de ce qu'il est plus blancheastre. </p>
         <p xml:id="VIN_TP_C332_P3"><hi rend="capitals"> IL </hi> n'est pas besoin de profiler toutes les extremitez d'un corps auquel un autre sert de champ, mais seulement il devra s'en détacher de luy-mesme. Si le terme ou le contour d'une chose blanche se rencontre au droit d'autres choses blanches, et que sa superficie soit courbe, elle formera un contour obscur de sa nature, et sera l'endroit le plus obscur qu'ait la partie esclairée. Que si elle se rencontre sur un lieu obscur, ce mesme contour paroistra le plus clair endroit qui soit dans la partie esclairée. Une chose se monstrera d'autant plus distante et plus destachée d'une autre, qu'elle aura un champ plus different de sa couleur. Dans les distances les premiers termes des corps qui disparoissent sont ceux qui ont leurs couleurs semblables, et dont le terme de l'un est au droit de l'autre : comme si un chesne est au droit d'un autre chesne semblable. En la seconde plus grande distance, on ne discernera plus les contours des corps de couleurs moyennes se terminans l'un sur l'autre, comme pourroient estre des arbres, des champs labourez, une muraille, ou quelques autres masures et ruines de montagnes, ou des rochers ; enfin on perdra de veuë la forme des corps qui se trouveront confusément l'un parmy l'autre, le clair sur l'obscur, ou bien l'obscur sur le clair. </p>
         <p xml:id="VIN_TP_C332_P4"> Entre les choses d'égale hauteur qui soient placées au dessus de l'œil, celle qui sera plus loin de l'œil paroistra plus basse, et de plusieurs qui seront placées plus bas que l'œil, la plus prés de l'œil se monstrera la plus basse, et les paralleles sur les costez iront concourir au poinct de veuë. Dans les païsages lointains les choses qui sont aux environs des rivieres et des marests, paroissent moins que les autres qui en sont bien esloignées. Entre les corps d'égale épaisseur, ceux qui seront plus voisins de l'œil paroistront plus rares, et les plus distans se monstreront plus épais. L'œil qui aura une plus grande prunelle verra l'object de plus grande forme : l'experience s'en fait en regardant quelque corps celeste par un trou d'aiguille fait dans un papier, lequel ne pouvant admettre qu'une petite portion de la lumiere de ce corps celeste, il semble se diminüer et perdre de sa grandeur apparente, proportionnément selon que le trou par où il est veu est plus petit que son Tout, c'est à dire que celuy de la prunelle de l'œil. L'air épaissi par quelques broüillards qui s'interposent entre l'œil et son object, en rend les contours douteux et confus, et fait que ce mesme object paroist plus grand qu'il n'est en effect : cela provient de ce que la perspective lineale ne diminuë point l'angle visuel qui <pb n="115" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f145/full/full/0/native.jpg"/> porte à l'œil ses especes, et la perspective des couleurs le pousse et renvoye dans une distance apparente plus grande que la veritable ; de sorte que l'une fait retirer loin de l'œil, et l'autre conserve toujours sa grandeur réelle. Quand le soleil est en occident, les grosses vapeurs du soir qui retombent, épaisissent l'air en sorte que tous les corps qui ne sont point veus du soleil demeurent obscurs et confus, et ceux qui sont éclairez par le soleil, tiennent du rouge et du jaune, selon qu'il se monstre sur l'horizon. De plus encore les choses qui en sont illuminées sont tres-visibles, et sur tout les edifices et maisons des villes et les chasteaux de la campagne, parce que leurs ombres sont fort obscures, et il semble que cette visibilité particuliere leur vienne et naisse comme à l'improviste, de la confusion et incertitude de leurs fondements, d'autant que tout ce qui n'est point veu du soleil est d'une mesme couleur. Quand le soleil est à l'occident prés de se coucher, les nuages d'alentour qui se trouvent les plus prés de luy, sont éclairez par dessous du costé qu'il les regarde, et les autres qui sont en deçà deviennent obscurs, mais d'un rouge brun, et s'ils sont legers et transparents ils prennent peu d'ombre. Une chose qui est esclairée par le soleil l'est encore par la lumiere universelle de l'air, si bien qu'il se forme deux sortes d'ombres, dont la plus obscure sera celle qui aura sa ligne centrale directement vers le centre du soleil. Tousjours la ligne centrale de la lumiere primitive et derivative, sera dans le mesme allignement de la centrale de l'ombre primitive et derivative. </p>
-        <p xml:id="VIN_TP_C332_P5"> C'est une agreable chose à voir que le soleil quand il est à son couchant, et qu'il éclaire le haut des maisons des villes et des chasteaux, et la cime des grands arbres parmy la campagne, et qu'il les dore de ses rayons, et que tout le reste en bas demeure presque sans aucun relief, parce que ne recevant de lumiere que de l'air, il y a fort peu de difference entre leur ombre et leur jour : c'est pourquoy ils ont peu de force, et entre ces corps ceux qui s'eslevant davantage sont atteints par les rayons du soleil, participant, comme il a esté dit cydevant, de l'éclat de leur coloris ; tellement que vous devez prendre de la couleur mesme dont vous peignez le soleil, et la mesler dans les teintes de tous les rehauts des autres corps que vous feignez en estre allumez. </p>
+        <p xml:id="VIN_TP_C332_P5"><ptr type="intertextuality" target="#CON_C7_C7SC2_C7SC2S1_P3"/> C'est une agreable chose à voir que le soleil quand il est à son couchant, et qu'il éclaire le haut des maisons des villes et des chasteaux, et la cime des grands arbres parmy la campagne, et qu'il les dore de ses rayons, et que tout le reste en bas demeure presque sans aucun relief, parce que ne recevant de lumiere que de l'air, il y a fort peu de difference entre leur ombre et leur jour : c'est pourquoy ils ont peu de force, et entre ces corps ceux qui s'eslevant davantage sont atteints par les rayons du soleil, participant, comme il a esté dit cydevant, de l'éclat de leur coloris ; tellement que vous devez prendre de la couleur mesme dont vous peignez le soleil, et la mesler dans les teintes de tous les rehauts des autres corps que vous feignez en estre allumez. </p>
         <figure type="gravure"/>
         <p xml:id="VIN_TP_C332_P6"><pb n="116" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f146/full/full/0/native.jpg"/><hi rend="capitals"> IL </hi> arrive encore assez souvent qu'un nuage paroistra obscur sans recevoir aucune ombre d'un autre nuage destaché de luy, et cela arrive selon l'aspect et la situation de l'œil, parce qu'estant prés il en découvre seulement la partie ombreuse, et des autres lieux plus esloignez il void les costez de l'ombre et de la lumiere. Entre les corps d'égale hauteur celuy qui sera plus loin de l'œil luy paroistra le plus bas. Remarquez en la figure suivante que des deux nuages qui y sont representez, bien que le premier plus prés de l'œil soit plus bas que l'autre, neantmoins il paroist estre plus haut, comme on le demonstre sur la paroi (qui est la ligne perpendiculaire A.N.) laquelle fait la section de la pyramide visive du premier et plus bas nuage en M.A. et du second qui est le plus haut en N.M. au dessous de M. A. Il peut arriver aussi par un effet de la perspective aërée, qu'un nuage obscur nous semblera estre plus haut et plus esloigné qu'un autre nuage clair et fortement allumé vers l'horizon par les rayons du soleil levant ou couchant. </p>
         <figure type="schema"/>
@@ -2943,7 +2568,7 @@
           <hi rend="it"> Des champs des Tableaux. </hi>
           <hi rend="capitals">CHAP. CCCXXXIV. </hi>
         </head>
-        <p xml:id="VIN_TP_C334_P1"><hi rend="capitals"> LA </hi> principale et plus necessaire partie au relief de la peinture, est la consideration des champs des figures, sur lesquels les termes ou extremitez des corps naturels, qui ont leur superficie convexement courbe, font toujours connoistre la forme de leur figure, bien que les couleurs des corps soient les mesmes que les couleurs de leur fond ; et cela vient de ce que les termes ou extremitez convexes du corps ne prennent pas leur lumiere de la mesme sorte que leur fond, quoy qu'esclairé par le mesme jour, d' autant que souvent le contour sera plus clair ou plus obscur que le fond sur quoy il est ; mais si il arrive que le contour soit de la couleur du fond mesme, sans doute cette partie de peinture empeschera le discernement de la forme du contour de la figure : et cette rencontre dans la peinture doit estre soigneusement evitée par les peintres judicieux et de bon esprit, pour ce que l'intention d'un peintre est de faire voir que ces figures viennent en deçà hors de leur fond : et en la susdite conjoncture le contraire arrive, non seulement à l'égard de la peinture, mais encore dans les figures qui sont de relief. </p>
+        <p xml:id="VIN_TP_C334_P1"><ptr type="intertextuality" target="#BOS_TPG_C12_C12S_P4"/><ptr type="intertextuality" target="#FEL_E3_L3_E5_P43"/><ptr type="intertextuality" target="#LOM_TP_L1_C1_P4"/><hi rend="capitals"> LA </hi> principale et plus necessaire partie au relief de la peinture, est la consideration des champs des figures, sur lesquels les termes ou extremitez des corps naturels, qui ont leur superficie convexement courbe, font toujours connoistre la forme de leur figure, bien que les couleurs des corps soient les mesmes que les couleurs de leur fond ; et cela vient de ce que les termes ou extremitez convexes du corps ne prennent pas leur lumiere de la mesme sorte que leur fond, quoy qu'esclairé par le mesme jour, d' autant que souvent le contour sera plus clair ou plus obscur que le fond sur quoy il est ; mais si il arrive que le contour soit de la couleur du fond mesme, sans doute cette partie de peinture empeschera le discernement de la forme du contour de la figure : et cette rencontre dans la peinture doit estre soigneusement evitée par les peintres judicieux et de bon esprit, pour ce que l'intention d'un peintre est de faire voir que ces figures viennent en deçà hors de leur fond : et en la susdite conjoncture le contraire arrive, non seulement à l'égard de la peinture, mais encore dans les figures qui sont de relief. </p>
       </div1>
       <div1 n="335" type="chapitre" xml:id="C335" xml:lang="fra">
         <head>
@@ -2978,7 +2603,7 @@
           <hi rend="it"> De la carnation, et de figures esloignées de l'œil. </hi>
           <hi rend="capitals">CHAP. CCCXXXIX.</hi>
         </head>
-        <p xml:id="VIN_TP_C339_P1"><hi rend="capitals"> IL </hi> faut qu'un peintre qui represente des figures et d'autres choses esloignées de l'œil, en esquisse seulement la forme, par une legere esbauche des principales ombres, sans rien terminer, et pour cette espece de figures, il doit choisir un temps nebuleux, et vers le soir, evitant sur tout, comme j'ay dit, les lumieres et les ombres terminées, parce qu'elles viennent à sembler des taches estant veuës de loin, et sont d'une difficile execution et sans grace : et souvenez-vous de ne tenir pas vos ombres si fort obscures, que <pb n="119" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f149/full/full/0/native.jpg"/> par leur noirceur elles noyent et esteignent leur couleur originale, si ce n'estoit que les corps fussent placez en un lieu entierement remply de tenebres, et ne marquez point les profileures des membres ny des cheveux ; ne rehaussez point les jours de blanc tout pur, si ce n'est sur les choses blanches, et que les rehauts fassent connoistre la veritable et parfaitte teinte de la couleur. </p>
+        <p xml:id="VIN_TP_C339_P1"><ptr type="intertextuality" target="#FEL_E2_L2_E4_P267"/><hi rend="capitals"> IL </hi> faut qu'un peintre qui represente des figures et d'autres choses esloignées de l'œil, en esquisse seulement la forme, par une legere esbauche des principales ombres, sans rien terminer, et pour cette espece de figures, il doit choisir un temps nebuleux, et vers le soir, evitant sur tout, comme j'ay dit, les lumieres et les ombres terminées, parce qu'elles viennent à sembler des taches estant veuës de loin, et sont d'une difficile execution et sans grace : et souvenez-vous de ne tenir pas vos ombres si fort obscures, que <pb n="119" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f149/full/full/0/native.jpg"/> par leur noirceur elles noyent et esteignent leur couleur originale, si ce n'estoit que les corps fussent placez en un lieu entierement remply de tenebres, et ne marquez point les profileures des membres ny des cheveux ; ne rehaussez point les jours de blanc tout pur, si ce n'est sur les choses blanches, et que les rehauts fassent connoistre la veritable et parfaitte teinte de la couleur. </p>
       </div1>
       <div1 n="340" type="chapitre" xml:id="C340" xml:lang="fra">
         <head>
@@ -3000,7 +2625,7 @@
           <hi rend="it"> De la maniere de faire paroistre les choses comme en saillie et détachées de leur champ, c'est à dire, du lieu où elles sont peintes. </hi>
           <hi rend="capitals">CHAP. CCCXLII.</hi>
         </head>
-        <p xml:id="VIN_TP_C342_P1"><hi rend="capitals"> LES</hi> choses peintes sur un fond clair et plein de lumiere, monstreront bien un plus grand relief qu'elles ne feroient sur un champ obscur ; c'est pourquoy, si vous voulez que vostre figure ait beaucoup de force et de rondeur, faites en sorte que la partie la plus esloignée du jour en reçoive quelque reflect, parce que si elle demeuroit toute obscure en cette partie, et qu'elle vint à se rencontrer encore dans un champ obscur, les termes de ses contours resteroient confus ; si bien que sans l'aide de quelque reflect tout l'ouvrage demeure sans grace : car de loin on ne discerne que les parties qui sont éclairées ; tellement que les obscures semblent estre du champ <pb n="121" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f151/full/full/0/native.jpg"/> mesme ; et ainsi les choses paroissent couppées et mutilées de tout ce qui va se perdant dans l'obscurité, et n'ont pas tant de relief. </p>
+        <p xml:id="VIN_TP_C342_P1"><ptr type="intertextuality" target="#CON_C7_C7SC2_C7SC2S1_P5"/><ptr type="intertextuality" target="#FEL_E3_L3_E5_P59"/><ptr type="intertextuality" target="#LOM_T_L4_L4C1_P1"/><hi rend="capitals"> LES</hi> choses peintes sur un fond clair et plein de lumiere, monstreront bien un plus grand relief qu'elles ne feroient sur un champ obscur ; c'est pourquoy, si vous voulez que vostre figure ait beaucoup de force et de rondeur, faites en sorte que la partie la plus esloignée du jour en reçoive quelque reflect, parce que si elle demeuroit toute obscure en cette partie, et qu'elle vint à se rencontrer encore dans un champ obscur, les termes de ses contours resteroient confus ; si bien que sans l'aide de quelque reflect tout l'ouvrage demeure sans grace : car de loin on ne discerne que les parties qui sont éclairées ; tellement que les obscures semblent estre du champ <pb n="121" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f151/full/full/0/native.jpg"/> mesme ; et ainsi les choses paroissent couppées et mutilées de tout ce qui va se perdant dans l'obscurité, et n'ont pas tant de relief. </p>
       </div1>
       <div1 n="343" type="chapitre" xml:id="C343" xml:lang="fra">
         <head>
@@ -3035,7 +2660,7 @@
           <hi rend="it"> Du commencement d'une pluye. </hi>
           <hi rend="capitals">CHAP. CCCXLVII. </hi>
         </head>
-        <p xml:id="VIN_TP_C347_P1"><hi rend="capitals"> LORS </hi> que la pluye tombe parmy l'air, elle va l'obscurcissant, et le ternissant d'une couleur triste et plombée, prenant d'un costé la lumiere du soleil, et l'ombre de l'autre, ainsi qu'on remarque sur les nuages, et la terre <pb n="122" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f152/full/full/0/native.jpg"/> devient sombre estant offusquée de cette pluye qui luy dérobe la lumiere du soleil, et les objects qu'on void à travers la pluye paroissent confus et tous informes : et les choses qui seront plus prés de l'œil seront plus aisées à discerner, et on reconnoistra mieux celles qui se trouveront vers le costé où la pluye fait ombre, que de celuy auquel elle est esclairée; et cela vient de ce que les choses qu'on void dans l'ombre de la pluye, ne perdent là que leurs principales lumieres, au lieu que celles que l'on void vers le costé où la pluye est lumineuse perdent la lumiere et l'ombre d'autant que toutes leurs parties lumineuses se confondent parmy la luminosité de l'air, et les ombreuses sont éclairées par la mesme luminosité de l'air esclairé. </p>
+        <p xml:id="VIN_TP_C347_P1"><ptr type="intertextuality" target="#BOS_TPG_C12_S32_P4"/><hi rend="capitals"> LORS </hi> que la pluye tombe parmy l'air, elle va l'obscurcissant, et le ternissant d'une couleur triste et plombée, prenant d'un costé la lumiere du soleil, et l'ombre de l'autre, ainsi qu'on remarque sur les nuages, et la terre <pb n="122" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f152/full/full/0/native.jpg"/> devient sombre estant offusquée de cette pluye qui luy dérobe la lumiere du soleil, et les objects qu'on void à travers la pluye paroissent confus et tous informes : et les choses qui seront plus prés de l'œil seront plus aisées à discerner, et on reconnoistra mieux celles qui se trouveront vers le costé où la pluye fait ombre, que de celuy auquel elle est esclairée; et cela vient de ce que les choses qu'on void dans l'ombre de la pluye, ne perdent là que leurs principales lumieres, au lieu que celles que l'on void vers le costé où la pluye est lumineuse perdent la lumiere et l'ombre d'autant que toutes leurs parties lumineuses se confondent parmy la luminosité de l'air, et les ombreuses sont éclairées par la mesme luminosité de l'air esclairé. </p>
       </div1>
       <div1 n="348" type="chapitre" xml:id="C348" xml:lang="fra">
         <head>
@@ -3056,7 +2681,7 @@
           <hi rend="it"> Autre precepte. </hi>
           <hi rend="capitals">CHAP. CCCL.</hi>
         </head>
-        <p xml:id="VIN_TP_C350_P1"><hi rend="capitals"> TOUSJOURS </hi> le nombril se trouve dans la ligne centrale de l'estomac, qui est depuis le nombril montant en haut ; c'est pourquoy dans la ponderation du corps de l'homme l'on aura autant d'égard à son poids externe ou accidental, comme à son poids naturel : cela se void manifestement lors que la figure estend le bras, d' autant que le poing qui est à l'extremité du bras sert à contrebalancer le poids qui est de l'autre costé, si bien qu'il faut par necessité que la figure en renvoye autant de l'autre costé du nombril, qu'en emporte le poids extraordinaire du bras estendu avec le poing, et il est souvent besoin que pour cét effet le talon se hausse et demeure en l'air. </p>
+        <p xml:id="VIN_TP_C350_P1"><ptr type="intertextuality" target="#ACC_IOP_L3_L3S3_P18"/><hi rend="capitals"> TOUSJOURS </hi> le nombril se trouve dans la ligne centrale de l'estomac, qui est depuis le nombril montant en haut ; c'est pourquoy dans la ponderation du corps de l'homme l'on aura autant d'égard à son poids externe ou accidental, comme à son poids naturel : cela se void manifestement lors que la figure estend le bras, d' autant que le poing qui est à l'extremité du bras sert à contrebalancer le poids qui est de l'autre costé, si bien qu'il faut par necessité que la figure en renvoye autant de l'autre costé du nombril, qu'en emporte le poids extraordinaire du bras estendu avec le poing, et il est souvent besoin que pour cét effet le talon se hausse et demeure en l'air. </p>
       </div1>
       <div1 n="351" type="chapitre" xml:id="C351" xml:lang="fra">
         <head>
@@ -3081,7 +2706,7 @@
           <hi rend="it"> Maniere de colorir sur la toille. </hi>
           <hi rend="capitals">CHAP. CCCLIII.</hi>
         </head>
-        <p xml:id="VIN_TP_C353_P1"><hi rend="capitals">TENDEZ</hi> vostre toille sur un chassis, et luy donnez une legere imprimeure de colle de gans , laquelle estant seiche desseignez vostre tableau et couchez la teinte des carnations avec des broisses, et en mesme temps pendant qu'elle est toute fraische, vous y marquerez les ombres fort douces à vostre maniere. La carnation se fera de blanc, de lacque, et de macicot : la teinte de l'ombre sera composée de noir et de terre d'ombre , ou d'un <pb n="124" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f154/full/full/0/native.jpg"/> peu de lacque si vous voulez avec de la pierre noire. Aprés avoir legerement esbauché vostre tableau laissez-le seicher, puis vous l'irez retouchant à sec, avec de la lacque destrempée dans de l'eau de gomme, et qui ait esté gardée long-temps en cette eau de gomme, parce qu'ainsi elle est d'un meilleur usage, et ne porte point de lustre estant mise en œuvre. Pour faire encore vos ombres plus noires, prenez de la lacque susdite destrempée avec de l'e ncre gommée ; et de cette teinte vous pourrez ombrer plusieurs couleurs, parce qu'elle est transparente, et elle sera fort bonne pour donner les ombres à l'azur, à la lacque, au vermillon , et à quelques autres semblables couleurs. </p>
+        <p xml:id="VIN_TP_C353_P1"><ptr type="intertextuality" target="#FEL_PASP_principes_L1_L1C21_L1C21S1_P26"/><hi rend="capitals">TENDEZ</hi> vostre toille sur un chassis, et luy donnez une legere imprimeure de colle de gans , laquelle estant seiche desseignez vostre tableau et couchez la teinte des carnations avec des broisses, et en mesme temps pendant qu'elle est toute fraische, vous y marquerez les ombres fort douces à vostre maniere. La carnation se fera de blanc, de lacque, et de macicot : la teinte de l'ombre sera composée de noir et de terre d'ombre , ou d'un <pb n="124" facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b86207616/f154/full/full/0/native.jpg"/> peu de lacque si vous voulez avec de la pierre noire. Aprés avoir legerement esbauché vostre tableau laissez-le seicher, puis vous l'irez retouchant à sec, avec de la lacque destrempée dans de l'eau de gomme, et qui ait esté gardée long-temps en cette eau de gomme, parce qu'ainsi elle est d'un meilleur usage, et ne porte point de lustre estant mise en œuvre. Pour faire encore vos ombres plus noires, prenez de la lacque susdite destrempée avec de l'e ncre gommée ; et de cette teinte vous pourrez ombrer plusieurs couleurs, parce qu'elle est transparente, et elle sera fort bonne pour donner les ombres à l'azur, à la lacque, au vermillon , et à quelques autres semblables couleurs. </p>
       </div1>
       <div1 n="354" type="chapitre" xml:id="C354" xml:lang="fra">
         <head>
