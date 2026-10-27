@@ -1,0 +1,58 @@
+{
+  "id": "AndreaCalamechEgliseSanNiccoloDeiGentiluominiMessine",
+  "QID_wikidata": "",
+  "entry_type": "building",
+  "title": "Église de SanNiccolo Dei Gentiluomini",
+  "creator": [
+    {
+      "xml_id": "AndreaCalamech",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1574,
+    "endYear": 1583,
+    "text": "1574-1583"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Messine",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "chilleTraAssenzaPresenza2007",
+      "location": ""
+    }
+  ],
+  "illustrations": [],
+  "description": "Démolie en 1908 à la suite du séisme.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-01T15:30:52.336611",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-03T13:43:29.973628",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-22T15:15:49.733697",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "église",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,82 @@
+{
+  "id": "JoachimVonSandrartDouzeMoisGraves",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série gravée des Douze mois ",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "CornelisVanDalenII",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JeremiasFalck",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "AlbertHaelwegh",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "TheodorMatham",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "ReinierVanPersijn",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JonasSuyderhoef",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1687,
+    "endYear": 1687,
+    "text": "1687"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "JoachimVonSandrartDouzeMois"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De_twaalf_maanden%2C_RP-P-2007-152.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Domaine public, Mr.Nostalgic, (https://commons.wikimedia.org/wiki/File:De_twaalf_maanden,_RP-P-2007-152.jpg 1687)",
+      "caption": "Amsterdam, Rijksmuseum, inv. RP-P-2007-152, (https://id.rijksmuseum.nl/200490404)"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-14T18:34:25.169611",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T18:41:05.236629",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T18:41:32.543131",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}

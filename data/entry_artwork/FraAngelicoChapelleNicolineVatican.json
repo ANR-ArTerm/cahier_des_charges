@@ -1,0 +1,84 @@
+{
+  "id": "FraAngelicoChapelleNicolineVatican",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q249973",
+  "entry_type": "artwork",
+  "title": "Fresques de la chapelle Nicoline",
+  "creator": [
+    {
+      "xml_id": "FraAngelico",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1447,
+    "endYear": 1448,
+    "text": "1447-1448"
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Vatican, Palais apostolique",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "buranelliBeatoAngelicoCappella2001",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Angelico%2C_niccolina_27.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 1,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Angelico%2C_niccolina_08.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Angelico%2C_niccolina_03.jpg?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "copyright": "Public domain",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-14T10:18:00.342393",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T16:33:08.120687",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-17T16:34:19.234667",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:45:32.708119",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

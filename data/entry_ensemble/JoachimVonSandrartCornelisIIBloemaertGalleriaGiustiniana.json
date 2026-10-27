@@ -1,0 +1,67 @@
+{
+  "id": "JoachimVonSandrartCornelisIIBloemaertGalleriaGiustiniana",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q131764600",
+  "entry_type": "ensemble",
+  "title": "La  Galleria Giustiniana",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "CornelisIIBloemaert",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1630,
+    "endYear": 1631,
+    "text": "Vers 1631"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": "copié d'après",
+      "xml_id_work": "GalleriaGiustiniana"
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Liggende_vrouw_met_putto_Galleria_Giustiniana_del_Marchese_Vincenzo_Giustiniani_I_%28serietitel%29%2C_RP-P-2015-3-89.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, CC0 1.0, Mr.Nostalgic, (https://commons.wikimedia.org/wiki/File:Liggende_vrouw_met_putto_Galleria_Giustiniana_del_Marchese_Vincenzo_Giustiniani_I_(serietitel),_RP-P-2015-3-89.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Gallica BNF, Consultable en ligne (https://gallica.bnf.fr/ark:/12148/btv1b73003561/f165.item.zoom#)\n",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-06-10T16:48:33.341232",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:09:17.312099",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-09-24T20:33:57.366517",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T20:36:17.409377",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 1,
+  "typology": "suite d'estampes",
+  "contains_works": []
+}

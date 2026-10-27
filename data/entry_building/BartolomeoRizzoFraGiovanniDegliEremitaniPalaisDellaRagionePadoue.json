@@ -1,0 +1,75 @@
+{
+  "id": "BartolomeoRizzoFraGiovanniDegliEremitaniPalaisDellaRagionePadoue",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2517428",
+  "entry_type": "building",
+  "title": "Palazzo della Ragione à Padoue",
+  "creator": [
+    {
+      "xml_id": "FraGiovanniDegliEremitani",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BartolomeoRizzo",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1218,
+    "endYear": 1440,
+    "text": "1218-1440"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Padoue",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "45.407222222",
+        "longitude": "11.875277777"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "vioPalazzoRagioneDi2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Exterior_of_Palazzo_della_Ragione_%28Padua%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4, Didier Descouens (https://commons.wikimedia.org/wiki/File:Exterior_of_Palazzo_della_Ragione_(Padua).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-30T15:46:02.276511",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-03T09:51:39.617479",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-03T09:53:15.114112",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:59:17.795992",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "BasiliqueCivile",
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

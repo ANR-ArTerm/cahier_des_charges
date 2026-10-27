@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelSainteFamillePalmierNGScotlandEdimbourg",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3212679",
+  "entry_type": "artwork",
+  "title": "La Sainte Famille au palmier",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1506,
+    "endYear": 1506,
+    "text": "1506"
+  },
+  "materialsAndTechniques": "huile sur bois transposée sur toile",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "NationalGalleryofScotland",
+      "place": "Édimbourg",
+      "inventory_number": "NGL 062.46",
+      "url": "https://www.nationalgalleries.org/art-and-artists/8672"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2001",
+      "location": "n° 32"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Raphael_The_Holy_Family_with_a_Palm_Tree.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Raphael_The_Holy_Family_with_a_Palm_Tree.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.170173",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T11:44:58.747014",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:48:16.255433",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

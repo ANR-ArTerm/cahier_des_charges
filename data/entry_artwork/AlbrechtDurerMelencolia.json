@@ -1,0 +1,69 @@
+{
+  "id": "AlbrechtDurerMelencolia",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1362177",
+  "entry_type": "artwork",
+  "title": "Melencolia I",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1514,
+    "endYear": 1514,
+    "text": "1514"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 127-129"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dürer_Melancholia_I.jpg/1280px-Dürer_Melancholia_I.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:29:11.134167",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-05-11T16:11:00.818491",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-17T11:28:56.041875",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-18T17:15:58.113967",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T15:52:04.539045",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {},
+  "status_entry": 0,
+  "typology": "Estampe"
+}

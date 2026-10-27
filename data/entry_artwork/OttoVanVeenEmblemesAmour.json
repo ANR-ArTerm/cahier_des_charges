@@ -1,0 +1,75 @@
+{
+  "id": "OttoVanVeenEmblemesAmour",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q61984569",
+  "entry_type": "artwork",
+  "title": "Emblèmes de l'Amour ou Amorum Emblemata",
+  "creator": [
+    {
+      "xml_id": "OttoVanVeen",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1608,
+    "endYear": 1608,
+    "text": "1608"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Otto_van_Veen_-_Amorum_emblemata_025-cupido-ok-94-38.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "copyright": "Wikimedia Commons, domaine public, Jane023 (https://commons.wikimedia.org/wiki/File:Otto_van_Veen_-_Amorum_emblemata_025-cupido-ok-94-38.jpg?uselang=fr)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-26T17:31:57.392614",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:15:34.793461",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-07-06T10:15:44.113299",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-09-16T18:21:26.885649",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-16T18:33:10.385152",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T12:01:39.333253",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-22T12:32:41.577324",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "typology": "Estampe",
+  "status_entry": 3,
+  "contains_works": [],
+  "materialsAndTechniques": "gravure sur cuivre",
+  "contained_by_ensemble": {}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "PierreDeCortoneEgliseSaintLucEtMartineRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1813867",
+  "entry_type": "building",
+  "title": "Eglise de Saint-Luc-et-Martine",
+  "creator": [
+    {
+      "xml_id": "PierreDeCortone",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 600,
+    "endYear": 1664,
+    "text": "VIIe siècle-1664"
+  },
+  "typology": "église",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "noehlesChiesaSSLuca1969",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Santi_Luca_e_Martina_%28Rome%29_%282%29.jpg",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, Diana Ringo (https://commons.wikimedia.org/wiki/File:Santi_Luca_e_Martina_(Rome)_(2).jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2025-12-09 15:06:52",
+      "type": "created",
+      "author": "Julia"
+    },
+    {
+      "date": "2026-06-08T10:09:56.113786",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T13:28:48.063740",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {}
+}

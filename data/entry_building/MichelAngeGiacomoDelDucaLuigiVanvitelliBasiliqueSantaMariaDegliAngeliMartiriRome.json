@@ -1,0 +1,84 @@
+{
+  "id": "MichelAngeGiacomoDelDucaLuigiVanvitelliBasiliqueSantaMariaDegliAngeliMartiriRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q569253",
+  "entry_type": "building",
+  "title": "Basilique de Santa Maria Degli Angeli Martiri",
+  "creator": [
+    {
+      "xml_id": "MichelAnge",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiacomoDelDuca",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LuigiVanvitelli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1562,
+    "endYear": 1750,
+    "text": "1562-1750"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "pisaniBasilicaDiSanta2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Basilica_di_Santa_Maria_degli_Angeli_e_dei_Martiri_-_22-11-2019.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA, Gustavo La Pizza (https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Maria_degli_Angeli_e_dei_Martiri_-_22-11-2019.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-08T16:54:41.566924",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-08T16:56:25.182766",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-04-09T11:56:08.501436",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-10T10:39:50.397646",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T17:57:40.628498",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

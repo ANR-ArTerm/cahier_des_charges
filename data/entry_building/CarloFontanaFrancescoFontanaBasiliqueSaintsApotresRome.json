@@ -1,0 +1,78 @@
+{
+  "id": "CarloFontanaFrancescoFontanaBasiliqueSaintsApotresRome",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1515300",
+  "entry_type": "building",
+  "title": "Basilique des Saints-Apôtres",
+  "creator": [
+    {
+      "xml_id": "CarloFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "FrancescoFontana",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LudovicoRusconiSassi",
+      "role": "architecte"
+    },
+    {
+      "xml_id": " NicolaMichetti",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1348,
+    "endYear": 1702,
+    "text": "1348-1702"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Rome",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "41.898105555",
+        "longitude": "12.483205555"
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "gattiBasilicaSantiXII1988",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Basilica_dei_Santi_Apostoli_%28Rome%29.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Monticiano (https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Apostoli_(Rome).jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-23T10:48:07.236450",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-05-28T15:55:30.140777",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-23T19:05:55.070517",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "basilique",
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

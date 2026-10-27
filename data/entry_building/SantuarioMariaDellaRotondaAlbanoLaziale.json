@@ -1,0 +1,61 @@
+{
+  "id": "SantuarioMariaDellaRotondaAlbanoLaziale",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3950079",
+  "entry_type": "building",
+  "title": "Santuario di Santa Maria della Rotonda",
+  "creator": [],
+  "dateCreated": {
+    "startYear": 0,
+    "endYear": 1060,
+    "text": "Ie siècle-1060"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Albano Laziale",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "apaSantaMariaRotonda1985",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rotonda-Albano-2020-2.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 4.0, Edoardo Scialis (https://commons.wikimedia.org/wiki/File:Rotonda-Albano-2020-2.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-04-22T11:39:30.102664",
+      "type": "created",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-06-08T15:38:27.070061",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T19:05:41.253840",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": null,
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

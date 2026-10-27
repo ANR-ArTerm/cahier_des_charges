@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelViergeLoretteMuseeCondeChantilly",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q2427320",
+  "entry_type": "artwork",
+  "title": "La Vierge de Lorette",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1511,
+    "endYear": 1512,
+    "text": "1511-1512"
+  },
+  "materialsAndTechniques": "huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Musée Condé",
+      "place": "Chantilly",
+      "inventory_number": "68",
+      "url": "https://chateaudechantilly.fr/en/categ-collection/paintings/the-madonna-of-loreto/"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2005",
+      "location": "n° 51"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rapha%C3%ABl_-_La_Madone_de_Lorette_-_Google_Art_Project.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_-_La_Madone_de_Lorette_-_Google_Art_Project.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.240346",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-07-01T14:15:53.920282",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:33:31.818168",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

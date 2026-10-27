@@ -1,0 +1,64 @@
+{
+  "id": "AlbrechtDurerSaintEustache",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3948861",
+  "entry_type": "artwork",
+  "title": "Saint Eustache",
+  "creator": [
+    {
+      "xml_id": "AlbrechtDurer",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1501,
+    "endYear": 1501,
+    "text": "Vers 1501"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "faraInventarioGeneraleStampe2007",
+      "location": "pp. 101-105"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Durer%2C_sant%27eustachio.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "storage": "online",
+      "copyright": "Public domain",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-03T17:07:01.490277",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-17T11:32:48.235645",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-18T17:13:51.440631",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T15:51:03.518855",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "gravure",
+  "contained_by_ensemble": {},
+  "status_entry": 0,
+  "typology": "Estampe"
+}

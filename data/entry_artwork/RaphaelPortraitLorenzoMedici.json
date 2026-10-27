@@ -1,0 +1,59 @@
+{
+  "id": "RaphaelPortraitLorenzoMedici",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3399434",
+  "entry_type": "artwork",
+  "title": "Portrait de Lorenzo de' Medici",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1516,
+    "endYear": 1519,
+    "text": "1516-1519"
+  },
+  "materialsAndTechniques": "huile sur toile",
+  "location": {
+    "type": "unlocated"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° 80"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Portrait_of_Lorenzo_di_Medici.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "copyright": "Wikimédia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_di_Medici.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Adjugé à Londres en 2007 lors d'une vente aux enchères chez Christie's, emplacement actuel inconnu.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.291788",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:18:30.958927",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:25:27.452839",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

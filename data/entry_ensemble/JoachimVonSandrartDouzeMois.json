@@ -1,0 +1,51 @@
+{
+  "id": "JoachimVonSandrartDouzeMois",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Série des Douze mois",
+  "creator": [
+    {
+      "xml_id": "JoachimVonSandrart",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1645,
+    "endYear": 1645,
+    "text": "1645"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-10-14T16:56:45.803103",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T17:20:51.034356",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-10-14T18:42:19.418336",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "cycle de peintures",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "JoachimVonSandrartDouzeMoisJanvier",
+      "link_types_contained": null
+    }
+  ]
+}

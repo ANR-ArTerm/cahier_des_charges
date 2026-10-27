@@ -1,0 +1,74 @@
+{
+  "id": "PierreDAngicourtPierreDeChaulEgliseSanDomenicoMaggioreNaples",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q897603",
+  "entry_type": "building",
+  "title": "Église San Domenico Maggiore",
+  "creator": [
+    {
+      "xml_id": "PierreDeChaul",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "PierreDAngicourt",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1283,
+    "endYear": 1324,
+    "text": "1283-1324"
+  },
+  "typology": "église",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Naples",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "darbitrioSanDomenicoMaggiore2001",
+      "location": ""
+    },
+    {
+      "zotero_key": "romanoChieseDiSan2005",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/ChiesaSanDomenicoMaggiore.JPG",
+      "copyright": "Wikimédia Commons, CC BY-SA 3.0, IlSistemone (https://commons.wikimedia.org/wiki/File:ChiesaSanDomenicoMaggiore.JPG)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Rénovations entre le XVIe et XVIIe siècle",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.273760",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T11:29:20.820767",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T16:41:37.679284",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {}
+}

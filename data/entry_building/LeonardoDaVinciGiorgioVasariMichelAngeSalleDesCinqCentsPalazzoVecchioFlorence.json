@@ -1,0 +1,104 @@
+{
+  "id": "LeonardoDaVinciGiorgioVasariMichelAngeSalleDesCinqCentsPalazzoVecchioFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q234364",
+  "entry_type": "building",
+  "title": "Salle des Cinq-Cents, Palazzo Vecchio",
+  "creator": [
+    {
+      "xml_id": "ArnolfoDiCambio",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    },
+    {
+      "xml_id": "LeonardoDaVinci",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "MichelAnge",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "JanVanDerStraet",
+      "role": "peintre"
+    },
+    {
+      "xml_id": null,
+      "role": "architecte"
+    },
+    {
+      "xml_id": "BaccioBandinelli",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1495,
+    "endYear": 1543,
+    "text": "1495-1543"
+  },
+  "typology": "salle",
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Florence",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "mucciniSaloneCinquecentoPalazzo1990a",
+      "location": ""
+    },
+    {
+      "zotero_key": "barsantiSalaGrandeDi2019a",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Firenze-palazzo_vecchio_24.jpg",
+      "copyright": "Wikimedia Commons, CC BY-SA 2.5, Bradley Grzesiak (https://commons.wikimedia.org/wiki/File:Firenze-palazzo_vecchio_24.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-20T11:47:35.422574",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-08T11:15:59.360923",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-08T11:19:17.903297",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-10T18:21:37.394388",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-10T19:46:37.356779",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {}
+}

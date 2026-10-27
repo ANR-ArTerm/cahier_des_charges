@@ -1,0 +1,74 @@
+{
+  "id": "RaphaelSadelerJanSadelerMaertenDeVosErmites",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Les ermites ou Sylvae sacrae monumenta anachoretarum",
+  "creator": [
+    {
+      "xml_id": "RaphaelSadeler",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "JanSadeler",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1593,
+    "endYear": 1594,
+    "text": "1593-1594"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [],
+  "illustrations": [],
+  "description": "Cette série est une suite de 29 pièces.\n",
+  "commentary": "https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/egidius-d-apres-martin-de-vos#infos-principales pour images ?\n",
+  "history": [
+    {
+      "date": "2026-06-26T11:42:11.801727",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T11:51:53.346104",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-26T11:55:18.608342",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:27:21.759492",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-01T14:46:00.218952",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:00:02.911477",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "suite d'estampes",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "JanSadelerJacobSylvaeSacraeMET",
+      "link_types_contained": null
+    }
+  ]
+}

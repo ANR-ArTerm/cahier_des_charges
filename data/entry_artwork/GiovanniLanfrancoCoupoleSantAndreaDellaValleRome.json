@@ -1,0 +1,75 @@
+{
+  "id": "GiovanniLanfrancoCoupoleSantAndreaDellaValleRome",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Coupole de Sant'Andrea della Valle Gloire du Paradis",
+  "creator": [
+    {
+      "xml_id": "GiovanniLanfranco",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1621,
+    "endYear": 1625,
+    "text": "1621-1625"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Eglise Sant'Andrea della Valle",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "costamagnaSantAndreaValle2003a",
+      "location": "pp. 195-248"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sant%27andrea_della_valle%2C_cupola_del_lanfranco%2C_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original&uselang=fr",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, CC BY-SA 3.0, Sailko, https://commons.wikimedia.org/wiki/File:Sant%27andrea_della_valle,_cupola_del_lanfranco,_02.JPG?uselang=fr",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-05T18:35:09.796304",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-05-06T14:44:50.247668",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-18T09:28:00.994602",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-06-22T11:13:02.066457",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-27T17:35:28.074380",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "materialsAndTechniques": "fresque",
+  "contained_by_ensemble": {},
+  "status_entry": 0,
+  "typology": "Peinture"
+}

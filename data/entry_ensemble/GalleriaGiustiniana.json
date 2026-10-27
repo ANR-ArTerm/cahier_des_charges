@@ -37,6 +37,26 @@
       "date": "2026-06-10T16:27:11.811338",
       "type": "modified",
       "author": "Carla"
+    },
+    {
+      "date": "2026-07-06T10:03:59.589102",
+      "type": "modified",
+      "author": "Nicolo"
+    },
+    {
+      "date": "2026-09-24T20:27:05.626101",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T20:35:07.394406",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-24T20:36:55.723224",
+      "type": "modified",
+      "author": "Carla"
     }
   ],
   "typology": "collection d'œuvres",
@@ -47,5 +67,5 @@
       "link_types_contained": null
     }
   ],
-  "status_entry": 0
+  "status_entry": 1
 }

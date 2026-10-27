@@ -1,0 +1,73 @@
+{
+  "id": "GiorgioVasariVincenzoBorghiniStudioloFrancoisIMedicisPalazzoVecchioFlorence",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1089115",
+  "entry_type": "ensemble",
+  "title": "Studiolo de François Ier de Médicis",
+  "creator": [
+    {
+      "xml_id": "VincenzoBorghini",
+      "role": "auteur du modèle"
+    },
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1570,
+    "endYear": 1572,
+    "text": "1570-1572"
+  },
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Palazzo Vecchio",
+      "place": "Florence",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [
+    {
+      "link_type": "fait partie de",
+      "xml_id_work": "PalazzoVecchioFlorence"
+    }
+  ],
+  "bibliography": [
+    {
+      "zotero_key": "conticelliStudioloDiFrancesco2024",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Vista_del_Studiolo_de_Francisco_I.jpg",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, domaine public, MenkinAlRire, (https://commons.wikimedia.org/wiki/File:Vista_del_Studiolo_de_Francisco_I.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-05-19T16:29:25.311515",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-07-03T16:35:01.165552",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T16:09:35.884678",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "ensemble décoratif",
+  "contains_works": []
+}

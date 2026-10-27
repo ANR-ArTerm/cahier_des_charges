@@ -1,0 +1,78 @@
+{
+  "id": "AdriaenCollaertMaertenDeVosVieChrist",
+  "QID_wikidata": "",
+  "entry_type": "ensemble",
+  "title": "Dessins de la vie du Christ ou Vita, Passio, et Resurrectio Jesu Christi.",
+  "creator": [
+    {
+      "xml_id": "MaertenDeVos",
+      "role": "auteur du texte"
+    },
+    {
+      "xml_id": "AdriaenCollaert",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1598,
+    "endYear": 1598,
+    "text": "Vers 1598"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [
+    {
+      "link_type": "appartient au même ensemble",
+      "xml_id_work": null
+    }
+  ],
+  "bibliography": [],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/75368ce2_8dc3_4d75_914c_a3bc0102be8d/mid_00428682_001.jpg",
+      "storage": "online",
+      "copyright": "© The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence, ",
+      "caption": "Frontispice du recueil, Londres, British Museum, inv. 1929,0416.45, (https://www.britishmuseum.org/collection/object/P_1929-0416-45)"
+    }
+  ],
+  "description": "Il s'agit du frontispice d'une série de cinquante et une planches. Un ensemble complet relié est conservé au British Museum sous la cote BM 157*a.27.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-09-01T15:37:03.752893",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:46:11.279193",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T15:48:01.176454",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T16:11:44.803949",
+      "type": "modified",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-09-01T16:16:48.700654",
+      "type": "modified",
+      "author": "Carla"
+    }
+  ],
+  "status_entry": 0,
+  "typology": "suite d'estampes",
+  "contains_works": [
+    {
+      "link_type": "appartient à l'ensemble",
+      "xml_id_work": "MaertenDeVosAdriaenCollaertMiracleChristMerGalilee",
+      "link_types_contained": null
+    }
+  ]
+}

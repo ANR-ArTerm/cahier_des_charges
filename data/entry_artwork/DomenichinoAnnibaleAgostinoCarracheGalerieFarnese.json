@@ -1,0 +1,78 @@
+{
+  "id": "DomenichinoAnnibaleAgostinoCarracheGalerieFarnese",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q7749083",
+  "entry_type": "artwork",
+  "title": "Fresques de la Galerie Farnese",
+  "creator": [
+    {
+      "xml_id": "AnnibaleCarracci",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "AgostinoCarracci",
+      "role": "peintre"
+    },
+    {
+      "xml_id": "Domenichino",
+      "role": "peintre"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1597,
+    "endYear": 1607,
+    "text": "1597-1607"
+  },
+  "materialsAndTechniques": "fresque",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "PalaisFarnese",
+      "place": "Rome",
+      "inventory_number": "",
+      "url": ""
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "ginzburgcarignaniGalleriaFarneseAffreschi2008",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Volta_della_Galleria_Farnese_dopo_il_restauro_del_2015.jpg",
+      "copyright": "Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Volta_della_Galleria_Farnese_dopo_il_restauro_del_2015.jpg)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.379883",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-04-15T12:07:16.460972",
+      "type": "modified",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-10T15:45:01.161828",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T15:53:28.282334",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "contained_by_ensemble": {},
+  "status_entry": 0,
+  "typology": "Peinture"
+}

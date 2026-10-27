@@ -1,0 +1,65 @@
+{
+  "id": "RaphaelPortraitGiulianoMediciMET",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Portrait de Giuliano de' Medici",
+  "creator": [
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": null,
+    "endYear": null,
+    "text": "XVIe siècle"
+  },
+  "materialsAndTechniques": "Tempera et huile sur bois",
+  "location": {
+    "type": "holding_institution",
+    "institution": {
+      "name": "Metropolitan Museum of Arts",
+      "place": "New York",
+      "inventory_number": "49.7.12",
+      "url": "https://www.metmuseum.org/fr/art/collection/search/437373"
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "meyerzurcapellenRaphaelCriticalCatalogue2008",
+      "location": "n° A22"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://images.metmuseum.org/CRDImages/ep/original/DP265692.jpg",
+      "copyright": "MET, Public Domain (https://www.metmuseum.org/art/collection/search/437373)",
+      "caption": "",
+      "storage": "online"
+    }
+  ],
+  "description": "Ce tableau est une copie ancienne d'un portrait réalisé par Raphaël représentant Giuliano de Médicis.",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-01-15T16:40:40.294568",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-30T10:23:41.130140",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-31T12:01:09.740235",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "contained_by_ensemble": {},
+  "typology": "Peinture"
+}

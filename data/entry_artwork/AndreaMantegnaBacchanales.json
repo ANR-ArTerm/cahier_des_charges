@@ -1,0 +1,68 @@
+{
+  "id": "AndreaMantegnaBacchanales",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q3632482",
+  "entry_type": "artwork",
+  "title": "Bacchanales",
+  "creator": [
+    {
+      "xml_id": "AndreaMantegna",
+      "role": "graveur"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1475,
+    "endYear": 1480,
+    "text": "1475-1480"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "martineauAndreaMantegna1992",
+      "location": "p. 278"
+    },
+    {
+      "zotero_key": "lightbrownMantegnaCompleteCatalogue1986",
+      "location": "n° 208-209"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mantegna%2C_baccanale_con_un_tino.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original",
+      "storage": "online",
+      "copyright": "Wikimedia Commons, Public Domain (https://commons.wikimedia.org/wiki/File:Mantegna,_baccanale_con_un_tino.jpg)",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-03-06T14:48:18.466330",
+      "type": "created",
+      "author": "Pierre"
+    },
+    {
+      "date": "2026-06-11T18:30:19.609014",
+      "type": "modified",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-06-15T16:30:00.701492",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-21T16:51:40.286095",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 0,
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {},
+  "typology": "Estampe"
+}

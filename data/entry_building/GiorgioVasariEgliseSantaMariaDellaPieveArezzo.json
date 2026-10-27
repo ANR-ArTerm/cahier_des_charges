@@ -1,0 +1,70 @@
+{
+  "id": "GiorgioVasariEgliseSantaMariaDellaPieveArezzo",
+  "QID_wikidata": "https://www.wikidata.org/wiki/Q1475948",
+  "entry_type": "building",
+  "title": "Église Santa Maria della Pieve",
+  "creator": [
+    {
+      "xml_id": "GiorgioVasari",
+      "role": "architecte"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1009,
+    "endYear": 1563,
+    "text": "1009-1563"
+  },
+  "location": {
+    "type": "place",
+    "place": {
+      "city": "Arezzo",
+      "country": "Italie",
+      "coordinates": {
+        "latitude": "",
+        "longitude": ""
+      }
+    }
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "tafiPieveDiMaria1994",
+      "location": ""
+    },
+    {
+      "zotero_key": "cortoniVoltoPieveRestauri2025",
+      "location": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "id": 0,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Igreja_Santa_Maria_della_Pieve_Arezzo.jpg",
+      "storage": "online",
+      "copyright": "CC BY-SA 3.0, Tetraktys, https://commons.wikimedia.org/wiki/File:Igreja_Santa_Maria_della_Pieve_Arezzo.jpg",
+      "caption": ""
+    }
+  ],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-02-23T17:18:23.936743",
+      "type": "created",
+      "author": "Carla"
+    },
+    {
+      "date": "2026-06-01T14:22:21.715779",
+      "type": "modified",
+      "author": "Jules"
+    },
+    {
+      "date": "2026-07-24T18:10:01.283220",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "typology": "église",
+  "contained_by_ensemble": {},
+  "status_entry": 0
+}

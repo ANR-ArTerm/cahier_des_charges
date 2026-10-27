@@ -1,0 +1,50 @@
+{
+  "id": "MarcoDaRavennaRaphaelLaocoon",
+  "QID_wikidata": "",
+  "entry_type": "artwork",
+  "title": "Laocoon",
+  "creator": [
+    {
+      "xml_id": "MarcoDaRavenna",
+      "role": "graveur"
+    },
+    {
+      "xml_id": "Raphael",
+      "role": "auteur du modèle"
+    }
+  ],
+  "dateCreated": {
+    "startYear": 1515,
+    "endYear": 1520,
+    "text": "1515-1520"
+  },
+  "location": {
+    "type": "multiple_locations"
+  },
+  "related_works": [],
+  "bibliography": [
+    {
+      "zotero_key": "imolesipozziMarcoDenteIncisore2008",
+      "location": "p. 69"
+    }
+  ],
+  "illustrations": [],
+  "description": "",
+  "commentary": "",
+  "history": [
+    {
+      "date": "2026-07-17T17:54:59.259353",
+      "type": "created",
+      "author": "Elisa"
+    },
+    {
+      "date": "2026-07-20T16:34:30.306842",
+      "type": "modified",
+      "author": "Elisa"
+    }
+  ],
+  "status_entry": 2,
+  "typology": "Estampe",
+  "materialsAndTechniques": "burin",
+  "contained_by_ensemble": {}
+}
